@@ -1,0 +1,739 @@
+﻿no,word,ipa,pos,chinese,example_en,example_zh,topics,toeic_rank,source
+1,mister,ˈmɪstər,n.,先生（Mr. 的全寫；口語稱呼男士）,"Excuse me, mister, is this your access badge?",先生，不好意思，這是你的門禁卡嗎？,人物與家庭,1,TSL
+2,e-book,ˈiˌbʊk,n.,電子書,The e-book is cheaper than the printed version.,電子書比紙本版便宜。,電腦與網路、學習與語言,4,TSL
+3,memo,ˈmɛmoʊ,n.,備忘錄；內部通知,The manager sent a memo about the new shift schedule.,經理發了一份關於新排班表的備忘錄。,工作與會議,6,TSL
+4,reservation,ˌrɛzərˈveɪʃən,n.,預訂；預約,I made a hotel reservation for the training trip.,我為這次受訓出差訂好了飯店。,交通與旅行、飲食,7,TSL
+5,o'clock,əˈklɑk,adv.,…點鐘,The night shift starts at eleven o'clock.,夜班十一點開始。,時間與日期,10,TSL
+6,sincerely,sɪnˈsɪrli,adv.,真誠地；（書信結尾）敬上,I sincerely apologize for the late reply.,對於這麼晚才回覆，我深感抱歉。,情緒與溝通、工作與會議,11,TSL
+7,brochure,broʊˈʃʊr,n.,（宣傳）小冊子；簡介,The vendor left a brochure about the new UPS.,廠商留下了一份新 UPS 的簡介手冊。,商業與金錢、工作與會議,20,TSL
+8,accountant,əˈkaʊntənt,n.,會計師；會計人員,Please send the invoice to our accountant.,請把發票寄給我們的會計。,工作與會議、商業與金錢,22,TSL
+9,enclose,ɪnˈkloʊz,v.,隨函附上；圍住,Please enclose a copy of your ID card.,請隨附一份你的身分證影本。,工作與會議,27,TSL
+10,applicant,ˈæplɪkənt,n.,申請人；應徵者,Each applicant must pass a safety test.,每位應徵者都必須通過安全測驗。,工作與會議、人物與家庭,28,TSL
+11,seminar,ˈsɛməˌnɑr,n.,研討會；講座,We will attend a seminar on battery safety.,我們會參加一場電池安全研討會。,工作與會議、學習與語言,29,TSL
+12,technician,tɛkˈnɪʃən,n.,技術員；技師,The technician will arrive at 3 p.m.,技術員下午三點會到。,工作與會議、人物與家庭,30,TSL
+13,traveler,ˈtrævələr,n.,旅客；旅行者,"As a business traveler, I always keep my receipts.",身為商務旅客，我都會保留收據。,交通與旅行、人物與家庭,34,TSL
+14,caller,ˈkɔlər,n.,來電者；打電話的人,Ask the caller for their name and number.,請問來電者的姓名和電話。,工作與會議、人物與家庭,35,TSL
+15,infer,ɪnˈfər,v.,推論；推斷（從已知資訊得出結論）,What can you infer from the second email?,從第二封電子郵件中，你可以推論出什麼？,學習與語言,39,TSL
+16,waiter,ˈweɪtər,n.,服務生；侍者,Let's ask the waiter for the check.,我們跟服務生要帳單吧。,飲食、人物與家庭,40,TSL
+17,cafeteria,ˌkæfəˈtɪriə,n.,自助餐廳；員工餐廳,The cafeteria is closed during the night shift.,夜班時段員工餐廳不營業。,飲食、工作與會議,43,TSL
+18,attendant,əˈtɛndənt,n.,服務人員（flight attendant 空服員）,Ask the flight attendant if you need help.,需要幫忙的話，可以找空服員。,交通與旅行、人物與家庭,52,TSL
+19,contradict,ˌkɑntrəˈdɪkt,v.,與…矛盾；反駁,The alarm log seems to contradict the night shift report.,警報紀錄似乎和夜班報告互相矛盾。,情緒與溝通、學習與語言,66,TSL
+20,inference,ˈɪnfərəns,n.,推論；推斷（inference question 推論題）,This question asks you to make an inference from the chart.,這一題要你根據圖表做出推論。,學習與語言,68,TSL
+21,cellphone,ˈsɛlˌfoʊn,n.,手機,Keep your cellphone on during your on-call shift.,值班待命時，手機要保持開機。,電腦與網路、生活與購物,69,TSL
+22,merchandise,ˈmərʧənˌdaɪz,n.,商品；貨物,All merchandise can be returned within 30 days.,所有商品都可以在三十天內退貨。,商業與金錢、生活與購物,71,TSL
+23,receptionist,rɪˈsɛpʃənɪst,n.,接待員；櫃檯人員,The receptionist will give the vendor a visitor badge.,櫃檯人員會發給廠商一張訪客證。,工作與會議、人物與家庭,72,TSL
+24,depart,dɪˈpɑrt,v.,出發；離開,Our flight to Seattle will depart at 9 p.m.,我們飛往西雅圖的班機晚上九點起飛。,交通與旅行,76,TSL
+25,renovation,ˌrɛnəˈveɪʃən,n.,整修；翻新（名詞）,The office renovation will take three weeks.,辦公室整修需要三週。,工作與會議、生活與購物,79,TSL
+26,precede,prɪˈsid,v.,在…之前；先於,A short safety briefing will precede the training.,訓練開始前，會先進行簡短的安全說明。,時間與日期、工作與會議,81,TSL
+27,coworker,ˈkoʊˌwərkər,n.,同事,My coworker will cover my shift tomorrow.,我同事明天會幫我代班。,工作與會議、人物與家庭,85,TSL
+28,explanatory,ɪkˈsplænəˌtɔri,adj.,解釋的；說明的（explanatory notes 解說）,Read the explanatory notes after you check your answers.,對完答案後，請閱讀解說。,學習與語言,89,TSL
+29,underline,ˈəndərˌlaɪn,v./n.,畫底線；強調；底線,Underline the key words in each question.,把每一題的關鍵字畫底線。,學習與語言,97,TSL
+30,airplane,ˈɛrˌpleɪn,n.,飛機,Please remain seated until the airplane comes to a complete stop.,飛機完全停妥之前，請留在座位上。,交通與旅行,99,TSL
+31,attendee,əˌtɛnˈdi,n.,出席者；與會者,Each attendee will get a copy of the slides.,每位與會者都會拿到一份投影片。,工作與會議、人物與家庭,102,TSL
+32,comprehension,ˌkɑmpriˈhɛnʃən,n.,理解；理解力（reading comprehension 閱讀理解）,Watching English news helps my listening comprehension.,看英文新聞對我的聽力理解很有幫助。,學習與語言,106,TSL
+33,tenant,ˈtɛnənt,n.,承租人；租戶；房客,A tenant on the third floor reported a water leak.,三樓的一位租戶通報了漏水。,生活與購物、人物與家庭,111,TSL
+34,inconvenience,ˌɪnkənˈvinjəns,n.,不便；麻煩,We apologize for any inconvenience during the power test.,電力測試期間造成任何不便，敬請見諒。,情緒與溝通,116,TSL
+35,banquet,ˈbæŋkwət,n.,宴會；餐會（如尾牙）,Our year-end banquet is on January 20.,我們的尾牙在一月二十日。,飲食、工作與會議,117,TSL
+36,unreal,ənˈril,adj.,不真實的；虛幻的；（口語）好得難以置信的,"After the long night shift, everything felt unreal.",上完漫長的夜班後，一切都感覺很不真實。,情緒與溝通,119,TSL
+37,distractor,dɪˈstræktər,n.,誘答選項（選擇題中看似正確的錯誤選項）,"Choice C repeats a word you heard, but it's a distractor.",選項 C 重複了你聽到的字，但它是誘答選項。,學習與語言,120,TSL
+38,photocopy,ˈfoʊtəˌkɑpi,n./v.,影印本；影印,Please photocopy this form for the vendor.,請把這張表格影印一份給廠商。,工作與會議、電腦與網路,123,TSL
+39,renovate,ˈrɛnəˌveɪt,v.,整修；翻新（動詞）,They plan to renovate the control room next year.,他們計畫明年整修控制室。,工作與會議、生活與購物,124,TSL
+40,copier,ˈkɑpiər,n.,影印機（常用說法）,The copier on the second floor is out of toner.,二樓的影印機沒有碳粉了。,工作與會議、電腦與網路,132,TSL
+41,beverage,ˈbɛvərɪʤ,n.,飲料,Do not bring any beverage into the data hall.,不要帶任何飲料進機房。,飲食,134,TSL
+42,recipient,rɪˈsɪpiənt,n.,收件人；接受者,Check the recipient before you send the email.,寄出電子郵件前，先確認收件人。,工作與會議、人物與家庭,137,TSL
+43,rewrite,riˈraɪt,v.,改寫；重寫,Please rewrite this sentence in the past tense.,請用過去式改寫這個句子。,學習與語言、工作與會議,145,TSL
+44,itinerary,aɪˈtɪnəˌrɛri,n.,行程表；旅行計畫,HR sent me the itinerary for the Seattle trip.,人資寄給我西雅圖出差的行程表。,交通與旅行,146,TSL
+45,baggage,ˈbægɪʤ,n.,行李（機場常用；不可數）,Where can I pick up my baggage?,我可以在哪裡領行李？,交通與旅行,152,TSL
+46,container,kənˈteɪnər,n.,容器；貨櫃,Keep the chemical container closed when not in use.,化學品容器不使用時要蓋緊。,生活與購物、安全與消防,154,TSL
+47,bulletin,ˈbʊlətən,n.,公告；快報（bulletin board 布告欄）,Post the safety notice on the bulletin board.,把安全公告貼在布告欄上。,工作與會議,158,TSL
+48,respondent,rɪˈspɑndənt,n.,回答者；（問卷）填答者；受訪者,Each respondent to the staff survey will get a coupon.,每位填寫員工問卷的人都會拿到一張折價券。,工作與會議、人物與家庭,162,TSL
+49,skim,skɪm,v.,略讀；快速瀏覽（抓大意）,Skim the email first to find the main idea.,先快速瀏覽這封電子郵件，找出主旨。,學習與語言,168,TSL
+50,briefcase,ˈbrifˌkeɪs,n.,公事包,She keeps her laptop in a black briefcase.,她把筆電放在一個黑色公事包裡。,工作與會議,169,TSL
+51,commuter,kəˈmjutər,n.,通勤者；通勤族,"As a commuter, I take the MRT to work every day.",身為通勤族，我每天搭捷運上班。,交通與旅行、人物與家庭,176,TSL
+52,newsletter,ˈnuzˌlɛtər,n.,電子報；通訊刊物,Our team newsletter comes out every month.,我們團隊的電子報每個月發行一次。,工作與會議,178,TSL
+53,cartridge,ˈkɑrtrɪʤ,n.,（可替換的）匣；濾芯；墨水匣,Replace the filter cartridge every three months.,每三個月更換一次濾芯。,冷卻與機械、工作與會議,180,TSL
+54,cloudy,ˈklaʊdi,adj.,多雲的；陰天的；（液體）混濁的,The cooling tower water looks cloudy today.,冷卻水塔的水今天看起來很混濁。,天氣與自然,181,TSL
+55,shopper,ˈʃɑpər,n.,購物者；顧客,The store gives every shopper a free reusable bag.,這家店送每位顧客一個免費的環保袋。,生活與購物、商業與金錢,183,TSL
+56,announcer,əˈnaʊnsər,n.,播報員；廣播員；主持人,The radio announcer said traffic is heavy on the highway.,電台播報員說高速公路上車流量很大。,交通與旅行、人物與家庭,185,TSL
+57,supervise,ˈsupərˌvaɪz,v.,監督；管理,A senior technician will supervise the vendor's work.,一位資深技術員會監督廠商的作業。,工作與會議,199,TSL
+58,waitress,ˈweɪtrəs,n.,女服務生,The waitress recommended the chicken soup.,女服務生推薦了雞湯。,飲食、人物與家庭,200,TSL
+59,cleaner,ˈklinər,n.,清潔人員；清潔劑,The cleaner mops the hallway every morning.,清潔人員每天早上拖走廊。,人物與家庭、生活與購物,201,TSL
+60,shuttle,ˈʃətəl,n./v.,接駁車；往返運送,Take the shuttle from the MRT station to the site.,從捷運站搭接駁車到廠區。,交通與旅行,204,TSL
+61,stationery,ˈsteɪʃəˌnɛri,n.,文具,Ask the admin assistant if you need more stationery.,需要更多文具的話，請找行政助理。,工作與會議,205,TSL
+62,picnic,ˈpɪknɪk,n.,野餐,The company picnic was moved to Sunday because of rain.,公司野餐因為下雨改到星期日。,生活與購物、飲食,209,TSL
+63,refreshment,rɪˈfrɛʃmənt,n.,茶點；點心飲料,There will be a short refreshment break at 10:30.,十點半會有短暫的茶點休息時間。,飲食、工作與會議,211,TSL
+64,annoy,əˈnɔɪ,v.,使惱怒；打擾,Loud alarms can annoy people in nearby offices.,大聲的警報可能會吵到附近辦公室的人。,情緒與溝通,219,TSL
+65,paperwork,ˈpeɪpərˌwərk,n.,文書工作；書面作業,I need to finish the paperwork before I leave.,我下班前要把文書作業做完。,工作與會議,222,TSL
+66,trainer,ˈtreɪnər,n.,培訓講師；訓練員,The trainer showed us how to use the fire extinguisher.,講師示範了滅火器的使用方法。,工作與會議、人物與家庭,228,TSL
+67,complimentary,ˌkɑmpləˈmɛntəri,adj.,免費贈送的；讚美的,The hotel offers complimentary breakfast to all guests.,飯店為所有房客提供免費早餐。,交通與旅行、商業與金錢,231,TSL
+68,rainy,ˈreɪni,adj.,下雨的；多雨的,"On rainy days, check the roof for water leaks.",下雨天要檢查屋頂有沒有漏水。,天氣與自然,235,TSL
+69,trainee,treɪˈni,n.,受訓人員；學員,Each trainee must work with a senior technician.,每位受訓人員都必須跟著資深技術員工作。,工作與會議、人物與家庭,237,TSL
+70,automobile,ˈɔtəmoʊˌbil,n.,汽車,This company makes parts for the automobile industry.,這家公司為汽車產業製造零件。,交通與旅行,241,TSL
+71,incomplete,ˌɪnkəmˈplit,adj.,不完整的；未完成的,"Your form is incomplete, so please sign here.",你的表格還沒填完整，請在這裡簽名。,工作與會議,243,TSL
+72,questionnaire,ˌkwɛsʧəˈnɛr,n.,問卷,Please fill out the questionnaire after the training.,訓練結束後請填寫問卷。,工作與會議、商業與金錢,244,TSL
+73,presenter,prɪˈzɛntər,n.,報告人；簡報者；主持人,Each presenter has ten minutes to speak.,每位報告人有十分鐘的發言時間。,工作與會議、人物與家庭,250,TSL
+74,seldom,ˈsɛldəm,adv.,很少；不常,This alarm seldom goes off at night.,這個警報很少在晚上響。,時間與日期,251,TSL
+75,memorandum,ˌmɛməˈrændəm,n.,備忘錄；內部通知（常簡稱 memo）,The memorandum explains the new parking rules.,這份備忘錄說明了新的停車規定。,工作與會議,259,TSL
+76,photocopier,ˈfoʊtəˌkɑpiər,n.,影印機（完整說法）,Please call the technician if the photocopier jams again.,如果影印機又卡紙，請打電話給技術人員。,工作與會議、電腦與網路,260,TSL
+77,bookstore,ˈbʊkˌstɔr,n.,書店,There is a bookstore next to the train station.,火車站旁邊有一家書店。,生活與購物、地點與方向,263,TSL
+78,cater,ˈkeɪtər,v.,承辦餐飲；迎合（cater to）,A local company will cater the training lunch.,一家在地廠商會承辦訓練的午餐。,飲食、工作與會議,264,TSL
+79,lounge,laʊnʤ,n.,休息室；交誼廳,You can take your break in the staff lounge.,你可以在員工休息室休息。,工作與會議、地點與方向,267,TSL
+80,painter,ˈpeɪntər,n.,油漆工；畫家,The painter will finish the stairwell walls today.,油漆工今天會把樓梯間的牆漆完。,人物與家庭、生活與購物,268,TSL
+81,patron,ˈpeɪtrən,n.,顧客；（圖書館）讀者；贊助人,Each patron may borrow up to five books at a time.,每位讀者一次最多可以借五本書。,商業與金錢、生活與購物,269,TSL
+82,salesperson,ˈseɪlzˌpərsən,n.,業務員；銷售人員,A salesperson from the vendor will visit us tomorrow.,廠商的業務明天會來拜訪我們。,商業與金錢、工作與會議,275,TSL
+83,defect,ˈdifɛkt,n.,缺陷；瑕疵（產品不良）,We found a defect in the new breaker.,我們發現新的斷路器有瑕疵。,工作與會議、商業與金錢,278,TSL
+84,omit,oʊˈmɪt,v.,省略；遺漏,Do not omit any step in the procedure.,不要省略程序中的任何步驟。,工作與會議、學習與語言,280,TSL
+85,correspondence,ˌkɔrəˈspɑndəns,n.,往來信件；通信,Keep all correspondence with the vendor in one folder.,把和廠商的所有往來信件放在同一個資料夾。,工作與會議,284,TSL
+86,buffet,bəˈfeɪ,n.,自助餐；自助式餐點,The hotel serves a breakfast buffet from six to ten.,飯店早上六點到十點供應自助式早餐。,飲食,289,TSL
+87,defective,dɪˈfɛktɪv,adj.,有缺陷的；故障的,Send the defective fan back to the supplier.,把故障的風扇退回給供應商。,工作與會議、商業與金錢,290,TSL
+88,ice cream,ˈaɪs ˌkrim,n.,冰淇淋,Let's get some ice cream after work.,下班後我們去吃點冰淇淋吧。,飲食,291,TSL
+89,occupancy,ˈɑkjəpənsi,n.,容納人數；使用率；入住,The maximum occupancy of this room is 20 people.,這個房間最多可容納二十人。,安全與消防、交通與旅行,293,TSL
+90,proficiency,prəˈfɪʃənsi,n.,熟練；精通程度,My English proficiency is getting better every month.,我的英文程度每個月都在進步。,學習與語言、工作與會議,294,TSL
+91,renewal,rɪˈnuəl,n.,更新；續約（名詞）,The service contract is up for renewal in May.,這份維護合約五月要續約。,工作與會議、商業與金錢,295,TSL
+92,illogical,ɪˈlɑʤɪkəl,adj.,不合邏輯的；不合理的,This reply is illogical because it doesn't answer the question.,這個回答不合邏輯，因為它沒有回答到問題。,學習與語言,300,TSL
+93,textbook,ˈtɛkstˌbʊk,n.,教科書；課本,I study my English textbook on the train every morning.,我每天早上在火車上讀我的英文課本。,學習與語言,302,TSL
+94,accurately,ˈækjərətli,adv.,準確地,Record the meter readings accurately.,要準確記錄儀表讀數。,工作與會議,303,TSL
+95,taker,ˈteɪkər,n.,接受者；拿取的人（test taker 考生、應試者）,Every test taker must turn off their phone.,每位考生都必須將手機關機。,學習與語言、人物與家庭,313,TSL
+96,voucher,ˈvaʊʧər,n.,餐券；禮券；抵用券,Staff on the holiday shift will get a meal voucher.,國定假日值班的同仁會拿到餐券。,生活與購物、商業與金錢,315,TSL
+97,banker,ˈbæŋkər,n.,銀行家；銀行業者；銀行專員,My banker helped me open a savings account.,銀行專員幫我開了一個儲蓄帳戶。,商業與金錢、人物與家庭,316,TSL
+98,optional,ˈɑpʃənəl,adj.,可選擇的；非必要的,The evening training session is optional.,晚上的訓練課程可自由參加。,工作與會議,319,TSL
+99,polite,pəˈlaɪt,adj.,有禮貌的,Always be polite when you talk to visitors.,和訪客說話時一定要有禮貌。,情緒與溝通,321,TSL
+100,seller,ˈsɛlər,n.,賣方；賣家；銷售者,Contact the seller if the item arrives damaged.,如果商品送達時有損壞，請聯絡賣家。,商業與金錢、人物與家庭,323,TSL
+101,sidewalk,ˈsaɪdˌwɔk,n.,人行道,Workers will repair the sidewalk in front of the building.,工人會修補大樓前面的人行道。,交通與旅行,324,TSL
+102,sightseeing,ˈsaɪtˌsiɪŋ,n.,觀光；遊覽,We went sightseeing in Seattle after the training.,訓練結束後，我們在西雅圖觀光。,交通與旅行,325,TSL
+103,promptly,ˈprɑmptli,adv.,迅速地；準時地,Please reply to this email promptly.,請盡快回覆這封電子郵件。,時間與日期、工作與會議,337,TSL
+104,retailer,ˈriˌteɪlər,n.,零售商；零售業者,This retailer sells office supplies at low prices.,這家零售商以低價販售辦公用品。,商業與金錢、生活與購物,338,TSL
+105,vacancy,ˈveɪkənsi,n.,職缺；空房,There is a vacancy for a night shift technician.,目前有一個夜班技術員的職缺。,工作與會議、交通與旅行,339,TSL
+106,cumulative,ˈkjumjələtɪv,adj.,累積的；累計的,Write down the cumulative run hours of each generator.,記下每台發電機的累計運轉時數。,數字與數量,341,TSL
+107,directory,dɪˈrɛktəri,n.,通訊錄；名錄；（電腦）目錄,Look up his phone number in the company directory.,在公司通訊錄裡查他的電話號碼。,工作與會議、電腦與網路,342,TSL
+108,housekeeper,ˈhaʊsˌkipər,n.,（飯店）房務人員；管家,Ask the housekeeper for extra towels.,跟房務人員多要幾條毛巾。,交通與旅行、人物與家庭,344,TSL
+109,internship,ˈɪntərnˌʃɪp,n.,實習；實習工作,She did a six-month internship at our data center.,她在我們的資料中心實習了六個月。,工作與會議,345,TSL
+110,knowledgeable,ˈnɑlɪʤəbəl,adj.,知識豐富的；內行的,The vendor engineer is very knowledgeable about chillers.,廠商工程師對冰水主機非常內行。,工作與會議、學習與語言,346,TSL
+111,organizer,ˈɔrgəˌnaɪzər,n.,籌辦人；（會議）召集人,Ask the meeting organizer to send the link again.,請會議召集人再寄一次連結。,工作與會議、人物與家庭,347,TSL
+112,booklet,ˈbʊklɪt,n.,小冊子；手冊,Read the instruction booklet before you use the meter.,使用儀表前，先閱讀說明手冊。,工作與會議,351,TSL
+113,conditioner,kənˈdɪʃənər,n.,空調機；冷氣機（air conditioner）；潤髮乳,The air conditioner in the UPS room is making noise.,UPS 室的空調機有異音。,冷卻與機械、生活與購物,352,TSL
+114,enroll,ɪnˈroʊl,v.,註冊；報名參加,You must enroll in the safety course this month.,你這個月必須報名安全課程。,學習與語言、工作與會議,353,TSL
+115,frustrate,ˈfrəˌstreɪt,v.,使挫折；使沮喪,Repeated false alarms frustrate the night shift team.,一再發生的誤報讓夜班團隊很沮喪。,情緒與溝通,354,TSL
+116,garment,ˈgɑrmənt,n.,衣服；服裝（一件衣物）,Wash this garment in cold water only.,這件衣服只能用冷水洗。,生活與購物,355,TSL
+117,packet,ˈpækɪt,n.,一小包；一套資料；（網路）封包,New hires get a welcome packet on the first day.,新進員工第一天會拿到一份新人資料包。,工作與會議、電腦與網路,358,TSL
+118,specification,ˌspɛsəfəˈkeɪʃən,n.,規格；規範,Check the specification before you order the new pump.,訂購新泵浦前，先確認規格。,工作與會議、冷卻與機械,360,TSL
+119,deduction,dɪˈdəkʃən,n.,扣除額；扣款；推論,Check the deduction for health insurance on your pay slip.,查看你薪資單上的健保扣款。,商業與金錢、學習與語言,363,TSL
+120,definite,ˈdɛfənət,adj.,明確的；確定的,We need a definite answer by Friday.,我們星期五前需要一個明確的答覆。,工作與會議,364,TSL
+121,economical,ˌɛkəˈnɑmɪkəl,adj.,節省的；經濟實惠的,LED lights are more economical than old lamps.,LED 燈比舊式燈具更省錢。,商業與金錢、生活與購物,365,TSL
+122,efficiently,ɪˈfɪʃəntli,adv.,有效率地,The new chiller runs more efficiently at night.,新的冰水主機在夜間運轉得更有效率。,工作與會議,366,TSL
+123,flyer,ˈflaɪər,n.,傳單；宣傳單,Hand out this flyer at the safety meeting.,在安全會議上發這張傳單。,商業與金錢、工作與會議,367,TSL
+124,reimburse,ˌriɪmˈbərs,v.,退還；償付（墊付的費用）,The company will reimburse your taxi fare.,公司會退還你墊付的計程車費。,商業與金錢、工作與會議,375,TSL
+125,showroom,ˈʃoʊˌrum,n.,展示間；陳列室,You can see the new office chairs in our showroom.,你可以在我們的展示間看到新款辦公椅。,生活與購物、商業與金錢,376,TSL
+126,vegetarian,ˌvɛʤəˈtɛriən,adj./n.,素食的；素食者,Do you need a vegetarian lunch box for the meeting?,開會時你需要素食便當嗎？,飲食,377,TSL
+127,broker,ˈbroʊkər,n.,經紀人；仲介（real estate broker 房屋仲介）,Our real estate broker found a larger office for us.,我們的房仲幫我們找到一間比較大的辦公室。,商業與金錢、工作與會議,379,TSL
+128,cancellation,ˌkænsəˈleɪʃən,n.,取消,I received a cancellation notice for tomorrow's meeting.,我收到明天會議取消的通知。,工作與會議、交通與旅行,380,TSL
+129,confidential,ˌkɑnfəˈdɛnʃəl,adj.,機密的,"This floor plan is confidential, so do not share it.",這份平面圖是機密，請勿外流。,工作與會議、安全與消防,381,TSL
+130,windy,ˈwɪndi,adj.,風大的；颳風的,It is too windy to work on the roof today.,今天風太大，不能在屋頂上作業。,天氣與自然,387,TSL
+131,automate,ˈɔtəˌmeɪt,v.,使自動化,We plan to automate the daily temperature report.,我們打算把每日溫度報表自動化。,工作與會議、電腦與網路,388,TSL
+132,incur,ɪnˈkər,v.,產生（費用）；招致,Keep receipts for any costs you incur on the trip.,出差期間產生的任何費用都要保留收據。,商業與金錢、工作與會議,391,TSL
+133,instruct,ɪnˈstrəkt,v.,指示；教導,The supervisor will instruct new staff on safety rules.,主管會向新進人員說明安全規定。,工作與會議、學習與語言,392,TSL
+134,luncheon,ˈlənʧən,n.,午宴；正式午餐會,The awards luncheon will be held at noon on Friday.,頒獎午宴將在星期五中午舉行。,飲食、工作與會議,394,TSL
+135,microphone,ˈmaɪkrəˌfoʊn,n.,麥克風,Please turn on your microphone when you speak.,發言時請打開你的麥克風。,工作與會議、電腦與網路,395,TSL
+136,projector,prəˈʤɛktər,n.,投影機,The projector in Meeting Room B is not working.,B 會議室的投影機壞了。,工作與會議、電腦與網路,397,TSL
+137,shortage,ˈʃɔrtɪʤ,n.,短缺；不足,There is a shortage of spare filters this month.,這個月備用濾網不足。,工作與會議、數字與數量,398,TSL
+138,spacious,ˈspeɪʃəs,adj.,寬敞的,The new break room is bright and spacious.,新的休息室既明亮又寬敞。,生活與購物、地點與方向,399,TSL
+139,accomplishment,əˈkɑmplɪʃmənt,n.,成就；成果,Finishing the project early was a great accomplishment.,提早完成這個專案是很大的成就。,工作與會議,400,TSL
+140,accustomed,əˈkəstəmd,adj.,習慣的（be accustomed to 習慣於…）；慣常的,I am not accustomed to working the night shift yet.,我還不習慣上夜班。,工作與會議,401,TSL
+141,desktop,ˈdɛskˌtɑp,n.,桌上型電腦；電腦桌面,Save the checklist file on your desktop.,把檢查表檔案存在你的電腦桌面上。,電腦與網路,403,TSL
+142,leisure,ˈliʒər,n.,空閒；休閒,What do you like to do in your leisure time?,你空閒時喜歡做什麼？,生活與購物,405,TSL
+143,reinforce,ˌriɪnˈfɔrs,v.,加強；補強,We need to reinforce the floor before the new UPS arrives.,新的 UPS 送到前，我們需要先補強地板。,工作與會議、學習與語言,407,TSL
+144,sender,ˈsɛndər,n.,寄件人；發送者,Do not open links from an unknown sender.,不要打開陌生寄件人傳來的連結。,工作與會議、人物與家庭,408,TSL
+145,yearly,ˈjɪrli,adj./adv.,每年的；每年一次,The generator gets a yearly load test in March.,發電機每年三月做一次負載測試。,時間與日期,411,TSL
+146,cooperate,koʊˈɑpəˌreɪt,v.,合作；配合,Please cooperate with the security team during the drill.,演練期間請配合保全團隊。,工作與會議、情緒與溝通,414,TSL
+147,distract,dɪˈstrækt,v.,使分心,Do not let your phone distract you on the job.,工作時別讓手機分散你的注意力。,安全與消防、學習與語言,415,TSL
+148,dividend,ˈdɪvɪˌdɛnd,n.,股利；紅利,The company will pay a dividend to shareholders in June.,公司將在六月發放股利給股東。,商業與金錢,416,TSL
+149,exemption,ɪgˈzɛmpʃən,n.,免除；豁免；免稅額,Ask HR if you qualify for a tax exemption.,問問人資，看你是否符合免稅資格。,商業與金錢、社會與公共事務,417,TSL
+150,furnish,ˈfərnɪʃ,v.,配置家具；提供；供應,We will furnish the new office with standing desks.,我們會在新辦公室配置站立式辦公桌。,生活與購物、工作與會議,418,TSL
+151,hourly,ˈaʊərli,adj./adv.,每小時的；按時計酬的；每小時一次地,The night shift does an hourly walk-through of the data hall.,夜班每小時巡視機房一次。,時間與日期、工作與會議,419,TSL
+152,promotional,prəˈmoʊʃənəl,adj.,促銷的；宣傳的,The store is offering a promotional discount this week.,這家店這週有促銷折扣。,商業與金錢、生活與購物,424,TSL
+153,quarterly,ˈkwɔrtərli,adj./adv.,每季的；按季地,We hold a quarterly safety review with the vendors.,我們每一季都會和廠商開一次安全檢討會議。,時間與日期、工作與會議,425,TSL
+154,seeker,ˈsikər,n.,尋求者（job seeker 求職者）,A job seeker should prepare well for the interview.,求職者應該好好準備面試。,工作與會議、人物與家庭,428,TSL
+155,temporarily,ˌtɛmpəˈrɛrəli,adv.,暫時地；臨時地,The elevator is temporarily out of service.,電梯暫時停止使用。,時間與日期,429,TSL
+156,unattended,ˌənəˈtɛndɪd,adj.,無人看管的；無人照顧的,Never leave your bags unattended at the airport.,在機場絕對不要讓你的行李無人看管。,安全與消防、交通與旅行,431,TSL
+157,boardroom,ˈbɔrdˌrum,n.,（董事會）會議室；大會議室,The monthly meeting will be held in the boardroom.,月會將在大會議室舉行。,工作與會議、地點與方向,437,TSL
+158,carpenter,ˈkɑrpəntər,n.,木工；木匠,A carpenter will fix the broken cabinet door tomorrow.,明天會有木工來修理壞掉的櫃門。,人物與家庭、工作與會議,438,TSL
+159,caterer,ˈkeɪtərər,n.,外燴業者；餐飲承辦商,Please call the caterer to confirm the lunch order.,請打電話給外燴業者，確認午餐訂單。,飲食、工作與會議,439,TSL
+160,classify,ˈklæsəˌfaɪ,v.,分類；歸類,"We classify each alarm as critical, major, or minor.",我們把每個警報分成緊急、重大或輕微三級。,工作與會議、學習與語言,440,TSL
+161,durable,ˈdʊrəbəl,adj.,耐用的；持久的,These work gloves are cheap but very durable.,這些工作手套很便宜，但非常耐用。,生活與購物,442,TSL
+162,malfunction,mælˈfəŋkʃən,n./v.,故障；失靈,Report any equipment malfunction to the shift lead.,任何設備故障都要回報給值班組長。,工作與會議、電力,445,TSL
+163,outdated,ˌaʊtˈdeɪtɪd,adj.,過時的；老舊的,"This manual is outdated, so please use the new one.",這本手冊已經過時了，請改用新版。,工作與會議、時間與日期,446,TSL
+164,postcard,ˈpoʊstˌkɑrd,n.,明信片,My coworker sent me a postcard from Japan.,我同事從日本寄了一張明信片給我。,交通與旅行,448,TSL
+165,prospective,prəˈspɛktɪv,adj.,潛在的；未來的；預期的,All prospective employees must pass a background check.,所有準員工都必須通過背景調查。,工作與會議、商業與金錢,449,TSL
+166,revision,rɪˈvɪʒən,n.,修訂；修改；修訂版,The report needs one more revision before Friday.,這份報告在星期五前還需要再修改一次。,工作與會議、學習與語言,450,TSL
+167,coordinator,koʊˈɔrdəˌneɪtər,n.,協調人；統籌人員,The training coordinator will send you the class schedule.,訓練統籌人員會把課程時間表寄給你。,工作與會議、人物與家庭,460,TSL
+168,costly,ˈkɔstli,adj.,昂貴的；代價高的,Skipping a step can lead to a costly mistake.,跳過一個步驟，就可能造成代價高昂的錯誤。,商業與金錢、工作與會議,461,TSL
+169,equip,ɪˈkwɪp,v.,配備；裝備,The company will equip all technicians with new safety shoes.,公司會為所有技術員配發新的安全鞋。,工作與會議、安全與消防,462,TSL
+170,excursion,ɪkˈskərʒən,n.,短途旅行；出遊行程,The hotel offers a boat excursion every Saturday morning.,飯店每週六早上都有搭船出遊的行程。,交通與旅行,463,TSL
+171,inexperienced,ˌɪnɪkˈspɪriənst,adj.,經驗不足的；生疏的,Inexperienced staff must work with a senior technician.,經驗不足的人員必須和資深技術員一起作業。,工作與會議、人物與家庭,465,TSL
+172,lengthy,ˈlɛŋθi,adj.,冗長的；漫長的,"After a lengthy discussion, we chose the new vendor.",經過冗長的討論後，我們選定了新廠商。,工作與會議、時間與日期,466,TSL
+173,librarian,laɪˈbrɛriən,n.,圖書館員,The librarian helped me find a book on networking.,圖書館員幫我找到一本網路技術的書。,人物與家庭、學習與語言,467,TSL
+174,performer,pərˈfɔrmər,n.,表演者；表現者（top performer 表現最佳者）,The crowd clapped loudly for the last performer.,觀眾為最後一位表演者熱烈鼓掌。,人物與家庭、生活與購物,470,TSL
+175,pharmacist,ˈfɑrməsɪst,n.,藥師；藥劑師,Ask the pharmacist how often to take this medicine.,問問藥師這個藥多久要吃一次。,健康與身體、人物與家庭,471,TSL
+176,reviewer,rɪˈvjuər,n.,審查人；評論者,Each change request needs a reviewer before it is approved.,每一份變更申請在核准前，都需要一位審查人。,工作與會議、人物與家庭,474,TSL
+177,terminate,ˈtərməˌneɪt,v.,終止；結束；解僱,We may terminate the contract if the vendor is late again.,如果廠商再延誤，我們可能會終止合約。,工作與會議、商業與金錢,475,TSL
+178,unfamiliar,ˌənfəˈmɪljər,adj.,不熟悉的；陌生的,Ask for help if the system is unfamiliar to you.,如果你對這套系統不熟悉，就要請人協助。,工作與會議,477,TSL
+179,inexpensive,ˌɪnɪkˈspɛnsɪv,adj.,不貴的；便宜的,There is an inexpensive hotel near the airport.,機場附近有一間不貴的飯店。,商業與金錢、生活與購物,483,TSL
+180,purchaser,ˈpərʧəsər,n.,購買者；買方,The purchaser will receive a full refund within a week.,買方會在一週內收到全額退款。,商業與金錢、人物與家庭,485,TSL
+181,realtor,ˈriəltər,n.,房地產經紀人；房仲,Our realtor found us an apartment near the office.,我們的房仲幫我們找到一間離公司很近的公寓。,商業與金錢、人物與家庭,487,TSL
+182,rearrange,ˌriəˈreɪnʤ,v.,重新安排；重新排列,Let's rearrange the chairs for the training session.,我們把椅子重新排一下，準備上訓練課程。,工作與會議,488,TSL
+183,reopen,riˈoʊpən,v.,重新開放；重新營業；重新開啟,The cafeteria will reopen next Monday after the renovation.,員工餐廳整修完後，下週一會重新開放。,生活與購物、商業與金錢,489,TSL
+184,airfare,ˈɛrˌfɛr,n.,機票費用；機票價格,Is the airfare included in the travel budget?,機票費用有包含在出差預算裡嗎？,交通與旅行、商業與金錢,493,TSL
+185,businessperson,ˈbɪznɪsˌpərsən,n.,商人；企業人士（不分性別的說法）,A local businessperson gave a talk at our company.,一位在地企業人士來我們公司演講。,商業與金錢、工作與會議,495,TSL
+186,faulty,ˈfɔlti,adj.,有故障的；有瑕疵的,We returned the faulty power supply to the vendor.,我們把故障的電源供應器退回給廠商了。,電力、工作與會議,497,TSL
+187,microscope,ˈmaɪkrəˌskoʊp,n.,顯微鏡,The lab ordered a new microscope for quality checks.,實驗室訂購了一台新的顯微鏡來做品質檢查。,學習與語言,502,TSL
+188,mislead,mɪsˈlid,v.,誤導；使誤解,"Old labels can mislead technicians, so please update them.",舊標籤可能會誤導技術員，所以請更新。,情緒與溝通、工作與會議,503,TSL
+189,misplace,mɪsˈpleɪs,v.,放錯地方；一時找不到,"If you misplace your badge, tell security right away.",如果你的識別證不見了，請立刻通知保全。,生活與購物、工作與會議,504,TSL
+190,newsstand,ˈnuzˌstænd,n.,書報攤,I bought a magazine at the airport newsstand.,我在機場的書報攤買了一本雜誌。,生活與購物、交通與旅行,505,TSL
+191,overhead,ˈoʊvərˌhɛd,adj./n.,頭頂上方的；（公司的）營運開銷,Please put your bag in the overhead bin.,請把你的包包放進頭頂上方的置物櫃。,地點與方向、商業與金錢,506,TSL
+192,remodel,riˈmɑdəl,v.,改建；整修,We are going to remodel the break room in July.,我們七月要整修休息室。,工作與會議、生活與購物,509,TSL
+193,auditorium,ˌɔdɪˈtɔriəm,n.,禮堂；演講廳,The safety training will be held in the auditorium.,安全訓練會在禮堂舉行。,地點與方向、工作與會議,516,TSL
+194,deduct,dɪˈdəkt,v.,扣除；減去,The hotel may deduct a cleaning fee from your deposit.,飯店可能會從你的押金中扣除清潔費。,商業與金錢、數字與數量,518,TSL
+195,disruption,dɪsˈrəpʃən,n.,中斷；干擾；混亂,We plan the work carefully to avoid any service disruption.,我們會仔細規劃作業，避免任何服務中斷。,工作與會議,519,TSL
+196,electrician,ɪˌlɛkˈtrɪʃən,n.,電工；電氣技術人員,Only a licensed electrician should repair the breaker panel.,只有領有證照的電工才能修理配電盤。,電力、人物與家庭,520,TSL
+197,icy,ˈaɪsi,adj.,結冰的；冰冷的,"The sidewalk is icy, so please walk carefully.",人行道結冰了，走路請小心。,天氣與自然、安全與消防,523,TSL
+198,irregular,ɪˈrɛgjələr,adj.,不規則的；不定期的；異常的,Report any irregular vibration or noise from the pump.,泵浦如果有任何不規則的振動或聲響，請回報。,時間與日期、工作與會議,524,TSL
+199,managerial,ˌmænəˈʤɪriəl,adj.,管理的；管理職的,She has five years of managerial experience.,她有五年的管理經驗。,工作與會議,526,TSL
+200,necessity,nəˈsɛsəti,n.,必要；必需品,Clear communication is a necessity during shift handover.,交接班時，清楚的溝通是必要的。,生活與購物、工作與會議,529,TSL
+201,planner,ˈplænər,n.,規劃者；企劃人員；行事曆手帳,An event planner will organize our year-end party.,一位活動企劃人員會籌辦我們的尾牙。,工作與會議、人物與家庭,530,TSL
+202,programmer,ˈproʊˌgræmər,n.,程式設計師,The programmer fixed a bug in our monitoring tool.,程式設計師修好了監控工具的一個錯誤。,電腦與網路、工作與會議,531,TSL
+203,recruiter,rɪˈkrutər,n.,招募專員；獵才顧問,A recruiter called me about a job in Taoyuan.,一位招募專員打電話給我，談桃園的一份工作。,工作與會議、人物與家庭,533,TSL
+204,steadily,ˈstɛdəli,adv.,穩定地；持續地,Power usage has risen steadily since last year.,用電量從去年起就穩定上升。,基本用字,536,TSL
+205,stockholder,ˈstɑkˌhoʊldər,n.,股東,The stockholder meeting will be held next Friday.,股東會將在下週五舉行。,商業與金錢、人物與家庭,537,TSL
+206,vacant,ˈveɪkənt,adj.,空著的；（職位）空缺的,The position has been vacant since March.,這個職位從三月起就一直空著。,工作與會議、地點與方向,538,TSL
+207,expiration,ˌɛkspəˈreɪʃən,n.,到期；期滿（expiration date 有效期限）,Check the expiration date on the fire extinguisher.,檢查滅火器上的有效期限。,時間與日期、安全與消防,546,TSL
+208,optimistic,ˌɑptəˈmɪstɪk,adj.,樂觀的,The manager is optimistic about next year's sales.,經理對明年的業績很樂觀。,情緒與溝通,550,TSL
+209,projection,prəˈʤɛkʃən,n.,預測；推估；投影,The sales projection for next quarter looks good.,下一季的銷售預測看起來不錯。,工作與會議、商業與金錢,552,TSL
+210,sleeve,sliv,n.,袖子；套管,Please roll up your sleeve for the blood test.,抽血時請把袖子捲起來。,生活與購物、冷卻與機械,553,TSL
+211,takeover,ˈteɪkˌoʊvər,n.,接管；收購,"After the takeover, our company name will change.",被收購之後，我們公司的名稱會改變。,商業與金錢、工作與會議,555,TSL
+212,unsure,ənˈʃʊr,adj.,不確定的；沒把握的,"If you are unsure, stop and ask your supervisor.",如果你不確定，就先停下來問你的主管。,情緒與溝通、工作與會議,556,TSL
+213,verbal,ˈvərbəl,adj.,口頭的；言語的,Please send an email to confirm the verbal agreement.,請寄一封電子郵件確認這項口頭協議。,情緒與溝通、工作與會議,558,TSL
+214,workforce,ˈwərkˌfɔrs,n.,勞動力；全體員工,The company plans to grow its workforce by ten percent.,公司計畫將員工人數增加百分之十。,工作與會議,561,TSL
+215,accumulate,əˈkjumjəˌleɪt,v.,累積；積聚,Dust can accumulate on the air filters over time.,時間一久，灰塵會累積在空氣濾網上。,數字與數量,563,TSL
+216,appraisal,əˈpreɪzəl,n.,考核；評估；估價（performance appraisal 績效考核）,My performance appraisal is scheduled for next Monday.,我的績效考核排在下週一。,工作與會議、商業與金錢,564,TSL
+217,apprentice,əˈprɛntɪs,n.,學徒；見習生,The new apprentice is learning from a senior electrician.,新來的學徒正在跟一位資深電工學習。,工作與會議、人物與家庭,565,TSL
+218,colorful,ˈkələrfəl,adj.,色彩鮮豔的；豐富多彩的,The new office has colorful chairs in the break room.,新辦公室的休息室裡有色彩繽紛的椅子。,生活與購物,568,TSL
+219,compensate,ˈkɑmpənˌseɪt,v.,補償；賠償；彌補,The company will compensate staff for working on holidays.,公司會給假日上班的員工補償。,商業與金錢、工作與會議,569,TSL
+220,firefighter,ˈfaɪərˌfaɪtər,n.,消防員,A firefighter showed us how to use a fire extinguisher.,一位消防員示範給我們看怎麼使用滅火器。,安全與消防、人物與家庭,574,TSL
+221,pharmaceutical,ˌfɑrməˈsutɪkəl,adj.,製藥的；藥品的（pharmaceutical company 製藥公司）,My cousin works for a large pharmaceutical company.,我表姊在一家大型製藥公司上班。,健康與身體、商業與金錢,582,TSL
+222,plausible,ˈplɔzəbəl,adj.,合理的；看似可信的,His explanation for the delay sounds plausible.,他對延誤的解釋聽起來很合理。,學習與語言,583,TSL
+223,simplify,ˈsɪmpləˌfaɪ,v.,簡化；使簡單,The new form will simplify the work order process.,新表單會簡化工單流程。,工作與會議,586,TSL
+224,specialty,ˈspɛʃəlti,n.,專長；招牌菜；特產,Grilled fish is the specialty of this restaurant.,烤魚是這家餐廳的招牌菜。,工作與會議、飲食,587,TSL
+225,unspecified,ənˈspɛsəˌfaɪd,adj.,未指明的；未具體說明的,The cafeteria will be closed for an unspecified period.,員工餐廳將暫停營業，恢復時間未定。,基本用字,590,TSL
+226,adhere,ədˈhɪr,v.,遵守（adhere to）；黏附,All visitors must adhere to the site safety rules.,所有訪客都必須遵守廠區的安全規定。,安全與消防、工作與會議,591,TSL
+227,bankrupt,ˈbæŋkrəpt,adj.,破產的（go bankrupt 破產）,The old supplier went bankrupt last year.,原本的供應商去年破產了。,商業與金錢,592,TSL
+228,diner,ˈdaɪnər,n.,（美式）小餐館；用餐的客人,We had breakfast at a small diner near the hotel.,我們在飯店附近的一家小餐館吃早餐。,飲食,596,TSL
+229,economist,ɪˈkɑnəmɪst,n.,經濟學家,The economist expects prices to rise next year.,這位經濟學家預期明年物價會上漲。,商業與金錢、人物與家庭,599,TSL
+230,informative,ɪnˈfɔrmətɪv,adj.,資訊豐富的；內容充實的,The safety training was short but very informative.,安全訓練雖然很短，但內容很充實。,工作與會議、學習與語言,603,TSL
+231,locally,ˈloʊkəli,adv.,在當地；在本地,We buy most of our spare parts locally.,我們大部分的備品都在本地採購。,地點與方向,606,TSL
+232,mentor,ˈmɛntər,n./v.,導師；指導者；指導,Each new hire gets a mentor for the first three months.,每位新進人員在前三個月都會有一位導師。,工作與會議、人物與家庭,607,TSL
+233,opt,ɑpt,v.,選擇（opt for／opt to）；選擇退出（opt out）,You can opt out of the newsletter at any time.,你可以隨時選擇不再訂閱電子報。,基本用字,609,TSL
+234,postage,ˈpoʊstɪʤ,n.,郵資；郵費,How much is the postage for this package?,寄這個包裹的郵資是多少？,生活與購物、商業與金錢,613,TSL
+235,recreational,ˌrɛkriˈeɪʃənəl,adj.,休閒的；娛樂的,The company offers recreational activities for employees on weekends.,公司週末會為員工舉辦休閒活動。,生活與購物,614,TSL
+236,rehearse,rɪˈhərs,v.,排練；預演（動詞）,Let's rehearse the presentation before the client meeting.,客戶會議之前，我們先預演一下簡報吧。,工作與會議、生活與購物,615,TSL
+237,satisfactory,ˌsætɪsˈfæktəri,adj.,令人滿意的；符合要求的,The test results for the new generator were satisfactory.,新發電機的測試結果令人滿意。,工作與會議,617,TSL
+238,separately,ˈsɛpərətli,adv.,分開地；個別地；另外,Please pack the batteries separately from the other parts.,請把電池和其他零件分開包裝。,基本用字,619,TSL
+239,accordingly,əˈkɔrdɪŋli,adv.,相應地；照著做；因此,"The schedule has changed, so please plan accordingly.",時程已經變更，請據此安排。,工作與會議,622,TSL
+240,culinary,ˈkələˌnɛri,adj.,烹飪的；廚藝的,My brother studies at a culinary school in Taipei.,我弟弟在台北的一所廚藝學校念書。,飲食,629,TSL
+241,downturn,ˈdaʊnˌtərn,n.,（景氣）衰退；下滑,Sales dropped during the economic downturn.,經濟衰退期間，銷售額下滑了。,商業與金錢,631,TSL
+242,maximize,ˈmæksəˌmaɪz,v.,使最大化；充分利用,We need to maximize the space in the spare parts room.,我們需要充分利用備品室的空間。,工作與會議、數字與數量,639,TSL
+243,periodically,ˌpɪriˈɑdɪkli,adv.,定期地；週期性地,We test the fire alarms periodically to make sure they work.,我們會定期測試火災警報器，確保它們正常運作。,時間與日期,642,TSL
+244,referee,ˌrɛfəˈri,n.,裁判；（求職的）推薦人,My coworker works as a basketball referee on weekends.,我同事週末兼差當籃球裁判。,人物與家庭、工作與會議,646,TSL
+245,referral,rɪˈfərəl,n.,推薦；轉介（employee referral 員工推薦）,I got this job through an employee referral.,我是透過員工推薦得到這份工作的。,工作與會議,647,TSL
+246,renowned,rɪˈnaʊnd,adj.,有名的；知名的（be renowned for 以…聞名）,The hotel is renowned for its excellent service.,這家飯店以優質的服務聞名。,人物與家庭、社會與公共事務,648,TSL
+247,surf,sərf,v./n.,上網瀏覽（surf the web）；衝浪,I like to surf the web on my lunch break.,我喜歡在午休時間上網逛逛。,電腦與網路、生活與購物,652,TSL
+248,advancement,ədˈvænsmənt,n.,升遷；進步；發展,This job offers good opportunities for career advancement.,這份工作有很好的升遷機會。,工作與會議,656,TSL
+249,advertiser,ˈædvərˌtaɪzər,n.,廣告主；刊登廣告的人或公司,The radio station found a new advertiser for the morning show.,這家廣播電台為晨間節目找到了一個新的廣告主。,商業與金錢、工作與會議,657,TSL
+250,alternatively,ɔlˈtərnətɪvli,adv.,或者；要不然,"Alternatively, you can send the form by email.",或者，你也可以用電子郵件寄送表單。,基本用字,658,TSL
+251,amuse,əˈmjuz,v.,逗樂；使開心,Her funny stories always amuse the night shift team.,她講的趣事總是逗得夜班同事很開心。,情緒與溝通,659,TSL
+252,authorization,ˌɔθərəˈzeɪʃən,n.,授權；核准；許可,You need written authorization to enter the battery room.,你需要書面授權才能進入電池室。,安全與消防、工作與會議,661,TSL
+253,certify,ˈsərtəˌfaɪ,v.,認證；證明；發證書給,An inspector must certify the new elevator before we use it.,新電梯必須先經檢查員認證合格，我們才能使用。,安全與消防、工作與會議,664,TSL
+254,concierge,ˌkɑnsiˈɛrʒ,n.,（飯店）禮賓人員；禮賓服務台,Ask the concierge to book a taxi for you.,請飯店禮賓人員幫你預約計程車。,交通與旅行、人物與家庭,668,TSL
+255,descriptive,dɪˈskrɪptɪv,adj.,描述性的；描寫的,Use descriptive words to make your writing clearer.,使用描述性的字詞，讓你的文章更清楚。,學習與語言,673,TSL
+256,detach,dɪˈtæʧ,v.,拆下；分開；撕下,Please detach this form and return it to HR.,請撕下這張表格，交回人資部門。,工作與會議,674,TSL
+257,familiarize,fəˈmɪljəˌraɪz,v.,使熟悉（familiarize yourself with 熟悉…）,Please familiarize yourself with the emergency exits.,請先熟悉緊急出口的位置。,學習與語言、工作與會議,678,TSL
+258,hotline,ˈhɑtˌlaɪn,n.,熱線；服務專線,Call the customer service hotline if the part is damaged.,如果零件有損壞，請打客服專線。,工作與會議、電腦與網路,679,TSL
+259,intonation,ˌɪntəˈneɪʃən,n.,語調（說話時聲音的抑揚起伏）,Good intonation makes your English sound more natural.,好的語調會讓你的英文聽起來更自然。,學習與語言、情緒與溝通,680,TSL
+260,irritate,ˈɪrəˌteɪt,v.,使惱怒；刺激（皮膚、眼睛）,"This cleaner can irritate your skin, so wear gloves.",這種清潔劑會刺激皮膚，所以要戴手套。,情緒與溝通、健康與身體,682,TSL
+261,payable,ˈpeɪəbəl,adj.,應付的；可支付的（accounts payable 應付帳款）,The invoice is payable within thirty days.,這張發票須在三十天內付款。,商業與金錢,686,TSL
+262,salesman,ˈseɪlzmən,n.,業務員；推銷員,The salesman showed us three different copiers.,那位業務員向我們介紹了三款不同的影印機。,商業與金錢、工作與會議,688,TSL
+263,sauna,ˈsɔnə,n.,三溫暖；蒸氣浴,The hotel gym has a sauna and a pool.,飯店的健身房有三溫暖和游泳池。,交通與旅行、健康與身體,689,TSL
+264,smoothly,ˈsmuðli,adv.,順利地；平穩地,The system upgrade went smoothly last night.,昨晚的系統升級進行得很順利。,基本用字,690,TSL
+265,tow,toʊ,v./n.,拖；拖吊（tow truck 拖吊車）,"Don't park there, or they will tow your car.",別停在那裡，不然你的車會被拖吊。,交通與旅行,692,TSL
+266,translator,trænzˈleɪtər,n.,翻譯人員；譯者,The company hired a translator for the user manuals.,公司請了一位譯者來翻譯使用手冊。,工作與會議、學習與語言,693,TSL
+267,unavailable,ˌənəˈveɪləbəl,adj.,無法使用的；沒空的；無法取得的,The server will be unavailable during the maintenance window.,維護時段內，這台伺服器將無法使用。,工作與會議,695,TSL
+268,webpage,ˈwɛbˌpeɪʤ,n.,網頁,The shift schedule is posted on our team webpage.,排班表公布在我們團隊的網頁上。,電腦與網路,697,TSL
+269,appendix,əˈpɛndɪks,n.,附錄；闌尾,You can find the wiring diagram in the appendix.,你可以在附錄中找到配線圖。,工作與會議、健康與身體,701,TSL
+270,classmate,ˈklæsˌmeɪt,n.,同學,My high school classmate now works on my team.,我的高中同學現在跟我在同一個團隊。,人物與家庭、學習與語言,704,TSL
+271,customize,ˈkəstəˌmaɪz,v.,客製化；自訂；依需求調整,You can customize the alarm settings for each room.,你可以為每個機房自訂警報設定。,工作與會議、電腦與網路,707,TSL
+272,discontinue,ˌdɪskənˈtɪnju,v.,停止；停產；中止（服務）,The vendor will discontinue this UPS model next year.,廠商明年會停產這款 UPS。,工作與會議、商業與金錢,710,TSL
+273,drought,draʊt,n.,乾旱；旱災,"During a drought, we try to use less water for cooling.",乾旱期間，我們會盡量減少冷卻用水。,天氣與自然,712,TSL
+274,economize,ɪˈkɑnəˌmaɪz,v.,節約；節省（開支、能源）,We can economize by turning off lights in empty rooms.,我們可以關掉空房間的燈來節省開支。,商業與金錢、工作與會議,713,TSL
+275,entrée,ˈɑntreɪ,n.,主菜（美式用法）,Each guest can choose a fish or beef entree.,每位賓客都可以選擇魚肉或牛肉主菜。,飲食,714,TSL
+276,fry,fraɪ,v.,油炸；煎；炒（French fries 薯條）,Fry the eggs for two minutes on each side.,蛋的每一面各煎兩分鐘。,飲食,717,TSL
+277,gallon,ˈgælən,n.,加侖（容量單位，約 3.8 公升）,We bought a gallon of paint for the stairwell.,我們買了一加侖的油漆來漆樓梯間。,數字與數量,718,TSL
+278,gardener,ˈgɑrdənər,n.,園丁；園藝工人,The gardener cuts the grass around the building every Friday.,園藝工人每週五會修剪大樓周圍的草皮。,人物與家庭、天氣與自然,719,TSL
+279,ideally,aɪˈdili,adv.,理想情況下；最好是,"Ideally, we should finish the upgrade before Friday.",最理想的情況是，我們在星期五前完成升級。,基本用字,720,TSL
+280,insufficient,ˌɪnsəˈfɪʃənt,adj.,不足的；不夠的,Insufficient airflow can cause the servers to overheat.,氣流不足可能會導致伺服器過熱。,數字與數量,722,TSL
+281,introductory,ˌɪntrəˈdəktəri,adj.,入門的；介紹性的（introductory offer 新客優惠）,New staff must attend an introductory safety course.,新進人員必須參加入門安全課程。,學習與語言、商業與金錢,723,TSL
+282,mileage,ˈmaɪlɪʤ,n.,里程數；（車輛）油耗；里程補助,Write down the mileage when you return the company car.,歸還公務車時，請記下里程數。,交通與旅行、數字與數量,726,TSL
+283,pasta,ˈpɑstə,n.,義大利麵,The cafeteria serves pasta every Wednesday.,員工餐廳每週三供應義大利麵。,飲食,730,TSL
+284,periodical,ˌpɪriˈɑdɪkəl,n./adj.,期刊；定期的,This periodical publishes news about data center design.,這份期刊刊登資料中心設計的相關新聞。,學習與語言、社會與公共事務,731,TSL
+285,punctual,ˈpəŋkʧuəl,adj.,準時的；守時的,Please be punctual for the shift handover meeting.,交班會議請準時出席。,時間與日期、工作與會議,734,TSL
+286,seaside,ˈsiˌsaɪd,n./adj.,海邊；海濱的,We stayed at a seaside hotel for the company trip.,員工旅遊時，我們住在一家海邊的飯店。,交通與旅行、天氣與自然,740,TSL
+287,shorten,ˈʃɔrtən,v.,縮短（時間、長度、距離）,Can we shorten the meeting to thirty minutes?,我們可以把會議縮短成三十分鐘嗎？,時間與日期、數字與數量,741,TSL
+288,specially,ˈspɛʃəli,adv.,特地；專門地；特別,These gloves are specially made for electrical work.,這些手套是專門為電氣作業製作的。,基本用字,742,TSL
+289,spouse,spaʊs,n.,配偶（丈夫或妻子）,Employees may bring their spouse to the year-end party.,員工可以帶配偶參加尾牙。,人物與家庭,744,TSL
+290,subtract,səbˈtrækt,v.,減去；扣除,Subtract last month's meter reading from this month's.,把這個月的電表讀數減去上個月的讀數。,數字與數量,745,TSL
+291,vend,vɛnd,v.,販賣；出售（vending machine 自動販賣機）,This machine can vend both hot and cold drinks.,這台機器可以販售熱飲和冷飲。,生活與購物、商業與金錢,748,TSL
+292,compartment,kəmˈpɑrtmənt,n.,隔間；置物櫃；（火車）車廂,Please put your bag in the overhead compartment.,請把你的包包放進上方的置物櫃。,交通與旅行,756,TSL
+293,conveniently,kənˈvinjəntli,adv.,方便地；便利地（conveniently located 位置便利）,The hotel is conveniently located near the train station.,這家飯店位置很方便，就在火車站附近。,地點與方向、交通與旅行,759,TSL
+294,cosmetic,kɑzˈmɛtɪk,adj./n.,外觀上的；表面的；化妝品（多用複數 cosmetics）,The scratch on the server cover is only cosmetic.,伺服器外殼上的刮痕只影響外觀。,生活與購物,760,TSL
+295,disagreement,dɪsəˈgrimənt,n.,意見不合；分歧,We had a small disagreement about the shift schedule.,我們對排班表有一點意見不合。,情緒與溝通,763,TSL
+296,dissatisfied,dɪˈsætɪsˌfaɪd,adj.,不滿意的；不滿的,The client was dissatisfied with our slow response.,客戶對我們回應太慢感到不滿意。,情緒與溝通,765,TSL
+297,enjoyable,ɪnˈʤɔɪəbəl,adj.,愉快的；令人開心的,The team dinner last night was very enjoyable.,昨晚的團隊聚餐非常愉快。,情緒與溝通,766,TSL
+298,favorable,ˈfeɪvərəbəl,adj.,有利的；正面的；贊同的,We received favorable feedback from the client after the audit.,稽核結束後，我們收到客戶的正面回饋。,工作與會議、情緒與溝通,768,TSL
+299,foreman,ˈfɔrmən,n.,工頭；領班,The foreman checks that every worker wears a hard hat.,工頭會檢查每位工人是否都戴著安全帽。,工作與會議、人物與家庭,769,TSL
+300,fundraising,ˈfəndˌreɪzɪŋ,n.,募款；籌募資金,Our office is holding a fundraising event for the local school.,我們辦公室正在為當地學校舉辦募款活動。,商業與金錢、社會與公共事務,772,TSL
+301,hazardous,ˈhæzərdəs,adj.,危險的；有害的,Report any hazardous condition to your supervisor right away.,發現任何危險狀況，請立即向主管回報。,安全與消防,775,TSL
+302,paraphrase,ˈpɛrəˌfreɪz,v./n.,換句話說；改述（用不同字詞表達相同意思）,The right answer is often a paraphrase of what you hear.,正確答案常常是把你聽到的內容換句話說。,學習與語言,781,TSL
+303,postal,ˈpoʊstəl,adj.,郵政的；郵寄的（postal code 郵遞區號）,Please include the postal code on the shipping label.,請在貨運標籤上寫上郵遞區號。,生活與購物、社會與公共事務,783,TSL
+304,renter,ˈrɛntər,n.,承租人；租屋者；租用者,Each renter must pay a deposit before moving in.,每位房客在入住前都必須先付押金。,生活與購物、人物與家庭,785,TSL
+305,repairperson,rɪˈpɛrˌpərsən,n.,維修人員；修理工,A repairperson will come to fix the copier at noon.,維修人員中午會來修影印機。,工作與會議、人物與家庭,786,TSL
+306,silently,ˈsaɪləntli,adv.,安靜地；無聲地；默默地,"Read the passage silently, then answer the questions.",先默讀這篇文章，再回答問題。,情緒與溝通,789,TSL
+307,substantially,səbˈstænʃəli,adv.,大幅地；相當多地；基本上,The new chiller has substantially reduced our power costs.,新的冰水主機讓我們的電費大幅降低了。,基本用字,794,TSL
+308,teller,ˈtɛlər,n.,（銀行）櫃員；出納員,The bank teller helped me open a new account.,銀行櫃員幫我開了一個新帳戶。,商業與金錢、人物與家庭,795,TSL
+309,toner,ˈtoʊnər,n.,碳粉（toner cartridge 碳粉匣）,Please order a new toner cartridge for the printer.,請幫印表機訂一個新的碳粉匣。,工作與會議,798,TSL
+310,urgently,ˈərʤəntli,adv.,緊急地；急迫地,We urgently need a spare power supply for rack 12.,我們急需一個 12 號機櫃用的備用電源供應器。,工作與會議,799,TSL
+311,walkway,ˈwɔkˌweɪ,n.,走道；人行通道,Keep the walkway clear of boxes and cables.,保持走道暢通，不要堆放箱子和線材。,安全與消防、地點與方向,800,TSL
+312,ample,ˈæmpəl,adj.,充足的；足夠的；寬敞的,There is ample parking behind the office building.,辦公大樓後面有充足的停車位。,數字與數量,803,TSL
+313,antique,ænˈtik,n./adj.,古董；古董的；古老的,The hotel lobby has an antique clock on the wall.,飯店大廳的牆上掛著一座古董鐘。,生活與購物,804,TSL
+314,browse,braʊz,v.,瀏覽（網頁、商品）；隨意逛逛,You can browse our online catalog for spare parts.,你可以瀏覽我們的線上型錄來找備品。,電腦與網路、生活與購物,806,TSL
+315,careless,ˈkɛrləs,adj.,粗心的；不小心的,A careless mistake can cause a power outage.,一個粗心的錯誤就可能造成停電。,安全與消防、情緒與溝通,808,TSL
+316,collector,kəˈlɛktər,n.,收藏家；收集者,My uncle is a stamp collector.,我叔叔是集郵愛好者。,生活與購物、人物與家庭,809,TSL
+317,conform,kənˈfɔrm,v.,符合（規定、標準）；遵守,All new cables must conform to the fire safety code.,所有新線材都必須符合消防安全法規。,安全與消防、工作與會議,810,TSL
+318,congestion,kənˈʤɛsʧən,n.,（交通、網路）壅塞；塞車,Traffic congestion made me late for my shift.,因為交通壅塞，我上班遲到了。,交通與旅行、電腦與網路,811,TSL
+319,contradiction,ˌkɑntrəˈdɪkʃən,n.,矛盾；牴觸,I found a contradiction between the manual and the label.,我發現手冊和標籤上的內容互相矛盾。,學習與語言,812,TSL
+320,diploma,dɪˈploʊmə,n.,畢業證書；文憑,Please bring a copy of your diploma to the interview.,面試時請帶一份你的畢業證書影本。,學習與語言、工作與會議,814,TSL
+321,distributor,dɪˈstrɪbjətər,n.,經銷商；批發商,We order spare parts from a local distributor.,我們向本地經銷商訂購備品。,商業與金錢、工作與會議,815,TSL
+322,energetic,ˌɛnərˈʤɛtɪk,adj.,精力充沛的；充滿活力的,Our new trainee is friendly and energetic.,我們新來的受訓人員親切又有活力。,情緒與溝通、人物與家庭,817,TSL
+323,environmentally,ɪnˌvaɪrənˈmɛntəli,adv.,在環境方面；環保地（environmentally friendly 環保的）,We use environmentally friendly cleaning products in the office.,我們在辦公室使用環保清潔用品。,天氣與自然,818,TSL
+324,exotic,ɪgˈzɑtɪk,adj.,異國風味的；外來的；奇特的,We tried some exotic dishes on our business trip.,出差時我們嚐了一些異國料理。,交通與旅行、飲食,820,TSL
+325,generalization,ˌʤɛnərələˈzeɪʃən,n.,概括；概括性的說法；歸納,Which sentence in the passage is a generalization?,文章中哪一句是概括性的說法？,學習與語言,822,TSL
+326,gum,gəm,n.,口香糖；牙齦；膠,Chewing gum is not allowed in the data hall.,機房內禁止嚼口香糖。,飲食、健康與身體,824,TSL
+327,hesitant,ˈhɛzətənt,adj.,猶豫的；遲疑的,Don't be hesitant to report a safety hazard.,發現安全危害就要通報，不要猶豫。,情緒與溝通,825,TSL
+328,indicator,ˈɪndəˌkeɪtər,n.,指示燈；指標,Check the status indicator on the front of the server.,檢查伺服器正面的狀態指示燈。,電力、工作與會議,826,TSL
+329,individually,ˌɪndəˈvɪʤəwəli,adv.,個別地；逐一地,Please label and test each cable individually.,請逐一替每條線材貼標籤並測試。,基本用字,827,TSL
+330,morale,məˈræl,n.,士氣,Team morale is high after the successful test.,測試成功後，團隊士氣高昂。,工作與會議、情緒與溝通,831,TSL
+331,organizational,ˌɔrgənəˈzeɪʃənəl,adj.,組織的,Check the organizational chart to find your manager.,查看組織圖，找出你的主管是誰。,工作與會議,833,TSL
+332,reflexive,rɪˈflɛksɪv,adj.,反身的（文法：reflexive pronoun 反身代名詞）,Words like myself and yourself are reflexive pronouns.,像 myself 和 yourself 這類的字是反身代名詞。,學習與語言,838,TSL
+333,snowy,ˈsnoʊi,adj.,下雪的；多雪的；被雪覆蓋的,Our flight was delayed because of snowy weather.,我們的班機因為下雪延誤了。,天氣與自然,839,TSL
+334,telecommunication,ˌtɛləkəˌmjunəˈkeɪʃən,n.,電信；遠距通訊,The telecommunication room is next to the UPS room.,電信機房就在 UPS 室旁邊。,電腦與網路,842,TSL
+335,amenity,əˈmɛnəti,n.,便利設施；（飯店、社區的）公共設施,Free parking is a nice amenity at this hotel.,免費停車是這家飯店很不錯的便利設施。,交通與旅行、生活與購物,845,TSL
+336,await,əˈweɪt,v.,等待；等候,We will await your approval before we start.,我們會等您核准後再開始。,工作與會議,847,TSL
+337,barbecue,ˈbɑrbɪˌkju,n./v.,烤肉；烤肉聚會；在戶外燒烤,The company barbecue will be held next Saturday.,公司的烤肉活動將在下週六舉行。,飲食、生活與購物,848,TSL
+338,beginner,bɪˈgɪnər,n.,初學者；新手,This English class is good for a beginner like me.,這堂英文課很適合像我這樣的初學者。,學習與語言、人物與家庭,849,TSL
+339,chairperson,ˈʧɛrˌpərsən,n.,主席；（會議）主持人,The chairperson will open the meeting at nine.,主席會在九點宣布會議開始。,工作與會議、人物與家庭,852,TSL
+340,charitable,ˈʧɛrətəbəl,adj.,慈善的；樂善好施的,The company supports a local charitable organization.,公司贊助一個在地的慈善機構。,社會與公共事務、情緒與溝通,853,TSL
+341,cooler,ˈkulər,n.,冷卻器；保冷箱,The dry cooler on the roof needs cleaning.,屋頂上的乾式冷卻器需要清洗。,冷卻與機械、生活與購物,855,TSL
+342,dealership,ˈdilərˌʃɪp,n.,經銷商；（汽車）經銷店,I took my car to the dealership for service.,我把車開去原廠經銷商保養。,商業與金錢、交通與旅行,857,TSL
+343,dependable,dɪˈpɛndəbəl,adj.,可靠的；可信賴的,We need a dependable power supply for the servers.,伺服器需要可靠的電源供應。,工作與會議、情緒與溝通,858,TSL
+344,disconnect,ˌdɪskəˈnɛkt,v.,斷開；切斷（電源、連線）,Disconnect the power before you open the panel.,打開面板前先切斷電源。,電力、電腦與網路,859,TSL
+345,dispose,dɪˈspoʊz,v.,處理掉；丟棄（dispose of）,Dispose of used batteries in the special recycling bin.,用過的電池要丟到專用回收桶。,生活與購物、安全與消防,860,TSL
+346,disrupt,dɪsˈrəpt,v.,打亂；中斷,The typhoon may disrupt power to the site.,颱風可能會造成廠區供電中斷。,工作與會議,861,TSL
+347,enthusiastically,ɪnˌθuziˈæstɪkli,adv.,熱情地；熱烈地,The staff welcomed the new manager enthusiastically.,員工們熱情地歡迎新經理。,情緒與溝通,863,TSL
+348,freelance,ˈfriˌlæns,adj./v.,自由接案的；當自由工作者,We hired a freelance designer for the new website.,我們請了一位接案設計師來做新網站。,工作與會議,864,TSL
+349,habitual,həˈbɪʧuəl,adj.,習慣性的；慣常的,Habitual lateness can lead to a written warning.,習慣性遲到可能會被書面警告。,生活與購物,866,TSL
+350,internationally,ˌɪntərˈnæʃənəli,adv.,在國際上；國際性地,The company now sells its products internationally.,這家公司現在把產品銷往國際市場。,地點與方向、社會與公共事務,867,TSL
+351,invaluable,ɪnˈvæljəbəl,adj.,非常寶貴的（不是「沒價值」）,Your help during the outage was invaluable.,停電期間你的幫忙非常寶貴。,情緒與溝通,868,TSL
+352,messenger,ˈmɛsənʤər,n.,信差；快遞人員；傳遞訊息的人,A messenger will deliver the contract this afternoon.,今天下午會有快遞人員把合約送過來。,工作與會議、人物與家庭,869,TSL
+353,paperback,ˈpeɪpərˌbæk,n.,平裝書；平裝本,The paperback is cheaper than the hardcover.,平裝本比精裝本便宜。,生活與購物、學習與語言,870,TSL
+354,rebate,ˈriˌbeɪt,n.,回饋金；（部分）退款,Customers can get a $50 rebate on this printer.,顧客買這台印表機可以拿到 50 美元的回饋金。,商業與金錢、生活與購物,871,TSL
+355,recur,rɪˈkər,v.,再發生；重複出現,We must make sure this failure does not recur.,我們必須確保這個故障不再發生。,時間與日期、工作與會議,872,TSL
+356,reproduce,ˌriprəˈdus,v.,重現；複製；繁殖,Can you reproduce the alarm during the test?,你能在測試時重現這個警報嗎？,工作與會議、天氣與自然,873,TSL
+357,staple,ˈsteɪpəl,v./n.,用釘書機釘；釘書針,Please staple the pages of the report together.,請把報告的頁面釘在一起。,工作與會議,875,TSL
+358,tempt,tɛmpt,v.,引誘；吸引；使想要（做某事）,Don't let a tight deadline tempt you to skip safety steps.,別因為期限很趕，就想跳過安全步驟。,情緒與溝通,879,TSL
+359,unusually,ənˈjuʒuəli,adv.,異常地；格外地,The pump is unusually loud this morning.,今天早上泵浦的聲音特別大。,基本用字,882,TSL
+360,vacate,ˈveɪˌkeɪt,v.,撤離；空出（房間、位置）,Vacate the room as soon as the alarm sounds.,警報一響，就立刻撤離房間。,安全與消防、交通與旅行,883,TSL
+361,wisely,ˈwaɪzli,adv.,明智地；聰明地,Please spend the training budget wisely.,請明智地運用訓練預算。,情緒與溝通,885,TSL
+362,anew,əˈnu,adv.,重新；再一次,"The backup failed, so we had to start anew.",備份失敗了，所以我們只好重新開始。,時間與日期,888,TSL
+363,attain,əˈteɪn,v.,達到；獲得（目標、程度等）,It took me two years to attain this certification.,我花了兩年才取得這張證照。,工作與會議、學習與語言,890,TSL
+364,balloon,bəˈlun,n.,氣球,Every child got a free balloon at the store opening.,門市開幕時，每個小朋友都拿到一顆免費氣球。,生活與購物,891,TSL
+365,blueprint,ˈbluˌprɪnt,n.,藍圖；設計圖,Check the blueprint to find the main water pipe.,查看設計圖，找出主水管的位置。,工作與會議,892,TSL
+366,cautious,ˈkɔʃəs,adj.,小心的；謹慎的,Be cautious when you work near live cables.,在帶電電纜附近作業時要小心。,安全與消防、情緒與溝通,894,TSL
+367,convey,kənˈveɪ,v.,傳達；轉達；運送,Please convey my thanks to your team.,請代我向你的團隊轉達謝意。,情緒與溝通、交通與旅行,898,TSL
+368,counselor,ˈkaʊnsələr,n.,諮商師；輔導老師；顧問,HR can help you make an appointment with a counselor.,人資可以協助你和諮商師預約時間。,健康與身體、人物與家庭,900,TSL
+369,debit,ˈdɛbɪt,n./v.,扣款；借方（debit card 簽帳金融卡）,You can pay with cash or a debit card.,你可以用現金或簽帳金融卡付款。,商業與金錢,901,TSL
+370,dependence,dɪˈpɛndəns,n.,依賴；依靠,We want to reduce our dependence on one vendor.,我們想降低對單一廠商的依賴。,基本用字,903,TSL
+371,distraction,dɪˈstrækʃən,n.,使人分心的事；干擾,Avoid any distraction when you work at height.,高處作業時，要避免任何讓人分心的事。,安全與消防、學習與語言,904,TSL
+372,downsize,ˈdaʊnˌsaɪz,v.,裁員；縮編；縮小規模,The company plans to downsize its sales team.,公司計畫縮編業務團隊。,工作與會議、商業與金錢,905,TSL
+373,enthusiast,ɪnˈθuziˌæst,n.,愛好者；…迷；熱衷者,My supervisor is a cycling enthusiast who rides every weekend.,我的主管是自行車愛好者，每個週末都會騎車。,人物與家庭、生活與購物,908,TSL
+374,flextime,ˈflɛksˌtaɪm,n.,彈性工時；彈性上下班制,"With flextime, I can start work between eight and ten.",有了彈性工時，我可以在八點到十點之間開始上班。,工作與會議、時間與日期,911,TSL
+375,fortunately,ˈfɔrʧənətli,adv.,幸好；幸運地,"Fortunately, no one was hurt in the incident.",幸好這起事件沒有人受傷。,情緒與溝通,912,TSL
+376,freighter,ˈfreɪtər,n.,貨輪；貨機,The new chillers will arrive by freighter next month.,新的冰水主機下個月會用貨輪運到。,交通與旅行、商業與金錢,913,TSL
+377,hamburger,ˈhæmbərgər,n.,漢堡,I ordered a hamburger and a salad for lunch.,我午餐點了一個漢堡和一份沙拉。,飲食,916,TSL
+378,homeowner,ˈhoʊmˌoʊnər,n.,屋主；自有住宅者,The homeowner asked a plumber to fix the leaking pipe.,屋主請水電工來修理漏水的水管。,生活與購物、人物與家庭,918,TSL
+379,imperative,ɪmˈpɛrətɪv,adj.,極為重要的；必須的,It is imperative to wear safety shoes on site.,在現場務必穿著安全鞋。,基本用字,919,TSL
+380,inflate,ɪnˈfleɪt,v.,充氣；使膨脹；（數字）灌水,Inflate the tires before the long drive.,長途開車前，先把輪胎打氣。,生活與購物、商業與金錢,920,TSL
+381,lecturer,ˈlɛkʧərər,n.,講師；演講者,The guest lecturer will talk about fire safety.,客座講師會來講解消防安全。,工作與會議、學習與語言,922,TSL
+382,memorize,ˈmɛməˌraɪz,v.,記住；背熟,Please memorize the emergency phone numbers.,請記住緊急聯絡電話。,學習與語言,924,TSL
+383,modification,ˌmɑdəfəˈkeɪʃən,n.,修改；改裝,Any modification to the panel needs approval first.,對配電盤做任何改裝都必須先經過核准。,工作與會議,926,TSL
+384,occupant,ˈɑkjəpənt,n.,居住者；（建築物內的）使用人員,Every occupant must leave the building during a fire drill.,消防演練時，每位人員都必須離開大樓。,人物與家庭、安全與消防,927,TSL
+385,overcharge,ˌoʊvərˈʧɑrʤ,v.,多收費；超收,Please check that the vendor did not overcharge us.,請確認廠商沒有多收我們錢。,商業與金錢、生活與購物,928,TSL
+386,oversee,ˌoʊvərˈsi,v.,監督；督導（動詞）,Our shift lead will oversee the generator test.,我們的值班組長會督導發電機測試。,工作與會議,929,TSL
+387,popcorn,ˈpɑpˌkɔrn,n.,爆米花,Burned popcorn in the break room set off the fire alarm.,茶水間裡燒焦的爆米花觸發了火災警報。,飲食,932,TSL
+388,pottery,ˈpɑtəri,n.,陶藝；陶器,I take a pottery class every Saturday morning.,我每週六早上都去上陶藝課。,生活與購物、社會與公共事務,933,TSL
+389,professionally,prəˈfɛʃənəli,adv.,專業地；在職業上,Always answer customer calls politely and professionally.,接聽客戶電話時，一定要有禮貌又專業。,工作與會議,934,TSL
+390,publicize,ˈpəbləˌsaɪz,v.,宣傳；公布,HR will publicize the new holiday schedule soon.,人資部很快會公布新的假期安排。,商業與金錢、社會與公共事務,935,TSL
+391,redecorate,riˈdɛkəˌreɪt,v.,重新裝潢；重新布置,We plan to redecorate the lobby next month.,我們計畫下個月重新裝潢大廳。,生活與購物、工作與會議,937,TSL
+392,refinery,rɪˈfaɪnəri,n.,煉油廠；精煉廠,The oil refinery runs twenty-four hours a day.,這座煉油廠一天二十四小時運轉。,商業與金錢、地點與方向,938,TSL
+393,refresh,rɪˈfrɛʃ,v.,重新整理（網頁）；使恢復精神；複習,Refresh the page to see the latest alarms.,重新整理頁面，就能看到最新的警報。,電腦與網路、健康與身體,939,TSL
+394,refundable,rɪˈfəndəbəl,adj.,可退款的,This hotel booking is not refundable.,這筆飯店訂房不能退款。,商業與金錢、交通與旅行,940,TSL
+395,reimbursement,ˌriɪmˈbərsmənt,n.,（費用）報帳；核銷；補償,Submit your taxi receipts for reimbursement by Friday.,請在星期五前交計程車收據申請報帳。,商業與金錢、工作與會議,941,TSL
+396,reliability,rɪˌlaɪəˈbɪləti,n.,可靠性；可靠度,Good maintenance improves the reliability of our equipment.,良好的保養能提高設備的可靠度。,工作與會議、電力,942,TSL
+397,reluctant,rɪˈləktənt,adj.,不情願的；勉強的,He was reluctant to work another night shift.,他不太願意再多上一個夜班。,情緒與溝通,943,TSL
+398,sewer,ˈsuər,n.,下水道；污水管,The sewer pipe near the loading dock is blocked.,卸貨區附近的污水管堵住了。,冷卻與機械、地點與方向,944,TSL
+399,skate,skeɪt,v./n.,溜冰；滑冰；溜冰鞋,My kids love to skate in the park on weekends.,我的孩子週末很喜歡去公園溜冰。,生活與購物、健康與身體,945,TSL
+400,skateboard,ˈskeɪtˌbɔrd,n./v.,滑板；玩滑板,Please do not ride a skateboard in the parking lot.,請勿在停車場玩滑板。,生活與購物、健康與身體,946,TSL
+401,sleepy,ˈslipi,adj.,想睡的；睏的,I often feel sleepy during the night shift.,上夜班時我常常覺得很睏。,健康與身體,947,TSL
+402,tailor,ˈteɪlər,v./n.,量身打造；調整以符合需求；裁縫師,We can tailor the training to each new hire.,我們可以依每位新進人員調整訓練內容。,工作與會議、生活與購物,948,TSL
+403,termination,ˌtərməˈneɪʃən,n.,終止；解約；（電纜）端接,The contract termination takes effect next month.,合約終止將於下個月生效。,工作與會議、電力,949,TSL
+404,thunderstorm,ˈθəndərˌstɔrm,n.,雷雨,The thunderstorm caused a short power outage.,雷雨造成了短暫停電。,天氣與自然,951,TSL
+405,transmit,trænzˈmɪt,v.,傳送；傳輸；傳播,The sensor will transmit data every minute.,感測器每分鐘會傳送一次資料。,電腦與網路、電力,953,TSL
+406,unused,ənˈjuzd,adj.,未使用的；沒用過的,Return unused parts to the storeroom.,把沒用到的零件歸還到儲藏室。,基本用字,954,TSL
+407,waive,weɪv,v.,免除（費用）；放棄（權利）,The vendor agreed to waive the delivery fee.,廠商同意免收運費。,商業與金錢、社會與公共事務,955,TSL
+408,yen,jɛn,n.,日圓；渴望,I changed some Taiwan dollars into yen for my trip.,我把一些台幣換成日圓，準備去旅行。,商業與金錢、交通與旅行,956,TSL
+409,affirmative,əˈfərmətɪv,adj.,肯定的；同意的,We got an affirmative answer from the vendor.,我們得到了廠商肯定的答覆。,情緒與溝通、學習與語言,959,TSL
+410,brainstorm,ˈbreɪnˌstɔrm,v./n.,腦力激盪,Let's brainstorm ways to save energy.,我們來腦力激盪，想想節能的方法。,工作與會議、學習與語言,961,TSL
+411,condominium,ˌkɑndəˈmɪniəm,n.,公寓大樓；分戶產權的公寓（簡稱 condo）,They bought a condominium close to the MRT station.,他們在捷運站附近買了一間公寓。,生活與購物、地點與方向,965,TSL
+412,cordless,ˈkɔrdləs,adj.,無線的（不需電源線）,Use the cordless drill for this job.,這項工作請用無線電鑽。,電力,967,TSL
+413,deluxe,dəˈləks,adj.,豪華的；高級的,We booked a deluxe room with a city view.,我們訂了一間可以看到市景的豪華客房。,交通與旅行、生活與購物,968,TSL
+414,desirable,dɪˈzaɪrəbəl,adj.,理想的；值得擁有的；（徵才）尤佳的,Experience with UPS systems is desirable.,有 UPS 系統經驗者尤佳。,工作與會議,969,TSL
+415,discrepancy,dɪˈskrɛpənsi,n.,差異；不一致；出入,We found a discrepancy in the spare parts count.,我們發現備品數量有出入。,工作與會議、數字與數量,970,TSL
+416,drawback,ˈdrɔˌbæk,n.,缺點；不利之處,The main drawback of this plan is the cost.,這個方案的主要缺點是成本。,基本用字,972,TSL
+417,dull,dəl,adj.,無聊的；鈍的；暗淡的,A dull blade is more dangerous than a sharp one.,鈍的刀片比鋒利的刀片更危險。,情緒與溝通、生活與購物,973,TSL
+418,economically,ˌɛkəˈnɑmɪkli,adv.,經濟上；節約地；省錢地,We need to run the cooling system more economically.,我們需要讓冷卻系統運轉得更省錢。,商業與金錢,974,TSL
+419,evenly,ˈivənli,adv.,平均地；均勻地,Spread the load evenly across the three phases.,把負載平均分配到三相上。,基本用字,975,TSL
+420,farewell,ˌfɛrˈwɛl,n.,告別；歡送,We are having a farewell lunch for Jason.,我們要為 Jason 辦一場歡送午餐。,情緒與溝通、工作與會議,978,TSL
+421,fatigue,fəˈtig,n.,疲勞；疲倦,Fatigue can cause mistakes on the night shift.,疲勞可能會導致夜班時出錯。,健康與身體、安全與消防,979,TSL
+422,fog,fɑg,n.,霧,Heavy fog delayed my flight to Singapore.,大霧讓我飛新加坡的班機延誤了。,天氣與自然,983,TSL
+423,formally,ˈfɔrməli,adv.,正式地；鄭重地,The new manager will be formally introduced on Monday.,新經理將在星期一正式向大家介紹。,工作與會議、情緒與溝通,984,TSL
+424,gram,græm,n.,公克,A paper clip weighs about one gram.,一個迴紋針大約重一公克。,數字與數量,985,TSL
+425,hiker,ˈhaɪkər,n.,健行者；登山客,Every hiker should carry enough water and a map.,每位登山客都應該帶足夠的水和一張地圖。,交通與旅行、天氣與自然,990,TSL
+426,lighter,ˈlaɪtər,n.,打火機（也是 light 的比較級：較輕的、較亮的）,Leave your lighter at the security desk before entering.,進入前，請把打火機留在警衛櫃檯。,安全與消防、生活與購物,992,TSL
+427,loudly,ˈlaʊdli,adv.,大聲地,Please speak loudly; the data hall is noisy.,請大聲說話，機房裡很吵。,情緒與溝通,993,TSL
+428,misidentify,ˌmɪsaɪˈdɛntəˌfaɪ,v.,誤認；辨識錯誤,Label each breaker so no one can misidentify it.,每個斷路器都要貼標籤，才不會有人認錯。,工作與會議、安全與消防,996,TSL
+429,personalize,ˈpərsənəˌlaɪz,v.,個人化；依個人需求設定,You can personalize your email signature in the settings.,你可以在設定裡把郵件簽名個人化。,電腦與網路、生活與購物,1002,TSL
+430,poorly,ˈpʊrli,adv.,不好地；差勁地；不足地,This storage room is poorly ventilated.,這間儲藏室通風不良。,基本用字,1003,TSL
+431,prestigious,prɛˈstɪʤəs,adj.,有聲望的；享有盛名的,Our site won a prestigious award for saving energy.,我們廠區因為節能表現，獲得一個很有聲望的獎項。,社會與公共事務、工作與會議,1004,TSL
+432,purser,ˈpərsər,n.,（飛機、郵輪上的）事務長,The purser made an announcement before landing.,降落前，事務長做了一段廣播。,交通與旅行、人物與家庭,1005,TSL
+433,reassure,ˌriəˈʃʊr,v.,使安心；安撫；向…保證,The manager tried to reassure the worried customer.,經理試著安撫擔心的客戶。,情緒與溝通,1006,TSL
+434,reunion,riˈunjən,n.,重聚；同學會；團聚,I will take a day off for my class reunion.,我要請一天假去參加同學會。,人物與家庭、生活與購物,1008,TSL
+435,revolutionize,ˌrɛvəˈluʃəˌnaɪz,v.,徹底改變；革新,Liquid cooling may revolutionize how we cool servers.,液冷技術可能會徹底改變我們冷卻伺服器的方式。,商業與金錢、電腦與網路,1009,TSL
+436,seafood,ˈsiˌfud,n.,海鮮,"I can't eat seafood, so I ordered the chicken.",我不能吃海鮮，所以點了雞肉。,飲食,1010,TSL
+437,signify,ˈsɪgnəˌfaɪ,v.,表示；意味著,What does this red light signify?,這個紅燈代表什麼意思？,學習與語言,1011,TSL
+438,steer,stɪr,v.,駕駛；操控（方向）；引導,Steer the pallet jack slowly through the door.,慢慢地操控拖板車穿過門口。,交通與旅行,1013,TSL
+439,traditionally,trəˈdɪʃənəli,adv.,傳統上；照慣例,"Traditionally, our company holds a year-end party in January.",依照慣例，我們公司會在一月舉辦尾牙。,社會與公共事務,1016,TSL
+440,underway,ˌəndərˈweɪ,adj.,進行中的；已開始的,The UPS repair is already underway.,UPS 的維修已經在進行中了。,工作與會議、時間與日期,1018,TSL
+441,unpleasant,ənˈplɛzənt,adj.,令人不愉快的；難聞的,There is an unpleasant smell near the battery room.,電池室附近有一股難聞的味道。,情緒與溝通,1019,TSL
+442,violin,ˌvaɪəˈlɪn,n.,小提琴,My daughter practices the violin every evening.,我女兒每天晚上都會練小提琴。,生活與購物,1020,TSL
+443,worthwhile,ˌwərθˈwaɪl,adj.,值得的；有價值的,The safety training was really worthwhile.,這次的安全訓練真的很值得。,基本用字,1022,TSL
+444,advisable,ədˈvaɪzəbəl,adj.,明智的；可取的,It is advisable to wear gloves in the battery room.,在電池室裡最好戴上手套。,基本用字,1024,TSL
+445,assurance,əˈʃʊrəns,n.,保證；確保（quality assurance 品質保證）,Our quality assurance team checks every new rack.,我們的品保團隊會檢查每一座新機櫃。,工作與會議、商業與金錢,1027,TSL
+446,attire,əˈtaɪər,n.,服裝；衣著,Business attire is required for the customer visit.,客戶來訪時須穿著商務服裝。,生活與購物、工作與會議,1029,TSL
+447,auditor,ˈɔdɪtər,n.,稽核員；審計員,The auditor will check our safety records tomorrow.,稽核員明天會檢查我們的安全紀錄。,工作與會議、商業與金錢,1030,TSL
+448,centimeter,ˈsɛntəˌmitər,n.,公分,The cable is one centimeter too short.,這條電纜短了一公分。,數字與數量,1034,TSL
+449,circulate,ˈsərkjəˌleɪt,v.,循環；流通；傳閱,Fans help cold air circulate in the room.,風扇幫助冷空氣在房間內循環。,冷卻與機械、工作與會議,1035,TSL
+450,comfortably,ˈkəmfərtəbli,adv.,舒適地；輕鬆地,This meeting room can comfortably seat ten people.,這間會議室可以輕鬆容納十個人。,情緒與溝通、生活與購物,1037,TSL
+451,contraction,kənˈtrækʃən,n.,縮寫（如 won't = will not）；收縮,The word won't is a contraction of will not.,won't 這個字是 will not 的縮寫。,學習與語言,1039,TSL
+452,cookbook,ˈkʊkˌbʊk,n.,食譜；烹飪書,I bought a cookbook to learn how to cook easy meals.,我買了一本食譜，想學做一些簡單的餐點。,飲食,1040,TSL
+453,embed,ɪmˈbɛd,v.,嵌入；內嵌,You can embed the chart in your email.,你可以把圖表嵌入電子郵件中。,電腦與網路,1044,TSL
+454,evacuate,ɪˈvækjuˌeɪt,v.,疏散；撤離,Evacuate the building when the fire alarm sounds.,火災警報響起時，要立即疏散離開大樓。,安全與消防,1045,TSL
+455,familiarity,fəˌmɪlˈjɛrəti,n.,熟悉；熟悉程度,Familiarity with electrical drawings is a plus.,熟悉電氣圖面者加分。,學習與語言、工作與會議,1048,TSL
+456,flaw,flɔ,n.,缺陷；瑕疵（設計、邏輯上）,We found a design flaw in the new cable tray.,我們發現新的電纜架有設計上的缺陷。,工作與會議、商業與金錢,1049,TSL
+457,fluctuate,ˈfləkʧuˌeɪt,v.,波動；起伏不定,The voltage may fluctuate during the storm.,暴風雨期間電壓可能會波動。,數字與數量、商業與金錢,1050,TSL
+458,fluent,ˈfluənt,adj.,流利的,She is fluent in English and Japanese.,她的英文和日文都很流利。,學習與語言、情緒與溝通,1051,TSL
+459,housekeeping,ˈhaʊsˌkipɪŋ,n.,（飯店）房務部；家務；（工作場所的）整理清潔,Please call housekeeping and ask for more towels.,請打電話給房務部，多要幾條毛巾。,交通與旅行、生活與購物,1053,TSL
+460,hygiene,ˈhaɪˌʤin,n.,衛生,Good hand hygiene helps stop the flu.,良好的手部衛生有助於預防流感。,健康與身體,1055,TSL
+461,interfere,ˌɪntərˈfɪr,v.,干擾；干涉；妨礙,Phones can interfere with some test equipment.,手機可能會干擾某些測試儀器。,工作與會議、情緒與溝通,1058,TSL
+462,kilogram,ˈkɪləˌgræm,n.,公斤,One liter of water weighs one kilogram.,一公升的水重一公斤。,數字與數量,1059,TSL
+463,layoff,ˈleɪˌɔf,n.,裁員；資遣,The factory had a big layoff last year.,那家工廠去年大規模裁員。,工作與會議、商業與金錢,1060,TSL
+464,lightweight,ˈlaɪtˌweɪt,adj.,輕量的；輕便的,Use the lightweight ladder in the data hall.,在機房裡請使用輕型梯子。,數字與數量、生活與購物,1061,TSL
+465,necklace,ˈnɛkləs,n.,項鍊,Take off your necklace before you work near moving parts.,在運轉的機件附近作業前，請先拿下項鍊。,生活與購物,1063,TSL
+466,needy,ˈnidi,adj.,貧困的；需要幫助的,Our company donates food to needy families every winter.,我們公司每年冬天都會捐食物給弱勢家庭。,人物與家庭、社會與公共事務,1064,TSL
+467,overpay,ˌoʊvərˈpeɪ,v.,多付（錢）,Check the invoice so we do not overpay.,仔細核對發票，以免我們多付錢。,商業與金錢、生活與購物,1065,TSL
+468,pamphlet,ˈpæmflət,n.,小冊子；說明手冊,Give each visitor a safety pamphlet at the gate.,在大門口發給每位訪客一份安全須知手冊。,工作與會議,1066,TSL
+469,penalize,ˈpinəˌlaɪz,v.,處罰；罰款,The contract will penalize the vendor for late delivery.,依照合約，廠商延遲交貨會被罰款。,社會與公共事務、工作與會議,1068,TSL
+470,pollute,pəˈlut,v.,污染,Old diesel engines can pollute the air.,老舊的柴油引擎可能會污染空氣。,天氣與自然,1069,TSL
+471,prescribe,prɪˈskraɪb,v.,開（藥方）；規定,The doctor will prescribe something for your cough.,醫生會開藥治療你的咳嗽。,健康與身體,1070,TSL
+472,probable,ˈprɑbəbəl,adj.,很可能的,A loose cable is the most probable cause.,最可能的原因是電纜鬆脫。,基本用字,1071,TSL
+473,rainfall,ˈreɪnˌfɔl,n.,降雨；降雨量,Heavy rainfall may flood the parking lot.,豪雨可能會讓停車場淹水。,天氣與自然,1073,TSL
+474,relocation,ˌriloʊˈkeɪʃən,n.,搬遷；遷移；調職,The server relocation is planned for Saturday night.,伺服器搬遷預定在星期六晚上進行。,工作與會議、地點與方向,1074,TSL
+475,sharply,ˈʃɑrpli,adv.,急劇地；嚴厲地,The room temperature rose sharply after the AHU tripped.,空調箱跳脫後，室溫急劇上升。,基本用字,1081,TSL
+476,spectator,ˈspɛkˌteɪtər,n.,觀眾（比賽、活動）；旁觀者,Each spectator must show a ticket at the stadium gate.,每位觀眾都必須在體育場入口出示門票。,人物與家庭、生活與購物,1084,TSL
+477,stereo,ˈstɛriˌoʊ,n.,音響；立體聲,Please turn down the stereo while I'm on the phone.,我在講電話時，請把音響關小聲一點。,生活與購物,1085,TSL
+478,storeroom,ˈstɔrˌrum,n.,儲藏室；倉庫,Spare filters are kept in the storeroom.,備用濾網放在儲藏室裡。,地點與方向、工作與會議,1086,TSL
+479,subsidize,ˈsəbsəˌdaɪz,v.,補助；資助,The company will subsidize our night shift meals.,公司會補助我們夜班的餐費。,商業與金錢、社會與公共事務,1087,TSL
+480,tasty,ˈteɪsti,adj.,美味的；好吃的,The beef noodles at this shop are really tasty.,這家店的牛肉麵真的很好吃。,飲食,1089,TSL
+481,terrific,təˈrɪfɪk,adj.,極好的；很棒的,You did a terrific job on the report.,你這份報告做得非常好。,情緒與溝通,1090,TSL
+482,unpaid,ənˈpeɪd,adj.,未付款的；無薪的,He took two weeks of unpaid leave.,他請了兩週的無薪假。,商業與金錢、工作與會議,1092,TSL
+483,volleyball,ˈvɑliˌbɔl,n.,排球,Our team plays volleyball after work every Friday.,我們團隊每週五下班後都會打排球。,生活與購物、健康與身體,1093,TSL
+484,wrinkle,ˈrɪŋkəl,n./v.,皺紋；皺褶；（使）起皺,Hang up your uniform so it doesn't wrinkle.,把制服掛起來，才不會起皺。,生活與購物、健康與身體,1097,TSL
+485,anyhow,ˈɛniˌhaʊ,adv.,總之；無論如何；反正,"Anyhow, let's move on to the next item.",總之，我們進入下一個議題吧。,基本用字,1099,TSL
+486,appetizer,ˈæpəˌtaɪzər,n.,開胃菜；前菜,Let's order an appetizer while we wait for the others.,我們等其他人的時候，先點一道開胃菜吧。,飲食,1100,TSL
+487,audition,ɔˈdɪʃən,n./v.,試鏡；試演；參加試鏡,She has an audition for the community theater next week.,她下週要參加社區劇團的試鏡。,生活與購物、工作與會議,1102,TSL
+488,ballroom,ˈbɔlˌrum,n.,宴會廳；舞廳,The year-end banquet will be in the hotel ballroom.,尾牙將在飯店的宴會廳舉行。,地點與方向、工作與會議,1104,TSL
+489,biography,baɪˈɑgrəfi,n.,傳記,I am reading a biography of a famous scientist.,我正在讀一本知名科學家的傳記。,學習與語言、人物與家庭,1106,TSL
+490,cheeseburger,ˈʧizˌbərgər,n.,起司漢堡,"I'll have a cheeseburger with no onions, please.",我要一個起司漢堡，不要洋蔥，謝謝。,飲食,1109,TSL
+491,consignment,kənˈsaɪnmənt,n.,（一批）託運貨物；寄售,The consignment of batteries arrives on Monday.,這批電池貨物星期一會到。,商業與金錢、工作與會議,1113,TSL
+492,demolish,dɪˈmɑlɪʃ,v.,拆除；摧毀,They will demolish the old warehouse next year.,他們明年會拆除舊倉庫。,地點與方向、工作與會議,1117,TSL
+493,departmental,dɪˌpɑrtˈmɛntəl,adj.,部門的,The departmental meeting starts at nine.,部門會議九點開始。,工作與會議,1118,TSL
+494,devastate,ˈdɛvəˌsteɪt,v.,摧毀；重創；使極度震驚（或難過）,A long power outage could devastate a small business.,長時間停電可能會重創一家小公司。,情緒與溝通、天氣與自然,1120,TSL
+495,diagnostic,ˌdaɪəgˈnɑstɪk,adj./n.,診斷的；故障診斷,Run a diagnostic test on the UPS.,對 UPS 執行診斷測試。,電腦與網路、健康與身體,1121,TSL
+496,disable,dɪˈseɪbəl,v.,停用；使無法運作；使失能,IT will disable your account on your last day.,你最後一天上班時，資訊部會停用你的帳號。,電腦與網路、工作與會議,1124,TSL
+497,disgust,dɪsˈgəst,n./v.,厭惡；反感；使作嘔,He looked at the messy break room in disgust.,他一臉嫌惡地看著凌亂的休息室。,情緒與溝通,1125,TSL
+498,donut,ˈdoʊˌnət,n.,甜甜圈,I bought a donut and a coffee before my shift.,我上班前買了一個甜甜圈和一杯咖啡。,飲食,1126,TSL
+499,doorman,ˈdɔrˌmæn,n.,門房；門衛（大樓、飯店）,The hotel doorman helped us carry our bags.,飯店的門房幫我們提行李。,交通與旅行、人物與家庭,1127,TSL
+500,electronically,ɪˌlɛkˈtrɑnɪkli,adv.,以電子方式,Please sign the form electronically.,請以電子方式簽署這份表單。,電腦與網路,1128,TSL
+501,elevate,ˈɛləˌveɪt,v.,抬高；提升（地位、水準）,Elevate your injured ankle to reduce the swelling.,把受傷的腳踝抬高，可以減輕腫脹。,健康與身體,1129,TSL
+502,enrollment,ɪnˈroʊlmənt,n.,註冊；報名；登記,Online enrollment for the safety course ends Friday.,安全課程的線上報名星期五截止。,學習與語言、工作與會議,1131,TSL
+503,forbid,fərˈbɪd,v.,禁止；不准,Site rules forbid smoking near the diesel fuel tanks.,廠區規定禁止在柴油油槽附近吸菸。,安全與消防、社會與公共事務,1133,TSL
+504,getaway,ˈgɛtəˌweɪ,n.,短期度假；小旅行（weekend getaway 週末小旅行）,We are planning a weekend getaway to the mountains.,我們正在計畫一趟到山上的週末小旅行。,交通與旅行,1136,TSL
+505,gossip,ˈgɑsəp,n./v.,閒話；八卦；說人閒話,Please don't gossip about your coworkers.,請不要在背後說同事的閒話。,情緒與溝通、人物與家庭,1137,TSL
+506,hacker,ˈhækər,n.,駭客,A hacker tried to log in to our system.,有駭客試圖登入我們的系統。,電腦與網路、安全與消防,1138,TSL
+507,hardworking,ˌhɑrdˈwərkɪŋ,adj.,勤奮的；認真工作的,Our night shift team is very hardworking.,我們的夜班團隊非常認真勤奮。,工作與會議、情緒與溝通,1139,TSL
+508,impatient,ɪmˈpeɪʃənt,adj.,不耐煩的；急躁的,The customer is getting impatient about the delay.,客戶對延誤越來越不耐煩。,情緒與溝通,1140,TSL
+509,interpreter,ɪnˈtərprətər,n.,口譯員,We need an interpreter for the vendor meeting.,和廠商開會時我們需要一位口譯員。,工作與會議、學習與語言,1142,TSL
+510,letterhead,ˈlɛtərˌhɛd,n.,信頭；印有公司抬頭的信紙,Print the letter on company letterhead.,把這封信印在有公司抬頭的信紙上。,工作與會議,1147,TSL
+511,monument,ˈmɑnjəmənt,n.,紀念碑；紀念性建築；古蹟,Our tour group visited a famous monument downtown.,我們的旅行團參觀了市中心一座著名的紀念碑。,交通與旅行、社會與公共事務,1150,TSL
+512,obligated,ˈɑbləˌgeɪtɪd,adj.,有義務的；不得不（be obligated to）,You are not obligated to work overtime this weekend.,你沒有義務在這個週末加班。,工作與會議,1152,TSL
+513,oblige,əˈblaɪʤ,v.,使有義務；迫使；幫忙,The rules oblige all visitors to wear a badge.,規定要求所有訪客都必須配戴識別證。,情緒與溝通、工作與會議,1153,TSL
+514,occurrence,əˈkərəns,n.,發生；事件,Record every occurrence of this alarm in the log.,這個警報每次發生都要記錄在日誌裡。,基本用字,1154,TSL
+515,overcrowded,ˌoʊvərˈkraʊdɪd,adj.,過度擁擠的；人滿為患的,The break room gets overcrowded at lunchtime.,午餐時間，休息室會擠得人滿為患。,地點與方向、交通與旅行,1157,TSL
+516,paralegal,ˌpɛrəˈligəl,n.,律師助理；法務助理,The paralegal will send you the contract to sign.,法務助理會把合約寄給你簽名。,工作與會議、社會與公共事務,1158,TSL
+517,permanently,ˈpərmənəntli,adv.,永久地,This parking area is permanently closed.,這個停車區已永久關閉。,時間與日期,1161,TSL
+518,plow,plaʊ,v./n.,剷（雪）；犁（田）；犁（農具）,The city will plow the main roads after the snowstorm.,暴風雪過後，市政府會剷除主要道路上的積雪。,天氣與自然,1162,TSL
+519,query,ˈkwɪri,n./v.,疑問；詢問；查詢,I have a query about my overtime pay.,我對我的加班費有個疑問。,電腦與網路、情緒與溝通,1163,TSL
+520,reconsider,ˌrikənˈsɪdər,v.,重新考慮,Could you reconsider the schedule for next week?,你可以重新考慮下週的排班嗎？,學習與語言,1166,TSL
+521,redesign,ˌridɪˈzaɪn,v./n.,重新設計,We need to redesign the cable layout.,我們需要重新設計電纜的配置。,工作與會議,1167,TSL
+522,rehearsal,rɪˈhərsəl,n.,排練；預演（名詞）,We had a rehearsal before the customer presentation.,我們在向客戶簡報前先排練了一次。,工作與會議、生活與購物,1168,TSL
+523,relaxation,ˌrilækˈseɪʃən,n.,放鬆；休閒,Yoga is good for relaxation after a night shift.,上完夜班後做瑜伽有助於放鬆。,健康與身體、生活與購物,1169,TSL
+524,repetition,ˌrɛpəˈtɪʃən,n.,重複；反覆,Repetition helps me remember new English words.,反覆練習幫助我記住新的英文單字。,學習與語言,1170,TSL
+525,salon,səˈlɑn,n.,美髮院；美容院；沙龍,I have a haircut appointment at the salon on Saturday.,我星期六有預約去美髮院剪頭髮。,生活與購物,1172,TSL
+526,scenery,ˈsinəri,n.,風景；景色,The scenery along the east coast is beautiful.,東海岸沿途的風景很美。,交通與旅行、天氣與自然,1174,TSL
+527,sew,soʊ,v.,縫；縫製；縫補,Can you sew this button back on my shirt?,你可以幫我把這顆鈕扣縫回襯衫上嗎？,生活與購物,1176,TSL
+528,soar,sɔr,v.,飆升；急速上升；高飛,Temperatures can soar above 35 degrees in July.,七月氣溫可能飆升到 35 度以上。,數字與數量、商業與金錢,1179,TSL
+529,stimulus,ˈstɪmjələs,n.,刺激；激勵；（經濟）刺激措施,Lower interest rates can be a stimulus to the economy.,降低利率能刺激經濟。,商業與金錢、學習與語言,1180,TSL
+530,stockbroker,ˈstɑkˌbroʊkər,n.,股票經紀人；證券營業員,My cousin works as a stockbroker in Taipei.,我表哥在台北當股票經紀人。,商業與金錢、工作與會議,1181,TSL
+531,tablecloth,ˈteɪbəlˌklɔθ,n.,桌巾；桌布,The staff put a white tablecloth on every table.,工作人員在每張桌子上都鋪了白色桌巾。,生活與購物,1182,TSL
+532,thirsty,ˈθərsti,adj.,口渴的,"Drink water often, even if you are not thirsty.",即使不渴，也要常常喝水。,健康與身體、飲食,1183,TSL
+533,thrill,θrɪl,n./v.,興奮；激動；使興奮,It was a real thrill to win the safety award.,能贏得安全獎真的讓人非常興奮。,情緒與溝通,1184,TSL
+534,toiletry,ˈtɔɪlətri,n.,盥洗用品（常用複數 toiletries）,Don't forget your toiletry bag for the business trip.,出差別忘了帶你的盥洗包。,生活與購物、交通與旅行,1186,TSL
+535,trademark,ˈtreɪdˌmɑrk,n.,商標；（個人的）招牌特色,The company logo is a registered trademark.,公司的標誌是註冊商標。,商業與金錢、社會與公共事務,1187,TSL
+536,tuna,ˈtunə,n.,鮪魚,I'll have a tuna sandwich and an iced tea.,我要一份鮪魚三明治和一杯冰紅茶。,飲食、天氣與自然,1189,TSL
+537,unemployed,ˌənɪmˈplɔɪd,adj.,失業的,He was unemployed for three months before this job.,他在找到這份工作之前失業了三個月。,工作與會議,1190,TSL
+538,validate,ˈvæləˌdeɪt,v.,驗證；確認有效,Please validate the test results before you sign.,簽名前請先確認測試結果無誤。,工作與會議、電腦與網路,1191,TSL
+539,vanilla,vəˈnɪlə,n.,香草；香草口味,Would you like vanilla or chocolate ice cream?,你要香草還是巧克力冰淇淋？,飲食,1192,TSL
+540,willingness,ˈwɪlɪŋnəs,n.,意願；樂意,We value your willingness to learn new skills.,我們很重視你學習新技能的意願。,情緒與溝通,1193,TSL
+541,wristwatch,ˈrɪstˌwɑʧ,n.,手錶,Remove your wristwatch and rings before any electrical work.,進行任何電氣作業前，先摘下手錶和戒指。,生活與購物、時間與日期,1194,TSL
+542,abide,əˈbaɪd,v.,遵守（常用 abide by）；忍受,All contractors must abide by the safety rules.,所有承包商都必須遵守安全規定。,安全與消防、工作與會議,1195,TSL
+543,apprehensive,ˌæprɪˈhɛnsɪv,adj.,憂慮的；擔心的；不安的,I was apprehensive about my first night shift.,我對第一次上夜班感到很不安。,情緒與溝通,1198,TSL
+544,automotive,ˌɔtəˈmoʊtɪv,adj.,汽車的；汽車業的,She worked in the automotive industry before joining us.,她加入我們之前在汽車產業工作。,交通與旅行、商業與金錢,1199,TSL
+545,broaden,ˈbrɔdən,v.,拓寬；擴大,This training will broaden your skills.,這項訓練會拓展你的技能。,學習與語言,1201,TSL
+546,bylaw,ˈbaɪˌlɔ,n.,章程；細則；規章（常用複數 bylaws）,Any new bylaw must be approved by the board.,任何新的章程條款都必須經過董事會核准。,工作與會議、社會與公共事務,1203,TSL
+547,considerate,kənˈsɪdərət,adj.,體貼的；為人著想的,Please be considerate and keep the break room clean.,請體諒他人，保持休息室整潔。,情緒與溝通、人物與家庭,1206,TSL
+548,daytime,ˈdeɪˌtaɪm,n.,白天；日間,I sleep in the daytime after a night shift.,上完夜班後，我會在白天睡覺。,時間與日期,1207,TSL
+549,discard,dɪˈskɑrd,v.,丟棄；拋棄,Discard used gloves in the yellow bin.,把用過的手套丟進黃色垃圾桶。,生活與購物,1209,TSL
+550,drastically,ˈdræstɪkli,adv.,大幅地；劇烈地,Our power bill dropped drastically after the LED upgrade.,改用 LED 之後，我們的電費大幅下降。,基本用字,1210,TSL
+551,explorer,ɪkˈsplɔrər,n.,探險家；探索者,The book is about an explorer who sailed around the world.,這本書講的是一位駕船環遊世界的探險家。,交通與旅行、人物與家庭,1212,TSL
+552,factual,ˈfækʧuəl,adj.,事實的；根據事實的,Keep your incident report short and factual.,事故報告要簡短，並根據事實撰寫。,學習與語言,1213,TSL
+553,fixture,ˈfɪksʧər,n.,固定裝置；燈具,The light fixture in the hallway is flickering.,走廊的燈具在閃爍。,電力、生活與購物,1214,TSL
+554,footwear,ˈfʊtˌwɛr,n.,鞋類,Safety footwear is required in the loading area.,卸貨區必須穿著安全鞋。,生活與購物、安全與消防,1215,TSL
+555,gymnasium,ʤɪmˈneɪziəm,n.,體育館；健身房（常簡稱 gym）,The job fair will take place in the school gymnasium.,就業博覽會將在學校體育館舉行。,健康與身體、地點與方向,1217,TSL
+556,hereby,ˌhɪrˈbaɪ,adv.,特此；藉此,I hereby confirm that the work is complete.,本人特此確認工作已完成。,基本用字,1218,TSL
+557,hesitation,ˌhɛzəˈteɪʃən,n.,猶豫；遲疑,Please call me without hesitation if you need help.,需要幫忙的話，請別猶豫，直接打給我。,情緒與溝通,1219,TSL
+558,homemade,ˌhoʊmˈmeɪd,adj.,自製的；家裡做的；手工的,She brought homemade cookies to the team meeting.,她帶了自己做的餅乾來參加團隊會議。,飲食、生活與購物,1220,TSL
+559,hospitality,ˌhɑspəˈtæləti,n.,款待；好客；餐旅服務業,Thank you for your hospitality during our visit.,謝謝你們在我們參訪期間的熱情款待。,交通與旅行、情緒與溝通,1221,TSL
+560,incoming,ˈɪnˌkəmɪŋ,adj.,進來的；新到的；即將上任的,Check all incoming shipments at the loading dock.,在卸貨區檢查所有進來的貨物。,工作與會議,1222,TSL
+561,induction,ɪnˈdəkʃən,n.,新人訓練；就職；（電）感應,New staff must attend the site induction on Monday.,新進人員星期一必須參加現場的新人訓練。,工作與會議、電力,1223,TSL
+562,intently,ɪnˈtɛntli,adv.,專注地；目不轉睛地,Everyone listened intently to the safety briefing.,大家都專心地聽安全簡報。,情緒與溝通、安全與消防,1225,TSL
+563,mower,ˈmoʊər,n.,割草機（lawn mower）,Always turn off the mower before you clean the blade.,清理刀片前，一定要先把割草機關掉。,生活與購物、天氣與自然,1226,TSL
+564,restatement,riˈsteɪtmənt,n.,重述；換句話說（意思相同、用字不同的說法）,The correct answer is often a restatement of the speaker's words.,正確答案往往是把說話者的話換個說法。,學習與語言,1228,TSL
+565,sedan,sɪˈdæn,n.,轎車,I rented a small sedan for the business trip.,我為了這趟出差租了一輛小轎車。,交通與旅行,1229,TSL
+566,wellness,ˈwɛlnəs,n.,健康；身心健康,The company offers a free wellness program.,公司提供免費的健康促進計畫。,健康與身體,1231,TSL
+567,workbook,ˈwərkˌbʊk,n.,練習簿；（試算表的）活頁簿,Save the workbook to the shared folder.,把活頁簿存到共用資料夾。,學習與語言、電腦與網路,1232,TSL
+568,bookcase,ˈbʊkˌkeɪs,n.,書櫃；書架,Please move the bookcase away from the fire exit.,請把書櫃從逃生出口移開。,生活與購物,1233,TSL
+569,cleanliness,ˈklɛnlinəs,n.,清潔；整潔,Cleanliness is very important in the data hall.,機房裡的清潔非常重要。,生活與購物、健康與身體,1234,TSL
+570,contestant,kənˈtɛstənt,n.,參賽者；競賽者,Each contestant has three minutes to give a speech.,每位參賽者有三分鐘的演講時間。,人物與家庭、生活與購物,1235,TSL
+571,healthful,ˈhɛlθfəl,adj.,有益健康的；健康的,The cafeteria now serves more healthful meals.,員工餐廳現在供應更多健康的餐點。,健康與身體、飲食,1237,TSL
+572,inefficient,ˌɪnɪˈfɪʃənt,adj.,效率低的；沒效率的,The old chiller is noisy and inefficient.,那台舊冰水主機又吵又沒效率。,工作與會議,1238,TSL
+573,liter,ˈlitər,n.,公升,Each liter of diesel costs about thirty NT dollars.,柴油每公升大約新台幣三十元。,數字與數量,1239,TSL
+574,recession,rɪˈsɛʃən,n.,經濟衰退；不景氣,Many companies stopped hiring during the recession.,經濟衰退期間，很多公司都停止招募新人。,商業與金錢,1240,TSL
+575,unreliable,ˌənrɪˈlaɪəbəl,adj.,不可靠的,This old temperature sensor is unreliable.,這個舊的溫度感測器不可靠。,工作與會議、情緒與溝通,1242,TSL
+576,acclaim,əˈkleɪm,n./v.,讚揚；好評；稱讚,The chef's new menu received wide acclaim.,主廚的新菜單廣受好評。,情緒與溝通、社會與公共事務,1243,TSL
+577,deteriorate,dɪˈtɪriəˌreɪt,v.,惡化；變差,Batteries deteriorate faster in hot rooms.,電池在高溫的房間裡老化得比較快。,健康與身體,1245,TSL
+578,resemble,rɪˈzɛmbəl,v.,相像；類似,"These two breakers resemble each other, so label them clearly.",這兩個斷路器長得很像，所以要清楚地貼上標籤。,人物與家庭,1246,TSL
+579,unauthorized,ənˈɔθəˌraɪzd,adj.,未經授權的；未經許可的,Report any unauthorized person in the data hall to security.,如果機房裡有未經授權的人員，請通報保全。,安全與消防、電腦與網路,1247,TSL
+580,violate,ˈvaɪəˌleɪt,v.,違反；違背,Never violate the site safety rules.,絕對不要違反現場的安全規定。,社會與公共事務、安全與消防,1248,TSL
+581,videoconference,ˈvɪdioʊˌkɑnfərəns,n.,視訊會議,We have a videoconference with the Seattle team tonight.,我們今晚要和西雅圖團隊開視訊會議。,工作與會議、電腦與網路,1250,TSL
+582,template,ˈtɛmplət,n.,範本；樣板,Use the new template when you write the shift report.,寫交接班報告時，請使用新的範本。,工作與會議,,BSL
+583,deliverable,dɪˈlɪvərəbəl,n.,（專案）交付成果；交付物,The final deliverable is a test report for UPS-2A.,最終的交付成果是一份 UPS-2A 的測試報告。,工作與會議,,BSL
+584,milestone,ˈmaɪlˌstoʊn,n.,里程碑；重要階段,Finishing the generator load test is a big milestone.,完成發電機負載測試是一個重要的里程碑。,工作與會議,,BSL
+585,stakeholder,ˈsteɪkˌhoʊldər,n.,利害關係人；相關人員,Please invite every stakeholder to the project kickoff meeting.,請邀請每一位利害關係人參加專案啟動會議。,工作與會議、商業與金錢,,BSL
+586,metric,ˈmɛtrɪk,n.,指標；衡量標準,Uptime is the most important metric for our team.,正常運作時間是我們團隊最重要的指標。,工作與會議、數字與數量,,BSL
+587,benchmark,ˈbɛnʧˌmɑrk,n./v.,基準；標竿；以…為基準評比,We use last year's numbers as a benchmark.,我們用去年的數字作為基準。,工作與會議、數字與數量,,BSL
+588,baseline,ˈbeɪsˌlaɪn,n.,基準線；基準值,Record a baseline reading before you change the setpoint.,調整設定值之前，先記錄一個基準讀數。,工作與會議、數字與數量,,BSL
+589,incorrect,ˌɪnkəˈrɛkt,adj.,不正確的；錯誤的,The meter reading in the log was incorrect.,日誌裡的電表讀數是錯的。,工作與會議,,BSL
+590,misunderstand,ˌmɪsəndərˈstænd,v.,誤解；誤會,Repeat the steps back so we don't misunderstand each other.,把步驟複述一遍，我們才不會誤會彼此的意思。,情緒與溝通,,BSL
+591,risky,ˈrɪski,adj.,有風險的；危險的,It is risky to skip the peer check.,跳過同儕確認的步驟是有風險的。,工作與會議,,BSL
+592,outgoing,ˈaʊtˌgoʊɪŋ,adj.,即將離開的（outgoing shift 交班的班別）；外寄的；外向的,The outgoing shift reviews open tickets with the next team.,交班的班別會和接班的團隊一起檢視未結案的事件單。,工作與會議,,BSL
+593,overlap,ˈoʊvərˌlæp,n./v.,重疊（的部分）；與…重疊,There is a 30-minute overlap between the two shifts.,兩個班之間有三十分鐘的重疊時間。,工作與會議、時間與日期,,BSL
+594,defer,dɪˈfər,v.,延後；推遲,We had to defer the test because of the typhoon.,因為颱風，我們不得不延後測試。,工作與會議、時間與日期,,BSL
+595,deviation,ˌdiviˈeɪʃən,n.,偏差；偏離（如偏離 MOP）,Report any deviation from the MOP to your lead.,任何偏離 MOP 的情況都要向你的組長回報。,工作與會議,,BSL
+596,periodic,ˌpɪriˈɑdɪk,adj.,定期的；週期性的,The vendor does periodic maintenance on Generator 3.,廠商會定期保養 3 號發電機。,工作與會議、時間與日期,,BSL
+597,align,əˈlaɪn,v.,使一致；配合；對齊,Our team plan should align with the company's goals.,我們團隊的計畫應該和公司的目標一致。,工作與會議,,BSL
+598,utilize,ˈjutəˌlaɪz,v.,利用；使用（較正式）,We should utilize the spare parts we already have.,我們應該善用手邊現有的備品。,工作與會議,,BSL
+599,outsource,ˈaʊtˌsɔrs,v.,外包；委外,The company decided to outsource the cleaning work.,公司決定把清潔工作外包。,工作與會議、商業與金錢,,BSL
+600,procurement,proʊˈkjʊrmənt,n.,採購；採購部門,Send the parts request to procurement by Friday.,星期五前把零件申請單送到採購部門。,商業與金錢、工作與會議,,BSL
+601,logistics,ləˈʤɪstɪks,n.,物流；後勤（安排）,The logistics team will handle the battery delivery.,物流團隊會負責電池的運送。,商業與金錢、工作與會議,,BSL
+602,deployment,dɪˈplɔɪmənt,n.,部署；（設備、系統）上線建置,The new rack deployment starts next Monday.,新機櫃的部署下週一開始。,電腦與網路、工作與會議,,BSL
+603,contingency,kənˈtɪnʤənsi,n.,意外狀況；應變（contingency plan 應變計畫）,We need a contingency plan for a long power outage.,我們需要一套應付長時間停電的應變計畫。,工作與會議,,BSL
+604,redundancy,rɪˈdəndənsi,n.,備援；冗餘（如 N+1 備援）,We have N+1 redundancy on the chilled water pumps.,我們的冰水泵浦有 N+1 備援。,工作與會議、電腦與網路,,BSL
+605,continuity,ˌkɑntəˈnuəti,n.,連續性；持續運作（business continuity 營運持續）,The drill tests our business continuity plan.,這次演練是在測試我們的營運持續計畫。,工作與會議、商業與金錢,,BSL
+606,accountable,əˈkaʊntəbəl,adj.,須負責的；有責任的,Each team lead is accountable for their team's safety.,每位組長都要為自己團隊的安全負責。,工作與會議,,BSL
+607,accountability,əˌkaʊntəˈbɪləti,n.,當責；責任歸屬,Clear accountability helps us close tickets faster.,明確的責任歸屬能幫助我們更快結案。,工作與會議,,BSL
+608,consolidate,kənˈsɑləˌdeɪt,v.,整合；合併；鞏固,Let's consolidate the three reports into one file.,我們把這三份報告整合成一個檔案吧。,工作與會議,,BSL
+609,standardize,ˈstændərˌdaɪz,v.,使標準化；統一規格,We want to standardize the checklists across all sites.,我們想把所有廠區的檢查表統一標準化。,工作與會議,,BSL
+610,incremental,ˌɪnkrəˈmɛntəl,adj.,逐步增加的；漸進式的,We made incremental changes to the cooling settings.,我們對冷卻設定做了逐步的調整。,工作與會議,,BSL
+611,robust,roʊˈbəst,adj.,穩健的；堅固耐用的,We need a robust plan for typhoon season.,我們需要一套穩健可靠的颱風季應變計畫。,工作與會議,,BSL
+612,slowdown,ˈsloʊˌdaʊn,n.,減緩；（速度、景氣）變慢,The network slowdown started after the update.,網路變慢是在更新之後開始的。,電腦與網路、商業與金錢,,BSL
+613,shortfall,ˈʃɔrtˌfɔl,n.,短缺；不足（的數量）,We have a staffing shortfall on the night shift.,我們夜班的人手不足。,工作與會議、數字與數量,,BSL
+614,mitigate,ˈmɪtəˌgeɪt,v.,減輕；緩解（風險、影響）,We added temporary fans to mitigate the hot spot.,我們加了臨時風扇來緩解這個熱點。,工作與會議,,BSL
+615,likelihood,ˈlaɪkliˌhʊd,n.,可能性,We rate each risk by likelihood and impact.,我們依照可能性和影響程度來評估每項風險。,工作與會議,,BSL
+616,downside,ˈdaʊnˌsaɪd,n.,缺點；不利的一面,The downside of this plan is the extra cost.,這個計畫的缺點是會多出額外的成本。,工作與會議、商業與金錢,,BSL
+617,outweigh,ˌaʊtˈweɪ,v.,比…重要；勝過,The benefits of the upgrade outweigh the costs.,這次升級的好處大於成本。,工作與會議、商業與金錢,,BSL
+618,optimal,ˈɑptəməl,adj.,最佳的；最理想的,What is the optimal temperature for the data hall?,機房的最佳溫度是多少？,工作與會議,,BSL
+619,allocation,ˌæləˈkeɪʃən,n.,分配；配置（的量）,The budget allocation for spare parts is too small.,分配給備品的預算太少了。,工作與會議、商業與金錢,,BSL
+620,utilization,ˌjutələˈzeɪʃən,n.,使用率；利用率,UPS utilization is about 60 percent today.,UPS 今天的使用率大約是百分之六十。,工作與會議、數字與數量,,BSL
+621,unchanged,ənˈʧeɪnʤd,adj.,沒有改變的；不變的,The room temperature stayed unchanged all night.,室溫整晚都維持不變。,工作與會議,,BSL
+622,counterpart,ˈkaʊntərˌpɑrt,n.,對口人員；（職位）相對應的人或物,I will ask my counterpart in Seattle for help.,我會請西雅圖那邊的對口同事幫忙。,工作與會議、人物與家庭,,BSL
+623,predecessor,ˈprɛdəˌsɛsər,n.,前任；前一代（產品）,My predecessor left good notes about this pump.,我的前任留下了這台泵浦的詳細筆記。,工作與會議、人物與家庭,,BSL
+624,newcomer,ˈnuˌkəmər,n.,新人；新來的人,Please show the newcomer where the PPE is kept.,請帶新人看看個人防護裝備放在哪裡。,工作與會議、人物與家庭,,BSL
+625,supervision,ˌsupərˈvɪʒən,n.,監督；督導（名詞）,New technicians work under supervision for three months.,新進技術員前三個月要在督導下工作。,工作與會議,,BSL
+626,coordination,koʊˌɔrdəˈneɪʃən,n.,協調；配合,This shutdown needs close coordination with the FOC.,這次停機需要和 FOC 密切協調。,工作與會議,,BSL
+627,oversight,ˈoʊvərˌsaɪt,n.,疏忽；監督（管理）,Missing the filter change was an oversight on my part.,漏換濾網是我的疏忽。,工作與會議,,BSL
+628,transparency,trænˈspɛrənsi,n.,透明度；公開透明,Our manager values transparency in incident reports.,我們經理很重視事件報告的透明度。,工作與會議,,BSL
+629,clarity,ˈklɛrəti,n.,清楚；明確,This email needs more clarity about the deadline.,這封電子郵件需要把截止日期寫得更清楚。,工作與會議、情緒與溝通,,BSL
+630,rationale,ˌræʃəˈnæl,n.,理由；依據,Explain the rationale for the change in the RFC.,請在變更申請（RFC）中說明這項變更的理由。,工作與會議,,BSL
+631,justification,ˌʤəstəfəˈkeɪʃən,n.,理由；正當的說明,The purchase request needs a short justification.,這張請購單需要附上簡短的理由說明。,工作與會議、商業與金錢,,BSL
+632,constructive,kənˈstrəktɪv,adj.,有建設性的；有幫助的,Thank you for the constructive feedback on my report.,謝謝你對我的報告提出有建設性的意見。,工作與會議、情緒與溝通,,BSL
+633,credential,krəˈdɛnʃəl,n.,憑證；資格證明（credentials 也指帳號密碼）,Your access credential will expire next month.,你的門禁憑證下個月就會到期。,電腦與網路、工作與會議,,BSL
+634,browser,ˈbraʊzər,n.,瀏覽器,Open the CMMS in your web browser.,用你的網頁瀏覽器開啟 CMMS。,電腦與網路,,BSL
+635,worksheet,ˈwərkˌʃit,n.,工作表；作業單,Fill in the meter readings on this worksheet.,把電表讀數填在這張工作表上。,工作與會議,,BSL
+636,digit,ˈdɪʤɪt,n.,數字（0 到 9）；位數,Check every digit before you send the WO number.,送出工單號碼前，請檢查每一個數字。,數字與數量,,BSL
+637,decimal,ˈdɛsəməl,n./adj.,小數；十進位的（decimal place 小數位）,Round the reading to one decimal place.,讀數請四捨五入到小數點後一位。,數字與數量,,BSL
+638,batch,bæʧ,n.,一批；一組,A new batch of filters arrived this morning.,今天早上到了一批新的濾網。,工作與會議、數字與數量,,BSL
+639,quantify,ˈkwɑntəˌfaɪ,v.,量化；用數字表示,Can you quantify the energy savings?,你能把節省的能源量化嗎？,數字與數量、工作與會議,,BSL
+640,quantitative,ˈkwɑntəˌteɪtɪv,adj.,量化的；數量上的,"We need quantitative data, not just opinions.",我們需要量化的資料，而不只是意見。,數字與數量、工作與會議,,BSL
+641,analytical,ˌænəˈlɪtɪkəl,adj.,分析的；善於分析的,This job needs strong analytical skills.,這份工作需要很強的分析能力。,工作與會議,,BSL
+642,tangible,ˈtænʤəbəl,adj.,具體的；有形的,The new process gave us tangible results.,新流程為我們帶來了具體的成果。,工作與會議、商業與金錢,,BSL
+643,adverse,ædˈvərs,adj.,不利的；負面的,The test had no adverse effect on the servers.,這次測試對伺服器沒有造成負面影響。,工作與會議,,BSL
+644,inadequate,ɪnˈædəkwət,adj.,不足的；不夠的；不適當的,The airflow in this aisle is inadequate.,這條走道的氣流不足。,工作與會議,,BSL
+645,inconsistent,ˌɪnkənˈsɪstənt,adj.,不一致的；前後矛盾的,These two sensor readings are inconsistent.,這兩個感測器的讀數不一致。,工作與會議、數字與數量,,BSL
+646,persistent,pərˈsɪstənt,adj.,持續的；反覆出現的；堅持不懈的,We have a persistent alarm on AHU-5.,AHU-5 有一個警報一直持續出現。,工作與會議,,BSL
+647,predictable,prɪˈdɪktəbəl,adj.,可預測的；意料之中的,Planned work makes our workload more predictable.,有計畫的作業讓我們的工作量更容易預測。,工作與會議,,BSL
+648,unrelated,ˌənrɪˈleɪtɪd,adj.,無關的；不相關的,This alarm is unrelated to the earlier power event.,這個警報和稍早的電力事件無關。,工作與會議,,BSL
+649,idle,ˈaɪdəl,adj.,閒置的；空轉的,Two chillers are idle during the winter.,冬天時有兩台冰水主機處於閒置狀態。,工作與會議,,BSL
+650,halt,hɔlt,v./n.,停止；暫停,Anyone can halt the work if it looks unsafe.,只要看起來不安全，任何人都可以叫停作業。,工作與會議,,BSL
+651,commence,kəˈmɛns,v.,開始（正式用語）,Work will commence at 10 p.m. after the PTW is approved.,工作許可（PTW）核准後，作業將於晚上十點開始。,工作與會議、時間與日期,,BSL
+652,accelerate,ækˈsɛləˌreɪt,v.,加速；加快,Can we accelerate the delivery of the new batteries?,我們能加快新電池的交貨速度嗎？,工作與會議,,BSL
+653,stabilize,ˈsteɪbəˌlaɪz,v.,使穩定；穩定下來,Wait for the temperature to stabilize before you leave.,等溫度穩定下來再離開。,工作與會議,,BSL
+654,tighten,ˈtaɪtən,v.,鎖緊；收緊；加強（管制）,We need to tighten security at the loading dock.,我們需要加強卸貨區的保全。,工作與會議,,BSL
+655,shrink,ʃrɪŋk,v.,縮小；減少,Our travel budget will shrink next year.,我們明年的差旅預算會縮減。,商業與金錢、工作與會議,,BSL
+656,weaken,ˈwikən,v.,變弱；削弱,UPS batteries weaken as they get older.,UPS 電池會隨著老化而變弱。,工作與會議,,BSL
+657,worsen,ˈwərsən,v.,惡化；變得更糟,"Fix small problems early, or they will worsen.",小問題要及早處理，不然會惡化。,工作與會議,,BSL
+658,dip,dɪp,n./v.,小幅下降；浸一下,We saw a small dip in voltage during the test.,測試期間我們看到電壓小幅下降。,工作與會議、數字與數量,,BSL
+659,fluctuation,ˌfləkʧuˈeɪʃən,n.,波動；起伏,We noticed a fluctuation in the chilled water temperature.,我們注意到冰水溫度有波動。,工作與會議、數字與數量,,BSL
+660,imbalance,ɪmˈbæləns,n.,不平衡；失衡,The load imbalance on PDU-3B needs to be fixed.,PDU-3B 的負載不平衡需要修正。,工作與會議,,BSL
+661,lag,læg,v./n.,落後；延遲；時間差,Our project began to lag behind schedule in May.,我們的專案從五月開始落後進度。,工作與會議、時間與日期,,BSL
+662,overhaul,ˈoʊvərˌhɔl,n./v.,大修；全面檢修；徹底改革,Generator 3 needs a major overhaul this year.,3 號發電機今年需要大修。,工作與會議,,BSL
+663,prototype,ˈproʊtəˌtaɪp,n.,原型；樣品,The vendor showed us a prototype of the new sensor.,廠商給我們看了新感測器的原型。,工作與會議、商業與金錢,,BSL
+664,breakthrough,ˈbreɪkˌθru,n.,突破；重大進展,Finding the root cause was a real breakthrough.,找到根本原因是一大突破。,工作與會議,,BSL
+665,enhancement,ɛnˈhænsmənt,n.,強化；改善；（功能）增強,The software update includes a security enhancement.,這次軟體更新包含一項安全性強化。,電腦與網路、工作與會議,,BSL
+666,optimization,ˌɑptəməˈzeɪʃən,n.,最佳化；改善效能,Airflow optimization saved a lot of energy.,氣流最佳化省下了很多能源。,工作與會議,,BSL
+667,refine,rɪˈfaɪn,v.,改進；使更精確；提煉,We will refine the MOP after the first test.,第一次測試後，我們會再改進 MOP。,工作與會議,,BSL
+668,devise,dɪˈvaɪz,v.,想出；設計（方法、計畫）,We must devise a better way to track spare parts.,我們必須想出更好的方法來追蹤備品。,工作與會議,,BSL
+669,differentiate,ˌdɪfəˈrɛnʃiˌeɪt,v.,區分；區別；使有差異,Can you differentiate between a warning and a critical alarm?,你能區分一般警告和緊急警報嗎？,工作與會議,,BSL
+670,outperform,ˌaʊtpərˈfɔrm,v.,表現優於；勝過,The new pumps outperform the old ones.,新泵浦的表現比舊的好。,工作與會議、商業與金錢,,BSL
+671,restructure,riˈstrəkʧər,v.,重組；改組；調整架構,The company plans to restructure the operations team.,公司計畫重組營運團隊。,工作與會議、商業與金錢,,BSL
+672,retention,rɪˈtɛnʃən,n.,留任；保留；保存（data retention 資料保存）,Better training can improve staff retention.,更好的訓練能提高員工的留任率。,工作與會議,,BSL
+673,multinational,ˌməltiˈnæʃənəl,adj./n.,跨國的；跨國公司,She works for a large multinational company.,她在一家大型跨國公司工作。,商業與金錢,,BSL
+674,subsidiary,səbˈsɪdiˌɛri,n.,子公司；附屬機構,Our vendor is a subsidiary of a larger company.,我們的廠商是一家更大公司的子公司。,商業與金錢,,BSL
+675,unveil,ənˈveɪl,v.,公布；發表；揭幕,Management will unveil the new shift plan on Monday.,管理層將在星期一公布新的排班計畫。,工作與會議、商業與金錢,,BSL
+676,forthcoming,ˌfɔrθˈkəmɪŋ,adj.,即將到來的；即將發布的,Details about the forthcoming audit will be sent soon.,即將進行的稽核細節很快就會寄出。,工作與會議、時間與日期,,BSL
+677,sustainability,səˌsteɪnəˈbɪləti,n.,永續（性）；持續性,Our sustainability goal is to cut water use by 10 percent.,我們的永續目標是把用水量減少百分之十。,商業與金錢、工作與會議,,BSL
+678,renewable,rɪˈnuəbəl,adj.,可再生的；可續約的（renewable energy 再生能源）,The site will buy more renewable energy next year.,廠區明年會購買更多再生能源。,商業與金錢,,BSL
+679,bidder,ˈbɪdər,n.,投標者；出價者,The lowest bidder does not always win the contract.,出價最低的投標者不一定會拿到合約。,商業與金錢,,BSL
+680,quota,ˈkwoʊtə,n.,配額；（業績）目標額,Each salesperson has a monthly sales quota.,每位業務員都有每月的業績目標。,商業與金錢、數字與數量,,BSL
+681,contractual,kənˈtrækʧuəl,adj.,合約上的；依合約的,The vendor has a contractual duty to respond within four hours.,依照合約，廠商有義務在四小時內回應。,商業與金錢,,BSL
+682,amend,əˈmɛnd,v.,修訂；修正（文件、合約）,Please amend the MOP before the review meeting.,請在審查會議前修訂 MOP。,工作與會議,,BSL
+683,disclose,dɪˈskloʊz,v.,透露；揭露；公開,Do not disclose customer information to outside vendors.,不要把客戶資訊透露給外部廠商。,工作與會議、商業與金錢,,BSL
+684,proprietary,prəˈpraɪəˌtɛri,adj.,專有的；專利的,This controller uses proprietary software from the vendor.,這台控制器使用的是廠商的專有軟體。,商業與金錢、電腦與網路,,BSL
+685,negotiable,nɪˈgoʊʃəbəl,adj.,可協商的；可議的,"The delivery date is negotiable, but the price is not.",交貨日期可以談，但價格不行。,商業與金錢,,BSL
+686,scorecard,ˈskɔrˌkɑrd,n.,計分卡；評分表,We review the vendor scorecard every quarter.,我們每一季檢視一次廠商評分表。,工作與會議、商業與金錢,,BSL
+687,dependency,dɪˈpɛndənsi,n.,依賴；相依關係,This task has a dependency on the network team.,這項任務需要依賴網路團隊的配合。,工作與會議、電腦與網路,,BSL
+688,buffer,ˈbəfər,n.,緩衝（區）；緩衝時間,Add a one-day buffer to the project schedule.,在專案時程中多留一天的緩衝時間。,工作與會議、時間與日期,,BSL
+689,safeguard,ˈseɪfˌgɑrd,n./v.,保護措施；保護,Passwords are one safeguard against unauthorized access.,密碼是防止未經授權存取的一種保護措施。,電腦與網路、工作與會議,,BSL
+690,remedy,ˈrɛmədi,n./v.,補救辦法；解決方法；補救,What is the remedy if the vendor misses the deadline?,如果廠商錯過期限，補救辦法是什麼？,工作與會議、商業與金錢,,BSL
+691,obstacle,ˈɑbstəkəl,n.,障礙；障礙物,The biggest obstacle is the long lead time for parts.,最大的障礙是零件的交期太長。,工作與會議,,BSL
+692,dilemma,dɪˈlɛmə,n.,兩難；進退兩難的處境,Our dilemma is whether to replace the pump now or next year.,我們的兩難是：泵浦要現在換，還是明年再換。,工作與會議、情緒與溝通,,BSL
+693,modest,ˈmɑdəst,adj.,不大的；適度的；謙虛的,We expect a modest increase in power use this year.,我們預期今年用電量會小幅增加。,工作與會議、數字與數量,,BSL
+694,systematic,ˌsɪstəˈmætɪk,adj.,有系統的；有條理的,Use a systematic approach to find the root cause.,用有系統的方法找出根本原因。,工作與會議,,BSL
+695,hierarchy,ˈhaɪəˌrɑrki,n.,階層；（組織）層級,Our company has a flat hierarchy and open communication.,我們公司的層級扁平，溝通也很開放。,工作與會議,,BSL
+696,delegation,ˌdɛləˈgeɪʃən,n.,授權；委派；代表團,Good delegation helps the whole team grow.,適當的授權能幫助整個團隊成長。,工作與會議,,BSL
+697,subordinate,səˈbɔrdənət,n./adj.,部屬；下屬；次要的,A good manager listens to every subordinate.,好的主管會傾聽每一位部屬的意見。,工作與會議、人物與家庭,,BSL
+698,empower,ɛmˈpaʊər,v.,授權；賦予能力,Our manager wants to empower us to make decisions.,我們經理想授權讓我們自己做決定。,工作與會議,,BSL
+699,autonomy,ɔˈtɑnəmi,n.,自主權；自主性；（油槽、電池的）續航時間,Senior technicians have more autonomy in their daily work.,資深技術員在日常工作上有更多自主權。,工作與會議,,BSL
+700,competent,ˈkɑmpətənt,adj.,能勝任的；有能力的,She is a competent and careful technician.,她是一位能幹又細心的技術員。,工作與會議、人物與家庭,,BSL
+701,competency,ˈkɑmpətənsi,n.,能力；職能（core competency 核心能力）,Each new hire must pass a competency test.,每位新進人員都必須通過職能測驗。,工作與會議,,BSL
+702,centralize,ˈsɛntrəˌlaɪz,v.,集中（管理）；使集中化,We plan to centralize all alarms in one dashboard.,我們打算把所有警報集中到一個儀表板上。,工作與會議、電腦與網路,,BSL
+703,synergy,ˈsɪnərʤi,n.,綜效；協同效應,There is good synergy between the day and night teams.,白班和夜班團隊之間有很好的協同效應。,工作與會議、商業與金錢,,BSL
+704,niche,nɪʧ,n.,利基（市場）；合適的位置,This vendor serves a small niche market.,這家廠商專攻一個小眾的利基市場。,商業與金錢,,BSL
+705,marketplace,ˈmɑrkɪtˌpleɪs,n.,市場；交易平台,The marketplace for cooling equipment is very competitive.,冷卻設備的市場競爭非常激烈。,商業與金錢,,BSL
+706,leverage,ˈlɛvərɪʤ,v./n.,善用；利用；槓桿作用,Let's leverage our experience from the last project.,我們就善用上一個專案的經驗吧。,工作與會議、商業與金錢,,BSL
+707,complement,ˈkɑmpləmənt,v./n.,與…互補；補足；補充物,Her skills complement mine very well.,她的技能和我的非常互補。,工作與會議,,BSL
+708,entail,ɪnˈteɪl,v.,需要；牽涉；必然帶來,What does the new role entail?,這個新職務需要做哪些事？,工作與會議,,BSL
+709,intervene,ˌɪntərˈvin,v.,介入；干預,The FOC will intervene if the alarm is not cleared.,如果警報沒有排除，FOC 會介入處理。,工作與會議,,BSL
+710,discourage,dɪˈskərɪʤ,v.,勸阻；不鼓勵；使洩氣,We discourage staff from working long overtime hours.,我們不鼓勵員工長時間加班。,工作與會議、情緒與溝通,,BSL
+711,discretion,dɪˈskrɛʃən,n.,斟酌決定（權）；謹慎,Overtime is approved at the manager's discretion.,加班由經理斟酌決定是否核准。,工作與會議,,BSL
+712,simulation,ˌsɪmjəˈleɪʃən,n.,模擬,We ran a power failure simulation during the drill.,我們在演練中進行了一次停電模擬。,工作與會議,,BSL
+713,replicate,ˈrɛpləˌkeɪt,v.,複製；重現（問題、結果）,Can you replicate the problem on the test server?,你能在測試伺服器上重現這個問題嗎？,電腦與網路、工作與會議,,BSL
+714,processor,ˈprɑsɛsər,n.,處理器；處理者,The new server has a faster processor.,新伺服器的處理器比較快。,電腦與網路,,BSL
+715,proxy,ˈprɑksi,n.,代理人；代理伺服器,Check the proxy settings if you cannot connect.,如果無法連線，請檢查代理伺服器的設定。,電腦與網路,,BSL
+716,node,noʊd,n.,節點,One node in the cluster is offline.,叢集中有一個節點離線了。,電腦與網路,,BSL
+717,telecom,ˈtɛləˌkɑm,n.,電信（telecommunications 的簡稱）,The fiber cables come in through the telecom room.,光纖線路是從電信機房進來的。,電腦與網路,,BSL
+718,downgrade,ˈdaʊnˌgreɪd,v./n.,降級；降版,We had to downgrade the firmware to fix the bug.,我們必須把韌體降版才能修正這個錯誤。,電腦與網路,,BSL
+719,underestimate,ˌəndərˈɛstəˌmeɪt,v.,低估,Never underestimate how long a shutdown takes.,千萬別低估一次停機需要的時間。,工作與會議,,BSL
+720,credibility,ˌkrɛdəˈbɪləti,n.,可信度；信譽,Accurate reports build credibility with the customer.,準確的報告能提升我們在客戶心中的可信度。,工作與會議、商業與金錢,,BSL
+721,methodology,ˌmɛθəˈdɑləʤi,n.,方法；方法論,The audit team explained their methodology to us.,稽核團隊向我們說明了他們的方法。,工作與會議,,BSL
+722,correlation,ˌkɔrəˈleɪʃən,n.,相關性；關聯,Is there a correlation between heat and fan failures?,高溫和風扇故障之間有關聯嗎？,工作與會議、數字與數量,,BSL
+723,validity,vəˈlɪdəti,n.,有效性；正確性,Check the validity of your safety certificate.,請確認你的安全證照是否仍然有效。,工作與會議,,BSL
+724,norm,nɔrm,n.,常態；標準；規範,Working in shifts is the norm in data centers.,在資料中心，輪班工作是常態。,工作與會議,,BSL
+725,prone,proʊn,adj.,容易…的；有…傾向的（be prone to 容易…）,This old pump is prone to leaks.,這台舊泵浦很容易漏水。,工作與會議,,BSL
+726,independently,ˌɪndɪˈpɛndəntli,adv.,獨立地；自主地,"After training, you will work independently.",受訓完之後，你就要獨立作業。,工作與會議,,BSL
+727,mutually,ˈmjuʧuəli,adv.,互相地；雙方（mutually agreed 雙方同意的）,We will pick a mutually convenient time for the test.,我們會挑一個雙方都方便的時間來做測試。,工作與會議,,BSL
+728,explicitly,ɪkˈsplɪsətli,adv.,明確地；清楚地,The MOP explicitly says to verify zero energy first.,MOP 明確規定要先確認已無殘存能量。,工作與會議,,BSL
+729,technically,ˈtɛknɪkli,adv.,技術上；嚴格來說,The plan is technically possible but very expensive.,這個計畫在技術上可行，但非常昂貴。,工作與會議,,BSL
+730,unexpectedly,ˌənɪkˈspɛktɪdli,adv.,出乎意料地；突然,The pump stopped unexpectedly during the night shift.,泵浦在夜班時突然停止運轉。,工作與會議,,BSL
+731,HR,eɪʧˈɑr,abbr.,人資；人力資源部（Human Resources）,Please send your leave request to HR by Friday.,請在星期五前把請假單交給人資。,工作與會議、人物與家庭,,V5.32
+732,CEO,siˌiˈoʊ,abbr.,執行長（Chief Executive Officer）,The CEO will visit our site next month.,執行長下個月會來我們的據點參訪。,工作與會議、人物與家庭,,V5.32
+733,ID,aɪˈdi,abbr.,證件；身分證、識別證（identification）,Show your ID at the security desk.,請在保全櫃檯出示你的證件。,工作與會議,,V5.32
+734,PDF,piˌdiˈɛf,abbr.,PDF 檔（常用的文件檔案格式）,Please save the report as a PDF before you send it.,寄出之前，請把報告存成 PDF 檔。,電腦與網路,,V5.32
+735,USB,juˌɛsˈbi,abbr.,USB 連接埠；USB 隨身碟,Do not plug personal USB drives into site computers.,不要把私人的 USB 隨身碟插進現場的電腦。,電腦與網路,,V5.32
+736,GPS,ʤiˌpiˈɛs,abbr.,衛星定位（Global Positioning System）,The driver used GPS to find the loading dock.,司機用衛星定位找到卸貨區。,電腦與網路、交通與旅行,,V5.32
+737,AI,eɪˈaɪ,abbr.,人工智慧（Artificial Intelligence）,AI tools can help you write emails faster.,AI 工具可以幫你更快寫好電子郵件。,電腦與網路,,V5.32
+738,MRT,ɛmˌɑrˈti,abbr.,捷運（Mass Rapid Transit）,The office is a five-minute walk from the MRT station.,辦公室離捷運站走路五分鐘。,交通與旅行,,V5.32

@@ -1,0 +1,406 @@
+﻿dialog_id,title_zh,english,chinese
+d01,交接班,Let me give you the handover,我跟你交接一下
+d01,交接班,Anything happen overnight?,晚上有發生什麼事嗎？
+d01,交接班,It cleared by itself.,它自己恢復了。
+d01,交接班,It is still under LOTO.,它還在上鎖掛牌（LOTO）中。
+d01,交接班,Just to confirm,跟你確認一下
+d02,向 FOC 回報異常事件,I want to report an alarm.,我要回報一個告警。
+d02,向 FOC 回報異常事件,UPS-2A went on bypass,UPS-2A 轉到旁路
+d02,向 FOC 回報異常事件,No impact.,沒有影響。
+d02,向 FOC 回報異常事件,I am following the EOP.,我正在依照 EOP 處理。
+d02,向 FOC 回報異常事件,I will update you every 30 minutes.,我會每三十分鐘跟你更新一次。
+d03,廠商入場與陪同,"Can I see your ID, please?",可以請你出示證件嗎？
+d03,廠商入場與陪同,Your RFC and MOP are approved for today.,你的 RFC 和 MOP 今天已經核准了。
+d03,廠商入場與陪同,no photos on site,現場禁止拍照
+d03,廠商入場與陪同,I need to escort you at all times.,我必須全程陪同你。
+d03,廠商入場與陪同,Please sign in here,請在這裡簽到
+d04,會議狀態更新,Can you give us a status update?,可以跟大家更新一下狀態嗎？
+d04,會議狀態更新,We have three open WOs in CMMS.,我們在 CMMS 裡有三張未結工單。
+d04,會議狀態更新,It is about 70 percent done.,大約完成百分之七十。
+d04,會議狀態更新,It is still pending.,還在等待中。
+d04,會議狀態更新,The backup pump is running normally.,備用泵浦運轉正常。
+d05,請求支援,Sorry to call so late.,抱歉這麼晚打擾。
+d05,請求支援,did not transfer back automatically,沒有自動轉回
+d05,請求支援,Generator 3 is carrying the load.,三號發電機在帶載。
+d05,請求支援,I will check and call you back in 15 minutes.,我檢查後十五分鐘內回電給你。
+d05,請求支援,Please update the IcM with what you find.,請把你發現的狀況更新到 IcM。
+d06,桌上演練,What is your first step?,你的第一步是什麼？
+d06,桌上演練,"Just to confirm, are the other generators carrying the load?",先確認一下，其他發電機有在承載負載嗎？
+d06,桌上演練,notify the FOC and the electrical SME right away,立刻通知FOC和電力SME
+d06,桌上演練,open an IcM as the EOP says,依照EOP開立IcM
+d06,桌上演練,follow the EOP step by step,一步一步照EOP執行
+d07,IcM事件回報,The first alarm came in at 3:42 a.m.,第一個警報是凌晨3點42分進來的。
+d07,IcM事件回報,Can you repeat the alarm name?,可以再說一次警報名稱嗎？
+d07,IcM事件回報,No impact so far.,目前沒有影響。
+d07,IcM事件回報,What is the current status?,目前狀態如何？
+d07,IcM事件回報,"Next update at 4:30 a.m., or sooner if anything changes.",下一次更新是凌晨4點30分，若有變化會提早更新。
+d08,上鎖掛牌說明,let's review the LOTO together,我們一起確認LOTO
+d08,上鎖掛牌說明,What are the isolation points?,隔離點有哪些？
+d08,上鎖掛牌說明,Each worker puts a personal lock and tag on the lockbox.,每位作業人員都要在鎖箱上掛自己的個人鎖和標籤。
+d08,上鎖掛牌說明,Zero voltage confirmed.,確認零電壓。
+d08,上鎖掛牌說明,Each person removes only their own lock.,每個人只能拆自己的鎖。
+d08,上鎖掛牌說明,"Just to confirm, is your PTW signed?",先確認一下，你的PTW簽好了嗎？
+d09,發電機警報,Generator 3 has a low coolant level alarm.,發電機3號出現冷卻液位低警報。
+d09,發電機警報,What does the SOP say?,SOP怎麼說？
+d09,發電機警報,Don't open the radiator cap while it's hot.,引擎還熱的時候不要打開水箱蓋。
+d09,發電機警報,check for leaks and report back,檢查有沒有洩漏並回報
+d09,發電機警報,I'll open a WO in CMMS and call the vendor.,我會在CMMS開工單並聯絡廠商。
+d10,UPS警報,Can you repeat the UPS name?,可以再說一次UPS名稱嗎？
+d10,UPS警報,Is the input power normal?,輸入電源正常嗎？
+d10,UPS警報,What is the load and the time remaining?,負載多少？剩餘時間多少？
+d10,UPS警報,I'll call the FOC now.,我現在打給FOC。
+d10,UPS警報,Don't reset anything until we follow the EOP.,在照EOP處理之前，什麼都不要復歸。
+d11,BAS 警報,"Can you repeat the alarm name, please?",可以請你再說一次警報名稱嗎？
+d11,BAS 警報,I'm checking the trend on the BAS now.,我現在在 BAS 上看趨勢圖。
+d11,BAS 警報,the setpoint is 20 degrees,設定值是 20 度
+d11,BAS 警報,The chilled water valve is 100 percent open.,冰水閥已經開到 100%。
+d11,BAS 警報,I'll go check the unit locally.,我會去現場確認機組。
+d11,BAS 警報,I'll update you in 15 minutes.,我 15 分鐘後再回報你。
+d12,EPMS 警報,There's a breaker trip event on PDU-3.,PDU-3 有一個斷路器跳脫事件。
+d12,EPMS 警報,Let's check the one-line diagram together.,我們一起看一下單線圖。
+d12,EPMS 警報,they're on the other power feed now,它們現在由另一路電源供電
+d12,EPMS 警報,they have no redundancy right now,它們現在沒有備援
+d12,EPMS 警報,I'll inform the FOC and the shift lead.,我會通知 FOC 和值班主管。
+d12,EPMS 警報,We need to find the cause first.,我們要先找出原因。
+d13,SAS／GIS 通訊中斷,The SAS lost communication with a 161 kV GIS bay relay.,SAS 和一個 161 kV GIS 間隔的電驛失去通訊。
+d13,SAS／GIS 通訊中斷,Was there any actual trip?,有實際跳脫嗎？
+d13,SAS／GIS 通訊中斷,"The breaker is still closed, and the load is normal.",斷路器還是閉合的，負載也正常。
+d13,SAS／GIS 通訊中斷,monitor the bay locally and call the vendor,在現場監看這個間隔，並打電話給廠商
+d13,SAS／GIS 通訊中斷,Call me right away if anything changes.,如果有任何變化，馬上打給我。
+d14,斷路器跳脫,I found a tripped breaker on MSB-1.,我發現 MSB-1 有一個斷路器跳脫。
+d14,斷路器跳脫,Which feeder is it?,是哪一路饋線？
+d14,斷路器跳脫,Is the UPS still carrying the load?,UPS 還在帶載嗎？
+d14,斷路器跳脫,Do not reset the breaker before we find the cause.,找出原因之前，不要復歸斷路器。
+d14,斷路器跳脫,Transfer to the alternate source per the EOP.,依照 EOP 切換到備用電源。
+d14,斷路器跳脫,I'll record the trip indicator and report back.,我會記錄跳脫指示，再回報給你。
+d15,冷卻異常,Chiller 2 tripped at 4:05 a.m.,冰水主機 2 在凌晨 4:05 跳機。
+d15,冷卻異常,CHWP-02 shows a VFD fault.,CHWP-02 顯示 VFD 故障。
+d15,冷卻異常,Can you read me the fault code on the VFD?,你可以把 VFD 上的故障代碼唸給我聽嗎？
+d15,冷卻異常,Did the standby chiller start?,備用冰水主機有啟動嗎？
+d15,冷卻異常,Now it's trending down.,現在正在往下降。
+d15,冷卻異常,no reset until you arrive,你到之前都不要復歸
+d16,漏水通報,Water is under the raised floor near AHU-5.,AHU-5 附近的高架地板下有水。
+d16,漏水通報,I closed the isolation valve.,我已經關閉隔離閥。
+d16,漏水通報,I'm cleaning up with the wet vacuum now.,我正在用吸水機清理。
+d16,漏水通報,No impact to racks.,機櫃沒有受到影響。
+d16,漏水通報,Do you know the source of the leak?,你知道漏水的來源嗎？
+d17,消防系統停用通知,I need to report a sprinkler impairment,我要通報灑水系統停用
+d17,消防系統停用通知,The PTW is already approved.,工作許可（PTW）已經核准了。
+d17,消防系統停用通知,one technician will do fire watch every 30 minutes,一位技術員每 30 分鐘做一次火災巡守
+d17,消防系統停用通知,when will the zone be restored?,這個區域什麼時候會恢復？
+d17,消防系統停用通知,I'll call you before we start.,我們開始前會再打給你。
+d18,PM 工單（CMMS）,the PM work order for CHWP-02 is due tomorrow,CHWP-02 的 PM 工單明天到期。
+d18,PM 工單（CMMS）,All steps are done.,所有步驟都完成了。
+d18,PM 工單（CMMS）,Did you record the readings in CMMS?,你有把讀值記錄在 CMMS 裡嗎？
+d18,PM 工單（CMMS）,create a corrective WO,開一張矯正工單
+d18,PM 工單（CMMS）,close the PM work order,關閉這張 PM 工單
+d19,廠商故障排除,What fault code do you see?,你看到什麼故障代碼？
+d19,廠商故障排除,"Can you repeat the code, please?",可以請你再說一次代碼嗎？
+d19,廠商故障排除,Were there any recent changes or power events?,最近有任何變更或電力事件嗎？
+d19,廠商故障排除,We'll follow LOTO and verify zero energy first.,我們會依照 LOTO 並先確認零能量。
+d19,廠商故障排除,the part takes about two weeks,零件大約需要兩週
+d20,設備復歸,Let's follow the MOP step by step.,我們依照 MOP 一步一步來。
+d20,設備復歸,Are all tools and people clear?,工具和人員都清空了嗎？
+d20,設備復歸,we transfer from bypass to normal mode,我們從旁路切換到正常模式
+d20,設備復歸,Please check EPMS for any active alarms.,請檢查 EPMS 有沒有任何未解除的警報。
+d20,設備復歸,I'll close the RFC and update the WO.,我會關閉 RFC 並更新工單。
+d21,發電機帶載測試,I'm starting Generator 2 now.,我現在啟動發電機 2 號。
+d21,發電機帶載測試,I'm transferring it to the load bank.,我正在把它切換到負載箱。
+d21,發電機帶載測試,can you repeat the coolant temperature?,可以再說一次冷卻水溫度嗎？
+d21,發電機帶載測試,That's in the normal range.,這在正常範圍內。
+d21,發電機帶載測試,remove the load and let it cool down,卸載，讓它冷機
+d21,發電機帶載測試,I'll set Generator 2 back to auto,我會把發電機 2 號切回自動
+d22,冰水主機切換,We're switching from Chiller 1 to Chiller 2.,我們要從冰水主機 1 號切換到冰水主機 2 號。
+d22,冰水主機切換,start CHWP-02 and check the flow,啟動 CHWP-02，並確認流量
+d22,冰水主機切換,The load is going up slowly.,負載正在慢慢上升。
+d22,冰水主機切換,What's the chilled water supply temperature now?,現在冰水供水溫度是多少？
+d22,冰水主機切換,That matches the setpoint.,和設定值一致。
+d22,冰水主機切換,I'll watch the BAS trend,我會注意 BAS 趨勢
+d23,消防演練,we go to Assembly Point 2?,我們是去 2 號集合點嗎？
+d23,消防演練,"Use the stairs, not the elevator.",請走樓梯，不要搭電梯。
+d23,消防演練,Who is watching the critical equipment,誰在監看關鍵設備
+d23,消防演練,What's your head count?,你們的人數是多少？
+d23,消防演練,Everyone is here.,全員到齊。
+d23,消防演練,I'll walk through the critical rooms,我會巡視關鍵機房
+d24,市電中斷（ATS 切換）,All generators are running.,所有發電機都在運轉。
+d24,市電中斷（ATS 切換）,Can you say that again?,可以再說一次嗎？
+d24,市電中斷（ATS 切換）,EPMS shows all UPS units on generator power.,EPMS 顯示所有 UPS 都由發電機供電。
+d24,市電中斷（ATS 切換）,Who have you notified so far?,你目前通知了哪些人？
+d24,市電中斷（ATS 切換）,we wait until utility is stable,我們要等市電穩定
+d24,市電中斷（ATS 切換）,I'll call you first.,我會先打給你。
+d25,夜間事件升級,Sorry to wake you up.,抱歉把你吵醒。
+d25,夜間事件升級,No customer impact so far.,目前沒有客戶影響。
+d25,夜間事件升級,I checked EPMS and the PDU.,我檢查了 EPMS 和 PDU。
+d25,夜間事件升級,What do you suggest?,你有什麼建議？
+d25,夜間事件升級,keep the breaker open for now,斷路器先維持斷開
+d25,夜間事件升級,call you back at 4 a.m.,凌晨四點再回電給你
+d26,MOP 執行與同儕確認,My PPE is on.,我的個人防護裝備已穿戴好。
+d26,MOP 執行與同儕確認,"Stop, let's re-check that step.",停，我們重新確認這一步。
+d26,MOP 執行與同儕確認,Are my probes reversed?,我的表棒接反了嗎？
+d26,MOP 執行與同儕確認,within the MOP range,在 MOP 規定範圍內
+d26,MOP 執行與同儕確認,"The label says UPS-1B, BB-2.",標籤是 UPS-1B、BB-2。
+d26,MOP 執行與同儕確認,Let's both sign off on the MOP,我們兩個都在 MOP 上簽核
+d27,門禁警報（門未關好）,"Sorry, that's us.",抱歉，是我們。
+d27,門禁警報（門未關好）,I stayed at the door.,我一直守在門口。
+d27,門禁警報（門未關好）,it's closed and locked,已經關好也上鎖了
+d27,門禁警報（門未關好）,"Just to confirm, did the alarm clear?",跟你確認一下，警報解除了嗎？
+d27,門禁警報（門未關好）,I'll call you first next time,下次我會先打給你們
+d27,門禁警報（門未關好）,note it in the WO,記在工單裡
+d28,濕度異常,Is it low humidity or high humidity?,是低濕度還是高濕度？
+d28,濕度異常,I'll measure next to the sensor,我會在感測器旁邊量測
+d28,濕度異常,That's close to the BAS reading.,跟 BAS 的讀值很接近。
+d28,濕度異常,Do we need a WO?,我們需要開工單嗎？
+d28,濕度異常,Humidity is still dropping,濕度還在下降
+d28,濕度異常,Make it high priority.,請設成高優先。
+d29,備品領用,I need a spare VFD fan module,我需要一個 VFD 風扇模組備品
+d29,備品領用,The part number is FM-4410.,料號是 FM-4410。
+d29,備品領用,"Just one, please.",一個就好，謝謝。
+d29,備品領用,so we have no redundancy,所以我們沒有備援
+d29,備品領用,Do I need to sign anything?,需要簽什麼嗎？
+d29,備品領用,I'll update the WO in CMMS,我會在 CMMS 更新工單
+d30,RFC 變更審查,Can you walk us through the scope?,可以跟大家說明一下工作範圍嗎？
+d30,RFC 變更審查,No outage is needed.,不需要停電。
+d30,RFC 變更審查,verify zero voltage at the meter,在電表端確認零電壓
+d30,RFC 變更審查,What's your rollback plan,你的回復計畫是什麼
+d30,RFC 變更審查,we'll reinstall the old one,我們會把舊的裝回去
+d30,RFC 變更審查,The electrical SME approved the MOP.,電氣 SME 已經核准 MOP。
+d31,打電話叫廠商維修（RMA）,One of the cooling fans in UPS-2A failed.,UPS-2A 有一個冷卻風扇故障了。
+d31,打電話叫廠商維修（RMA）,What's the serial number of the unit?,這台設備的序號是多少？
+d31,打電話叫廠商維修（RMA）,K as in kilo,K 是 kilo 的 K
+d31,打電話叫廠商維修（RMA）,Can you open an RMA for the fan,可以幫我開這個風扇的 RMA 嗎
+d31,打電話叫廠商維修（RMA）,send me the engineer's name for the badge,把工程師的名字傳給我，好申請訪客證
+d31,打電話叫廠商維修（RMA）,I'll escort the engineer the whole time.,我會全程陪同工程師。
+d32,新人第一天導覽,always wear your badge where people can see it,識別證一定要戴在別人看得到的地方
+d32,新人第一天導覽,Never let anyone follow you in.,絕對不要讓別人跟著你進門。
+d32,新人第一天導覽,"No photos, no food or drinks",禁止拍照、不能帶食物和飲料
+d32,新人第一天導覽,Each MOP lists the PPE for that job.,每份 MOP 都會列出那項工作需要的防護裝備。
+d32,新人第一天導覽,where is the nearest emergency exit,最近的緊急出口在哪裡
+d32,新人第一天導覽,"If you're unsure, stop and ask",如果不確定，先停下來問
+d33,訪客參觀陪同,Please sign in and wear your visitor badges.,請先簽到，並配戴訪客證。
+d33,訪客參觀陪同,Stay with me at all times,請全程跟著我
+d33,訪客參觀陪同,walk only between the yellow lines,只能走在黃線之間
+d33,訪客參觀陪同,please don't touch anything,請不要碰任何東西
+d33,訪客參觀陪同,This is the cold aisle.,這裡是冷通道。
+d33,訪客參觀陪同,until the generators start,直到發電機啟動為止
+d34,UPS 電池更換,go to maintenance bypass,轉到維修旁路
+d34,UPS 電池更換,I'll call the FOC before we transfer.,切換之前我會先打電話通知 FOC。
+d34,UPS 電池更換,the batteries are always live,電池一直都是帶電的
+d34,UPS 電池更換,take off your watch and rings,把手錶和戒指拿下來
+d34,UPS 電池更換,will peer check every step before you act,會在你們動手之前確認每一個步驟
+d34,UPS 電池更換,All alarms are clear.,告警都已解除。
+d35,柴油補給（加油車進場）,Can I see your delivery slip and ID?,可以看一下你的送貨單和證件嗎？
+d35,柴油補給（加油車進場）,connecting the grounding cable to the truck first,先把接地線接到油罐車上
+d35,柴油補給（加油車進場）,The spill kit is ready,漏油處理包已經準備好了
+d35,柴油補給（加油車進場）,no smoking or open flames near the truck,油罐車附近禁止吸菸和明火
+d35,柴油補給（加油車進場）,I'll note it in the fuel quality record.,我會記在油品品質紀錄上。
+d35,柴油補給（加油車進場）,I'll sign the delivery slip.,我來簽收送貨單。
+d36,颱風來襲前的準備,Let's go through the checklist.,我們來把檢查表過一遍。
+d36,颱風來襲前的準備,tied down or moved inside,綁好固定，或移到室內
+d36,颱風來襲前的準備,before the wind picked up,趁風還沒變大
+d36,颱風來襲前的準備,Nobody goes on the roof during the storm.,颱風期間任何人都不准上屋頂。
+d36,颱風來襲前的準備,Two techs will stay overnight.,會有兩位技術員留守過夜。
+d36,颱風來襲前的準備,or right away if anything changes,有任何變化就立刻通報
+d37,地震後巡檢回報,Is everyone safe?,大家都平安嗎？
+d37,地震後巡檢回報,I did a head count first.,我先清點了人數。
+d37,地震後巡檢回報,How do the racks and cable trays look?,機櫃和電纜架的狀況怎麼樣？
+d37,地震後巡檢回報,I taped off the area to keep people away.,我拉起警示帶，讓大家不要靠近。
+d37,地震後巡檢回報,please open an IcM right away,請馬上開一張 IcM
+d37,地震後巡檢回報,"If there's an aftershock, I'll walk the site again.",如果有餘震，我會再巡視一次現場。
+d38,停機維護公告與確認,Is the RFC approved?,RFC 核准了嗎？
+d38,停機維護公告與確認,Did the FOC and the stakeholders get the notification?,FOC 和相關單位都收到通知了嗎？
+d38,停機維護公告與確認,must finish by 5:00 a.m.,五點前一定要結束
+d38,停機維護公告與確認,Do we have a rollback plan?,我們有回復計畫嗎？
+d38,停機維護公告與確認,I'll escort them the whole time.,我會全程陪同他們。
+d38,停機維護公告與確認,the final go/no-go check,最終的 Go/No-Go 確認
+d39,動火作業許可（Hot Work）,let's go through your hot work permit together,我們一起確認你們的動火作業許可
+d39,動火作業許可（Hot Work）,Who is your fire watch,你們的監火人員是誰
+d39,動火作業許可（Hot Work）,Are all combustibles removed from the work area?,作業區的可燃物都移走了嗎？
+d39,動火作業許可（Hot Work）,covered the rest with fire blankets,其他的都用防火毯蓋好
+d39,動火作業許可（Hot Work）,only as the approved permit says,只能依照核准的許可
+d39,動火作業許可（Hot Work）,Your fire watch stays 30 minutes after the work.,完工後你們的監火人員要再留守三十分鐘。
+d40,侷限空間作業（Confined Space）,Nobody goes in without a signed confined space permit.,沒有簽核好的侷限空間作業許可，任何人都不能進去。
+d40,侷限空間作業（Confined Space）,the valves are locked out,閥門都上鎖掛牌了
+d40,侷限空間作業（Confined Space）,test the air inside for oxygen and gases,檢測裡面空氣的氧氣和有害氣體
+d40,侷限空間作業（Confined Space）,Please keep testing while your team is inside.,人員在裡面時請持續檢測。
+d40,侷限空間作業（Confined Space）,Who is the attendant outside?,外面的監視人員是誰？
+d40,侷限空間作業（Confined Space）,What's the rescue plan,救援計畫是什麼
+d41,有人昏倒（AED 與通報）,"I need help in Hall C, row 8.",我在 C 機房第 8 排需要協助。
+d41,有人昏倒（AED 與通報）,she isn't breathing normally,她沒有正常呼吸
+d41,有人昏倒（AED 與通報）,she's starting compressions,她開始做胸部按壓了
+d41,有人昏倒（AED 與通報）,Don't move her unless she's in danger.,除非她有危險，否則不要移動她。
+d41,有人昏倒（AED 與通報）,We're following the voice prompts.,我們正照著語音指示操作。
+d41,有人昏倒（AED 與通報）,guide the paramedics to Hall C,帶救護人員到 C 機房
+d42,UPS 電池室冒煙,I see smoke through the window.,我從窗戶看到裡面在冒煙。
+d42,UPS 電池室冒煙,I'm staying out.,我不會進去。
+d42,UPS 電池室冒煙,I just activated the fire alarm.,我剛剛已經按下火警警報。
+d42,UPS 電池室冒煙,I'm evacuating two vendors,我正在讓兩位廠商撤離
+d42,UPS 電池室冒煙,Don't fight a battery fire unless you're trained and it's safe.,除非受過訓練而且現場安全，否則不要撲滅電池火災。
+d42,UPS 電池室冒煙,out and accounted for,都已撤出，人數也清點過了
+d43,EPO 保護蓋被推車撞到（虛驚事件）,I want to report a near miss.,我要通報一起虛驚事件。
+d43,EPO 保護蓋被推車撞到（虛驚事件）,the button wasn't pressed,按鈕沒有被壓下
+d43,EPO 保護蓋被推車撞到（虛驚事件）,No power was lost.,沒有斷電。
+d43,EPO 保護蓋被推車撞到（虛驚事件）,I put a temporary barrier around the EPO,我在 EPO 周圍設了臨時護欄
+d43,EPO 保護蓋被推車撞到（虛驚事件）,open a WO to repair the cover,開一張工單修理保護蓋
+d43,EPO 保護蓋被推車撞到（虛驚事件）,stay on the cart routes,走推車動線
+d44,包商不安全行為，要求停工,I need you to stop work and come down,請你先停工，從梯子上下來
+d44,包商不安全行為，要求停工,"I understand, but it isn't safe.",我了解，但這樣不安全。
+d44,包商不安全行為，要求停工,The busway right above you is live.,你正上方的匯流排槽是帶電的。
+d44,包商不安全行為，要求停工,Your permit says a fiberglass ladder and a spotter.,你的工作許可上寫的是玻璃纖維梯和扶梯人員。
+d44,包商不安全行為，要求停工,Anyone can stop unsafe work,任何人都可以叫停不安全的作業
+d44,包商不安全行為，要求停工,report the stop-work to the FOC,把這次停工回報給 FOC
+d45,開工前安全說明（JSA）,let's go over the JSA together,我們一起把 JSA 看一遍
+d45,開工前安全說明（JSA）,What are the main hazards on this job?,這項工作主要的危害有哪些？
+d45,開工前安全說明（JSA）,zero energy is verified,已確認零能量
+d45,開工前安全說明（JSA）,never stand under the load,絕對不要站在吊掛物下方
+d45,開工前安全說明（JSA）,I'm the authorized person,我是授權人員
+d45,開工前安全說明（JSA）,Any questions before we sign the JSA?,簽 JSA 之前，大家還有問題嗎？
+d46,機櫃上架協調,I'll be your escort today,今天由我陪同你們
+d46,機櫃上架協調,we checked the floor loading,我們已經確認過地板承重
+d46,機櫃上架協調,Move one rack at a time,一次搬一個機櫃
+d46,機櫃上架協調,No cardboard or packing material in the data hall.,紙箱和包裝材料都不能進機房。
+d46,機櫃上架協調,label both ends of each cord,在每條電源線的兩端貼上標籤
+d46,機櫃上架協調,Who turns on the power?,由誰來送電？
+d47,安全稽核巡查,this extinguisher is blocked,這支滅火器被擋住了
+d47,安全稽核巡查,I'll move them right now.,我現在就搬走。
+d47,安全稽核巡查,mark a keep-clear zone on the floor,在地上畫出保持淨空的區域
+d47,安全稽核巡查,The electrical SME owns the labels.,標籤是電氣 SME 負責的。
+d47,安全稽核巡查,with owners and due dates,寫上負責人和完成期限
+d47,安全稽核巡查,I already opened a WO for it.,我已經開工單了。
+d48,網路中斷協調,What time did they go offline?,它們是幾點離線的？
+d48,網路中斷協調,Breaker 9 on PDU-C2 tripped,PDU-C2 的 9 號斷路器跳脫了
+d48,網路中斷協調,Do your switches have only one power supply?,你們的交換器是不是只有一個電源供應器？
+d48,網路中斷協調,That explains it.,這就說得通了。
+d48,網路中斷協調,the FOC must approve the reset,復歸必須經過 FOC 核准
+d48,網路中斷協調,I'll put the facts in the IcM,我會把事實寫進 IcM
+d49,用電接近契約容量（降載協調）,We're close to our contract limit.,我們快接近契約容量了。
+d49,用電接近契約容量（降載協調）,We're at about 95 percent of the limit.,現在大約是契約容量的 95%。
+d49,用電接近契約容量（降載協調）,Can we postpone it?,可以延後嗎？
+d49,用電接近契約容量（降載協調）,stop it safely and reschedule,安全地停止，再重新排時間
+d49,用電接近契約容量（降載協調）,No impact to the critical load.,關鍵負載不受影響。
+d49,用電接近契約容量（降載協調）,note the new test time in the shift log,把新的測試時間記在交班紀錄上
+d50,雷擊後設備檢查,When can I check the generator yard?,我什麼時候可以去發電機區檢查？
+d50,雷擊後設備檢查,Wait 30 minutes after the last thunder.,最後一聲雷響過後再等 30 分鐘。
+d50,雷擊後設備檢查,No breaker trips here.,這裡沒有斷路器跳脫。
+d50,雷擊後設備檢查,The UPS units carried the load.,UPS 有撐住負載。
+d50,雷擊後設備檢查,The SPD on MSB-2 shows red.,MSB-2 的 SPD 亮紅燈。
+d50,雷擊後設備檢查,All generators are in auto with no alarms.,所有發電機都在自動模式，沒有警報。
+d51,冷媒洩漏警報,The alarm light is flashing.,警示燈正在閃爍。
+d51,冷媒洩漏警報,Is the emergency ventilation running?,緊急通風有在運轉嗎？
+d51,冷媒洩漏警報,both exhaust fans started automatically,兩台排風扇都自動啟動了
+d51,冷媒洩漏警報,The access log shows nobody inside.,門禁紀錄顯示裡面沒有人。
+d51,冷媒洩漏警報,keep everyone away from this door,讓大家遠離這扇門
+d51,冷媒洩漏警報,I wait until the reading drops below the alarm level,我要等讀值降到警報值以下
+d52,客戶反映機櫃過熱,What inlet temperatures are you seeing,你們看到的進風溫度是多少
+d52,客戶反映機櫃過熱,Let me check BAS.,我看一下 BAS。
+d52,客戶反映機櫃過熱,It could be airflow.,可能是氣流的問題。
+d52,客戶反映機櫃過熱,I put them back per the floor plan.,我已經依照地板配置圖換回來了。
+d52,客戶反映機櫃過熱,Please add blanking panels,請裝上盲板
+d52,客戶反映機櫃過熱,I'll report my findings to the FOC.,我會把我的發現回報給 FOC。
+d53,客戶新增用電需求,Thanks for the heads-up.,謝謝你先通知。
+d53,客戶新增用電需求,How much power will the rack draw?,這個機櫃會用多少電？
+d53,客戶新增用電需求,if the other one fails,在另一台故障時
+d53,客戶新增用電需求,I can't promise anything today.,我今天沒辦法承諾任何事。
+d53,客戶新增用電需求,This needs an RFC and an engineering review.,這需要提 RFC，並經過工程審查。
+d53,客戶新增用電需求,ask engineering for a date,請工程團隊給一個日期
+d54,設備標示和圖面不符,It doesn't match the drawing or the MOP.,和圖面、MOP 都不符。
+d54,設備標示和圖面不符,Nothing was touched.,什麼都沒碰。
+d54,設備標示和圖面不符,The MOP is on hold,MOP 已經暫停
+d54,設備標示和圖面不符,I won't change any labels myself.,我不會自己改任何標示。
+d54,設備標示和圖面不符,Should I open a WO for it?,我需要為這件事開一張工單嗎？
+d54,設備標示和圖面不符,wait for you at the panel,在配電盤這裡等你
+d55,紅外線熱影像檢查發現過熱接點,"Which connection is it, and how hot is it?",是哪一個接點？溫度多高？
+d55,紅外線熱影像檢查發現過熱接點,How serious is it?,有多嚴重？
+d55,紅外線熱影像檢查發現過熱接點,I'll record the temperature rise,我會記錄溫升
+d55,紅外線熱影像檢查發現過熱接點,The repair needs a shutdown with LOTO.,修理需要停電並執行 LOTO。
+d55,紅外線熱影像檢查發現過熱接點,I'll request the earliest maintenance window.,我會申請最早的維護時段。
+d55,紅外線熱影像檢查發現過熱接點,I'll check its load in EPMS every shift,我每一班都會在 EPMS 上確認它的負載
+d56,預動式灑水系統監視警報,It's supervisory only.,只有監視警報。
+d56,預動式灑水系統監視警報,No fire alarm and no water flow.,沒有火警，也沒有水流。
+d56,預動式灑水系統監視警報,The air gauge reads 10 psi.,空氣壓力錶是 10 psi。
+d56,預動式灑水系統監視警報,the air compressor isn't running,空氣壓縮機沒有在運轉
+d56,預動式灑水系統監視警報,we'll need a fire watch,我們就需要安排監火人員
+d56,預動式灑水系統監視警報,update you every 15 minutes,每 15 分鐘向你更新一次
+d57,化學品洩漏（乙二醇）,I found a small glycol spill,我發現少量乙二醇洩漏
+d57,化學品洩漏（乙二醇）,It's dripping slowly from the pump seal.,是從泵浦軸封慢慢滴下來的。
+d57,化學品洩漏（乙二醇）,I put cones around it,我在周圍放了三角錐
+d57,化學品洩漏（乙二醇）,It says chemical-resistant gloves and safety glasses.,上面寫要戴耐化學品手套和安全眼鏡。
+d57,化學品洩漏（乙二醇）,I covered the drain,我把排水孔蓋住了
+d57,化學品洩漏（乙二醇）,evacuate the area and call for help,撤離現場並請求支援
+d58,卸貨區收貨,Can I see the packing list and the delivery receipt?,可以看一下裝箱單和簽收單嗎？
+d58,卸貨區收貨,Let me check the paperwork before I sign.,簽收之前，我先核對一下文件。
+d58,卸貨區收貨,without checking it first,沒先檢查過
+d58,卸貨區收貨,"Heat, smell, swelling, or leaks.",有沒有發熱、異味、鼓脹或漏液。
+d58,卸貨區收貨,no cardboard goes into the data hall,紙箱不會進到機房
+d58,卸貨區收貨,I'll log the delivery.,我會登記這次收貨。
+d59,施工後驗收與缺失清單,are all the covers back on and fastened?,所有外蓋都裝回去、固定好了嗎？
+d59,施工後驗收與缺失清單,The labels match the drawing,標示都和圖面一致
+d59,施工後驗收與缺失清單,How does the cleanup look?,清潔的部分看起來怎麼樣？
+d59,施工後驗收與缺失清單,Your PTW is still open.,你們的 PTW 還沒關閉。
+d59,施工後驗收與缺失清單,We'll close it together after the walk-down.,巡查完我們一起把它關閉。
+d59,施工後驗收與缺失清單,I'll send the punch list.,我會把缺失清單寄出去。
+d60,事件後檢討會議,Should I start with the timeline?,要我先從時間軸開始說明嗎？
+d60,事件後檢討會議,Walk us through what happened.,跟大家說明一下經過。
+d60,事件後檢討會議,the standby pump didn't start automatically,備用泵浦沒有自動啟動
+d60,事件後檢討會議,I followed the EOP,我依照 EOP
+d60,事件後檢討會議,That cost us a few minutes.,讓我們多花了幾分鐘。
+d60,事件後檢討會議,I'll take that one.,這項我來負責。
+d61,EOP 演練：火警警報應變,We're taking the stairs.,我們走樓梯。
+d61,EOP 演練：火警警報應變,Don't open the door if it's hot.,如果門是燙的，就不要打開。
+d61,EOP 演練：火警警報應變,This is a confirmed fire.,確定是真的火災。
+d61,EOP 演練：火警警報應變,I'm activating the manual pull station.,我現在按下手動報警機。
+d61,EOP 演練：火警警報應變,Everyone at the assembly point is accounted for.,集合點的所有人都清點到齊。
+d61,EOP 演練：火警警報應變,Not until the fire department says it's safe,要等消防隊確認安全之後才行
+d62,EOP 演練：市電中斷（單路／雙路）,Did we lose one feed or both?,是斷了一路，還是兩路都斷了？
+d62,EOP 演練：市電中斷（單路／雙路）,All UPS units are online with no alarms.,所有 UPS 都在線上模式，沒有警報。
+d62,EOP 演練：市電中斷（單路／雙路）,I'll check the generators with double hearing protection.,我會戴雙重聽力防護去檢查發電機。
+d62,EOP 演練：市電中斷（單路／雙路）,Only after they confirm the supply is stable.,要等他們確認供電穩定之後才行。
+d62,EOP 演練：市電中斷（單路／雙路）,watch the retransfer locally,在現場盯著回切
+d62,EOP 演練：市電中斷（單路／雙路）,I'll do post-run checks on the generators,我會做發電機的運轉後檢查
+d63,EOP 演練：ATS 切換失敗,"It's in auto, and the fault light is on.",它在自動模式，故障燈亮著。
+d63,EOP 演練：ATS 切換失敗,"Source 2 is available, but the switch didn't move.",電源 2 可以用，但開關沒有切過去。
+d63,EOP 演練：ATS 切換失敗,"Both stopped, but the standby units started.",兩台都停了，但備用機組已經啟動。
+d63,EOP 演練：ATS 切換失敗,I didn't touch it,我沒有動它
+d63,EOP 演練：ATS 切換失敗,Do the emergency manual transfer per the EOP.,請依照 EOP 執行緊急手動切換。
+d63,EOP 演練：ATS 切換失敗,my teammate will do the peer check,由同事做同儕確認
+d64,EOP 演練：發電機警報應變,Generator 2 wasn't carrying any load,發電機 2 號沒有帶任何負載
+d64,EOP 演練：發電機警報應變,We'll wear PPE and hearing protection.,我們會穿戴個人防護裝備和聽力防護具。
+d64,EOP 演練：發電機警報應變,the charger has a fault light,充電器的故障燈亮著
+d64,EOP 演練：發電機警報應變,Not without the SME's approval.,沒有 SME 核准就不行。
+d64,EOP 演練：發電機警報應變,I'll leave it as found,我會維持原狀
+d64,EOP 演練：發電機警報應變,keep Generator 2 out of service,發電機 2 號維持停用
+d65,EOP 演練：MSB 警報應變,What exactly does it say?,上面到底寫什麼？
+d65,EOP 演練：MSB 警報應變,"That's a load feeder, not the main breaker.",那是一路負載饋線，不是主斷路器。
+d65,EOP 演練：MSB 警報應變,So we follow the chiller failure EOP.,所以我們要依照冰水主機故障的 EOP 處理。
+d65,EOP 演練：MSB 警報應變,"No smell, no heat, and no visible damage.",沒有異味、沒有發熱，也看不到任何損壞。
+d65,EOP 演練：MSB 警報應變,The electrical SME must approve first.,要先經過電氣 SME 核准。
+d65,EOP 演練：MSB 警報應變,keep you posted,持續向你回報
+d66,EOP 演練：UPS 警報應變,the load is on static bypass,負載已經轉到靜態旁路
+d66,EOP 演練：UPS 警報應變,the load on the A side has no battery backup,A 側的負載沒有電池備援
+d66,EOP 演練：UPS 警報應變,The front panel shows the same alarms.,面板上顯示的警報一樣。
+d66,EOP 演練：UPS 警報應變,I wrote down every alarm message.,我把每一則警報訊息都記下來了。
+d66,EOP 演練：UPS 警報應變,put a hold on any work that affects the B side,暫停所有會影響 B 側的作業
+d66,EOP 演練：UPS 警報應變,wait for the vendor here,在這裡等廠商
+d67,EOP 演練：PDU 警報應變,Is the A side carrying the load?,A 側有接手負載嗎？
+d67,EOP 演練：PDU 警報應變,that's within limits,在容許範圍內
+d67,EOP 演練：PDU 警報應變,check for single-corded equipment,檢查有沒有單電源設備
+d67,EOP 演練：PDU 警報應變,"We'll look for damage, heat, or a burning smell.",我們會檢查有沒有損壞、發熱或燒焦味。
+d67,EOP 演練：PDU 警報應變,The trip unit shows an overcurrent trip.,跳脫單元顯示是過電流跳脫。
+d67,EOP 演練：PDU 警報應變,The electrical SME has to find the cause and approve the reset.,要由電氣 SME 找出原因並核准復歸。
+d68,EOP 演練：溫濕度警報（BAS）,My handheld meter reads three degrees above setpoint.,手持式溫度計的讀值比設定值高 3 度。
+d68,EOP 演練：溫濕度警報（BAS）,Is the containment in place?,通道封閉都有關好嗎？
+d68,EOP 演練：溫濕度警報（BAS）,AHU-5 shows a fan failure on BAS,BAS 顯示 AHU-5 有風扇故障
+d68,EOP 演練：溫濕度警報（BAS）,start the standby AHU from BAS,從 BAS 啟動備用空調箱
+d68,EOP 演練：溫濕度警報（BAS）,the cold aisle is cooling down,冷通道的溫度正在下降
+d68,EOP 演練：溫濕度警報（BAS）,What will you put in the status update?,狀態更新你要寫哪些內容？
+d69,EOP 演練：漏水應變,in waterproof boots and gloves,穿上防水靴、戴上手套
+d69,EOP 演練：漏水應變,Water is spraying from a chilled water flange,一個冰水法蘭在噴水
+d69,EOP 演練：漏水應變,First the FOC starts the standby unit.,先請 FOC 啟動備用機組。
+d69,EOP 演練：漏水應變,all three are locked out,三個地方都已上鎖掛牌
+d69,EOP 演練：漏水應變,the racks are dry,機櫃都是乾的
+d69,EOP 演練：漏水應變,silence the leak panel buzzer,讓漏水偵測盤的蜂鳴器靜音
+d70,EOP 演練：補給水中斷,BAS shows zero incoming flow from city water.,BAS 顯示自來水進水流量是零。
+d70,EOP 演練：補給水中斷,The tank is at 60 percent and dropping.,水槽水位 60%，還在下降。
+d70,EOP 演練：補給水中斷,The supply valve and float valve are fully open.,進水閥和浮球閥都是全開。
+d70,EOP 演練：補給水中斷,They can't give a restoration time yet.,他們還沒辦法提供恢復供水的時間。
+d70,EOP 演練：補給水中斷,we clear the truck connection area,我們把水車接水口周圍清空
+d70,EOP 演練：補給水中斷,The basin levels are normal so far.,目前集水盤的水位都正常。

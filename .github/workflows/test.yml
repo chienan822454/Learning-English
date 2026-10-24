@@ -1,0 +1,58 @@
+# English 5000 自動測試：每次上傳到 main（或手動按 Run workflow）時，用 Chromium 跑完全部自動測試。
+# 結果會顯示在 GitHub 的提交紀錄旁（✅ 通過／❌ 失敗），詳細結果可在 Actions 頁面下載（test-results）。
+name: 自動測試
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: tests-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: 取得程式
+        uses: actions/checkout@v4
+
+      - name: 安裝 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 安裝 Playwright 與 Chromium
+        working-directory: tests
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+
+      - name: 準備舊版本（升版測試用：V5.15 與 V5.16.20）
+        run: |
+          mkdir -p tests/old tests/prev
+          # 兩個舊版本的程式檔都放在 tests/fixtures（不需要讀取版本紀錄）
+          unzip -q tests/fixtures/old_V5.15.zip -d tests/old
+          unzip -q tests/fixtures/prev_V5.16.20.zip -d tests/prev
+
+      - name: 執行全部測試
+        run: |
+          mkdir -p /tmp/site
+          # data*.js：data.js、data-ex.js、data-ex2.js（V5.32.0 起多益長例句另外一個檔）
+          cp index.html app.js data*.js styles.css sw.js manifest.webmanifest /tmp/site/
+          cp icon* /tmp/site/ 2>/dev/null || true
+          VER="V$(grep -o "APP_VERSION='[^']*'" app.js | cut -d"'" -f2)"
+          CACHE="english-5000-v$(echo "${VER#V}" | tr . -)"
+          echo "版本 $VER，快取 $CACHE"
+          bash tests/runall.sh /tmp/site "$VER" "$CACHE"
+
+      - name: 上傳測試結果
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-results
+          path: /tmp/res_*.txt
+          retention-days: 14

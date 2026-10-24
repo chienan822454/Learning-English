@@ -1,0 +1,8 @@
+{
+  "name": "english-5000-tests",
+  "private": true,
+  "description": "English 5000 自動測試（Playwright + Chromium）",
+  "devDependencies": {
+    "playwright": "1.58.2"
+  }
+}

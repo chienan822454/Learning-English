@@ -1,0 +1,355 @@
+﻿no,word,ipa,pos,chinese,example_en,example_zh,base_form,variants,related_words,topics,type
+1,abnormal,æbˈnɔrməl,adj.,異常的,The vibration level looks abnormal.,振動值看起來異常。,,,,工作與會議、安全與消防,
+2,breaker,ˈbreɪkər,n.,斷路器,Rack out the breaker before maintenance.,保養前先把斷路器抽出。,,,,電力,
+3,cooling,ˈkulɪŋ,n./adj.,冷卻；冷卻的,Check the cooling mode on the BAS.,在 BAS 上確認冷卻模式。,,,,冷卻與機械,
+4,deadline,ˈdɛdˌlaɪn,n.,截止期限,The deadline for the report is Friday.,報告的截止期限是星期五。,,,,工作與會議、時間與日期,
+5,generator,ˈʤɛnəˌreɪtər,n.,發電機,The generator started within ten seconds.,發電機在十秒內啟動。,,,,電力,
+6,handover,ˈhændˌoʊvər,n.,交接（班）,Write all open items in the handover.,把所有未結事項寫進交接內容。,,,,工作與會議,
+7,inspect,ɪnˈspɛkt,v.,檢查；巡檢,Inspect the battery room every shift.,每個班次都要巡檢電池室。,,,,工作與會議、安全與消防,
+8,investigating,ɪnˈvɛstəˌgeɪtɪŋ,v.,調查（現在分詞）,We are investigating the alarm.,我們正在調查這個警報。,investigate,,,工作與會議、社會與公共事務,
+9,isolate,ˈaɪsəˌleɪt,v.,隔離,Isolate the pump before you open it.,打開泵浦前先隔離。,,,,電力、安全與消防,
+10,leak,lik,n./v.,洩漏；漏水,Report any water leak right away.,發現漏水請立即回報。,,,,冷卻與機械、安全與消防,
+11,lockout,ˈlɑkˌaʊt,n.,上鎖（LOTO）,Apply your lockout device to the breaker.,在斷路器上裝上你的上鎖裝置。,,,,安全與消防,
+12,notify,ˈnoʊtəˌfaɪ,v.,通知,Notify the FOC before you start.,開始前先通知 FOC。,,,,工作與會議、情緒與溝通,
+13,observation,ˌɑbzərˈveɪʃən,n.,觀察,I submitted a safety observation.,我提交了一份安全觀察報告。,,,,工作與會議、安全與消防,
+14,redundant,rɪˈdəndənt,adj.,備援的；冗餘的,Each rack has redundant power feeds.,每個機櫃都有備援的供電迴路。,,,,電力、冷卻與機械,
+15,resolved,rɪˈzɑlvd,adj./v.,已解決的,The issue is resolved.,問題已解決。,resolve,,,工作與會議,
+16,sensor,ˈsɛnsər,n.,感測器,The temperature sensor is out of range.,溫度感測器讀值超出範圍。,,,,冷卻與機械、電腦與網路,
+17,standby,ˈstændˌbaɪ,n./adj.,備用；待機,Keep one chiller on standby.,保持一台冰水主機備用。,,,,電力、冷卻與機械,
+18,switched,swɪʧt,v.,切換（過去式）,The load switched to the generator.,負載已切換到發電機。,switch,,,電力、電腦與網路,
+19,tagout,ˈtægˌaʊt,n.,掛牌（LOTO）,Fill in the tagout with your name and date.,在掛牌上填寫你的名字和日期。,,,,安全與消防,
+20,tracker,ˈtrækər,n.,追蹤表,Update the issue tracker after each shift.,每班結束後更新問題追蹤表。,,,,工作與會議,
+21,trim,trɪm,n./v.,微調；Trim 補冷模式,The AHU is running in trim mode.,空調箱正在以 Trim 模式運轉。,,,,冷卻與機械,
+22,tripped,trɪpt,v.,跳脫（trip 過去式）,The main breaker tripped at 3 a.m.,主斷路器在凌晨三點跳脫。,trip,,,電力、交通與旅行,
+23,upstream,ˈəpˌstrim,adj./adv.,上游的,Check the upstream breaker first.,先檢查上游的斷路器。,,,,電力、冷卻與機械,
+24,valve,vælv,n.,閥門,Close the isolation valve.,關閉隔離閥。,,,,冷卻與機械,
+25,vendor,ˈvɛndər,n.,廠商,The vendor needs an escort on site.,廠商在現場需要有人陪同。,,,,工作與會議、商業與金錢,
+26,verify,ˈvɛrəˌfaɪ,v.,確認；驗證,Verify zero energy before work.,作業前確認已無殘存能量。,,,,工作與會議、安全與消防,
+27,voltage,ˈvoʊltɪʤ,n.,電壓,The voltage is within the normal range.,電壓在正常範圍內。,,,,電力,
+28,chiller,ˈʧɪlər,n.,冰水主機,Chiller 2 is offline for maintenance.,二號冰水主機停機保養中。,,,,冷卻與機械,
+29,transformer,trænsˈfɔrmər,n.,變壓器,The transformer is running hot.,變壓器溫度偏高。,,,,電力,
+30,switchgear,ˈswɪʧˌgɪr,n.,開關設備；配電盤,Only qualified staff may operate the switchgear.,只有合格人員可以操作開關設備。,,,,電力,
+31,busbar,ˈbəsˌbɑr,n.,匯流排,Check the busbar joints for heat.,檢查匯流排接點是否過熱。,,,,電力,
+32,busway,ˈbəsˌweɪ,n.,插接式匯流排槽,The busway carries power to the server racks.,插接式匯流排槽把電力送到伺服器機櫃。,,,,電力,
+33,inverter,ɪnˈvərtər,n.,變頻器；逆變器,The UPS inverter is online.,UPS 逆變器正在運作。,,,,電力,
+34,rectifier,ˈrɛktəˌfaɪər,n.,整流器,The rectifier alarm cleared by itself.,整流器警報自行解除。,,,,電力,
+35,compressor,kəmˈprɛsər,n.,壓縮機,The compressor is making a loud noise.,壓縮機發出很大的噪音。,,,,冷卻與機械,
+36,condenser,kənˈdɛnsər,n.,冷凝器,Clean the condenser coil.,清潔冷凝器盤管。,,,,冷卻與機械,
+37,evaporator,ɪˈvæpəˌreɪtər,n.,蒸發器,Ice is forming on the evaporator.,蒸發器上正在結冰。,,,,冷卻與機械,
+38,refrigerant,rɪˈfrɪʤərənt,n.,冷媒,Check the refrigerant pressure.,檢查冷媒壓力。,,,,冷卻與機械,
+39,damper,ˈdæmpər,n.,風門；擋板,The outside air damper is stuck.,外氣風門卡住了。,,,,冷卻與機械,
+40,actuator,ˈækʧuˌeɪtər,n.,致動器,Replace the valve actuator.,更換閥門致動器。,,,,冷卻與機械,
+41,thermostat,ˈθərməˌstæt,n.,溫控器,Set the thermostat to 24 degrees.,把溫控器設定在 24 度。,,,,冷卻與機械,
+42,humidity,hjuˈmɪdəti,n.,濕度,The humidity in the data hall is high.,機房內濕度偏高。,,,,冷卻與機械、天氣與自然,
+43,airflow,ˈɛrˌfloʊ,n.,氣流；風量,Blocked tiles reduce the airflow.,被擋住的地板出風口會降低風量。,,,,冷卻與機械,
+44,duct,dəkt,n.,風管,There is a leak in the supply duct.,送風管有洩漏。,,,,冷卻與機械,
+45,coil,kɔɪl,n.,盤管；線圈,The cooling coil is dirty.,冷卻盤管髒了。,,,,冷卻與機械、電力,
+46,strainer,ˈstreɪnər,n.,過濾器（管路）,Clean the pump strainer.,清潔泵浦的過濾器。,,,,冷卻與機械,
+47,gasket,ˈgæskət,n.,墊片,Replace the gasket on the flange.,更換法蘭上的墊片。,,,,冷卻與機械,
+48,flange,flænʤ,n.,法蘭,The leak is at the flange.,漏點在法蘭處。,,,,冷卻與機械,
+49,wrench,rɛnʧ,n.,扳手,Use a torque wrench.,使用扭力扳手。,,,,冷卻與機械,
+50,multimeter,ˈməltiˌmitər,n.,三用電表,Test for voltage with a multimeter.,用三用電表驗電。,,,,電力,
+51,clamp,klæmp,n./v.,夾具；夾緊（clamp meter 鉤表）,Use a clamp meter to check the current.,用鉤表檢查電流。,,,,冷卻與機械、電力,
+52,insulator,ˈɪnsəˌleɪtər,n.,絕緣體；礙子,The insulator is cracked.,礙子破裂了。,,,,電力,
+53,conductor,kənˈdəktər,n.,導體,Never touch a live conductor.,絕對不要碰觸帶電的導體。,,,,電力,
+54,capacitor,kəˈpæsətər,n.,電容器,The start capacitor failed.,啟動電容故障了。,,,,電力,
+55,contactor,ˈkɑnˌtæktər,n.,接觸器,The contactor is not closing.,接觸器沒有吸合。,,,,電力,
+56,relay,ˈriˌleɪ,n.,繼電器；電驛,The protection relay tripped the breaker.,保護電驛使斷路器跳脫。,,,,電力,
+57,grounding,ˈgraʊndɪŋ,n.,接地,Check the grounding before energizing.,送電前先檢查接地。,,,,電力、安全與消防,
+58,outage,ˈaʊtɪʤ,n.,停電；中斷,There was a short power outage.,發生了短暫停電。,,,,電力,
+59,blackout,ˈblæˌkaʊt,n.,全停電,Follow the blackout recovery procedure.,依照全停電復電程序執行。,,,,電力,
+60,failover,ˈfeɪlˌoʊvər,n.,故障轉移；切換,The failover to the backup server worked.,切換到備援伺服器成功。,,,,電腦與網路、電力,
+61,bypass,ˈbaɪˌpæs,n./v.,旁路,The UPS is on static bypass.,UPS 處於靜態旁路。,,,,電力、冷卻與機械,
+62,interlock,ˈɪntərˌlɑk,n.,連鎖；互鎖,The interlock prevents both breakers from closing.,互鎖裝置防止兩個斷路器同時閉合。,,,,電力、安全與消防,
+63,checklist,ˈʧɛˌklɪst,n.,檢查表,Complete the checklist before you leave.,離開前完成檢查表。,,,,工作與會議,
+64,logbook,ˈlɔgˌbʊk,n.,日誌簿,Record the reading in the logbook.,把讀數記在日誌簿上。,,,,工作與會議,
+65,setpoint,ˈsɛtˌpɔɪnt,n.,設定值,Change the setpoint to 22 degrees.,把設定值改為 22 度。,,,,冷卻與機械、數字與數量,
+66,threshold,ˈθrɛˌʃoʊld,n.,門檻；閾值,The alarm threshold is 30 degrees.,警報門檻是 30 度。,,,,數字與數量、工作與會議,
+67,reset,riˈsɛt,v./n.,重設；復歸,Reset the alarm after you fix it.,修好後再復歸警報。,,,,電力、電腦與網路,
+68,override,ˈoʊvərˌraɪd,n./v.,強制；手動超越,Remove the manual override.,解除手動強制。,,,,冷卻與機械、電力,
+69,calibrate,ˈkæləˌbreɪt,v.,校正,Calibrate the sensor every year.,每年校正感測器。,,,,工作與會議、數字與數量,
+70,gauge,geɪʤ,n.,儀表；壓力錶,The pressure gauge reads 3 bar.,壓力錶顯示 3 bar。,,,,冷卻與機械、數字與數量,
+71,sprinkler,ˈsprɪŋkələr,n.,灑水頭,Don't block the sprinkler heads.,不要擋住灑水頭。,,,,安全與消防,
+72,extinguisher,ɪkˈstɪŋgwɪʃər,n.,滅火器,Check the fire extinguisher monthly.,每月檢查滅火器。,,,,安全與消防,
+73,detector,dɪˈtɛktər,n.,偵測器,The smoke detector is in alarm.,煙霧偵測器正在發出警報。,,,,安全與消防,
+74,evacuation,ɪˌvækjəˈweɪʃən,n.,疏散,The evacuation drill starts at ten.,疏散演練十點開始。,,,,安全與消防,
+75,hazard,ˈhæzərd,n.,危害,Identify the hazard before work.,作業前先辨識危害。,,,,安全與消防,
+76,harness,ˈhɑrnɪs,n.,安全帶（背負式）,Wear a harness when working at height.,高處作業要穿戴背負式安全帶。,,,,安全與消防,
+77,respirator,ˈrɛspəˌreɪtər,n.,呼吸防護具,Wear a respirator when you drill into concrete.,在混凝土上鑽孔時要配戴呼吸防護具。,,,,安全與消防,
+78,goggles,ˈgɑgəlz,n.,護目鏡,Put on your safety goggles.,戴上安全護目鏡。,,,,安全與消防,
+79,earplugs,ˈɪrˌpləgz,n.,耳塞,Wear earplugs near the generator.,在發電機附近要戴耳塞。,,,,安全與消防,
+80,hydraulic,haɪˈdrɔlɪk,adj.,液壓的,Check the hydraulic oil level.,檢查液壓油油位。,,,,冷卻與機械,
+81,lubricant,ˈlubrəkənt,n.,潤滑劑,Apply lubricant to the bearing.,在軸承上塗潤滑劑。,,,,冷卻與機械,
+82,vibration,vaɪˈbreɪʃən,n.,振動,The pump has high vibration.,泵浦振動值偏高。,,,,冷卻與機械,
+83,overload,ˈoʊvərˌloʊd,n./v.,過載,The motor tripped on overload.,馬達因過載而跳脫。,,,,電力,
+84,overheat,ˌoʊvərˈhit,v.,過熱,The motor may overheat.,馬達可能會過熱。,,,,冷卻與機械、安全與消防,
+85,harmonic,hɑrˈmɑnɪk,n./adj.,諧波（的）,High harmonic levels can heat the cables.,諧波過高會使電纜發熱。,,,,電力,
+86,kilowatt,ˈkɪləˌwɑt,n.,千瓦（瓩）,The heater uses one kilowatt of power.,這台加熱器耗電一瓩。,,,,電力、數字與數量,
+87,megawatt,ˈmɛgəˌwɑt,n.,百萬瓦（MW）,The site uses about one megawatt at night.,場區夜間用電約 1 MW。,,,,電力、數字與數量,
+88,ampere,ˈæmpɪr,n.,安培,The meter shows one ampere.,電表顯示 1 安培。,,,,電力、數字與數量,
+89,electrolyte,ɪˈlɛktrəˌlaɪt,n.,電解液,Check the battery electrolyte level.,檢查電池電解液液位。,,,,電力,
+90,diesel,ˈdizəl,n.,柴油,The day tank is full of diesel.,日用油槽裝滿了柴油。,,,,電力,
+91,exhaust,ɪgˈzɔst,n.,排氣,Check the generator exhaust for smoke.,檢查發電機排氣是否冒煙。,,,,冷卻與機械,
+92,coolant,ˈkulənt,n.,冷卻液,Top up the engine coolant.,補充引擎冷卻液。,,,,冷卻與機械,
+93,radiator,ˈreɪdiˌeɪtər,n.,散熱器；水箱,Clean the radiator fins.,清潔散熱器鰭片。,,,,冷卻與機械,
+94,ventilation,ˌvɛntɪˈleɪʃən,n.,通風,Make sure the room has good ventilation.,確認房間通風良好。,,,,冷卻與機械,
+95,downtime,ˈdaʊnˌtaɪm,n.,停機時間,We need zero downtime.,我們要零停機。,,,,時間與日期、工作與會議,
+96,uptime,ˈəpˌtaɪm,n.,運轉時間；可用時間,Our goal is high uptime.,我們的目標是盡量提高正常運轉時間。,,,,時間與日期、工作與會議,
+97,preventive,prɪˈvɛntɪv,adj.,預防性的,We do preventive maintenance every month.,我們每月做預防性保養。,,,,工作與會議、安全與消防,
+98,corrective,kəˈrɛktɪv,adj.,矯正性的；修復性的,Open a corrective work order.,開一張修復性工單。,,,,工作與會議,
+99,troubleshoot,ˈtrəbəlˌʃut,v.,排除故障,Let's troubleshoot the fan.,我們來排除風扇的故障。,,,,工作與會議,
+100,commissioning,kəˈmɪʃənɪŋ,n.,試運轉；驗收測試,The commissioning test passed.,試運轉測試通過了。,,,,工作與會議,
+101,contractor,ˈkɑnˌtræktər,n.,承包商,The contractor will arrive at nine.,承包商九點會到。,,,,工作與會議、商業與金錢,
+102,escort,ɪˈskɔrt,n./v.,陪同；陪同人員,Escort the visitor at all times.,全程陪同訪客。,,,,安全與消防、工作與會議,
+103,energize,ˈɛnərˌʤaɪz,v.,送電,Do not energize the panel yet.,先不要對配電盤送電。,,,,電力,
+104,de-energize,diˈɛnərˌʤaɪz,v.,斷電,De-energize the circuit before work.,作業前先將迴路斷電。,,,,電力、安全與消防,
+105,UPS,juˌpiˈɛs,abbr.,不斷電系統（Uninterruptible Power Supply）,The UPS switched to battery mode.,UPS 切換到電池模式。,,,,電力,縮寫
+106,EPMS,iˌpiˌɛmˈɛs,abbr.,電力監控系統（Electrical Power Monitoring System）,Check the breaker status on the EPMS.,在 EPMS 上確認斷路器狀態。,,,,電力、電腦與網路,縮寫
+107,BAS,biˌeɪˈɛs,abbr.,建築自動化系統（Building Automation System）,The BAS shows a high temperature alarm.,BAS 顯示高溫警報。,,,,冷卻與機械、電腦與網路,縮寫
+108,SAS,ɛsˌeɪˈɛs,abbr.,變電站自動化系統（Substation Automation System）,The SAS lost communication with the relay.,SAS 與保護電驛失去通訊。,,,,電力、電腦與網路,縮寫
+109,GIS,ʤiˌaɪˈɛs,abbr.,氣體絕緣開關設備（Gas-Insulated Switchgear）,The GIS is fed from the 161 kV line.,GIS 由 161 kV 線路供電。,,,,電力,縮寫
+110,ATS,eɪˌtiˈɛs,abbr.,自動切換開關（Automatic Transfer Switch）,The ATS transferred to the generator.,ATS 已切換到發電機。,,,,電力,縮寫
+111,VFD,viˌɛfˈdi,abbr.,變頻器（Variable Frequency Drive）,Reset the VFD fault on the pump.,把泵浦變頻器的故障復歸。,,,,冷卻與機械、電力,縮寫
+112,CHWP,siˌeɪʧˌdəbəljuˈpi,abbr.,冰水泵（Chilled Water Pump）,CHWP-2 is running at sixty percent.,二號冰水泵以百分之六十運轉。,,,,冷卻與機械,縮寫
+113,HVAC,ˈeɪʧˌvæk,abbr.,"暖通空調（Heating, Ventilation, and Air Conditioning）",The HVAC vendor will arrive at nine.,空調廠商九點會到。,,,,冷卻與機械,縮寫
+114,AHU,eɪˌeɪʧˈju,abbr.,空調箱（Air Handling Unit）,AHU-3 has a filter alarm.,三號空調箱有濾網警報。,,,,冷卻與機械,縮寫
+115,ACCU,eɪˌsiˌsiˈju,abbr.,氣冷式室外機（Air-Cooled Condensing Unit）,The ACCU on the roof is not running.,屋頂的氣冷式室外機沒有運轉。,,,,冷卻與機械,縮寫
+116,VRF,viˌɑrˈɛf,abbr.,變冷媒流量空調（Variable Refrigerant Flow）,The VRF unit in the office is off.,辦公室的 VRF 空調沒有開。,,,,冷卻與機械,縮寫
+117,LOTO,ˈloʊˌtoʊ,abbr.,上鎖掛牌（Lockout/Tagout）,Apply LOTO before you open the panel.,打開盤體前先執行上鎖掛牌。,,,,安全與消防,縮寫
+118,SOP,ɛsˌoʊˈpi,abbr.,標準作業程序（Standard Operating Procedure）,Follow the SOP step by step.,請按照 SOP 逐步執行。,,,,工作與會議,縮寫
+119,MOP,ɛmˌoʊˈpi,abbr.,作業方法程序（Method of Procedure）,The MOP needs approval before the work.,施工前 MOP 需要先核准。,,,,工作與會議,縮寫
+120,EOP,iˌoʊˈpi,abbr.,緊急應變程序（Emergency Operating Procedure）,Open the EOP for a UPS failure.,打開 UPS 故障的 EOP。,,,,安全與消防、工作與會議,縮寫
+121,OMM,oʊˌɛmˈɛm,abbr.,操作維護手冊（Operation and Maintenance Manual）,The OMM lists the maintenance intervals.,操作維護手冊裡列有保養週期。,,,,工作與會議,縮寫
+122,SOO,ɛsˌoʊˈoʊ,abbr.,運轉順序說明（Sequence of Operations）,Check the SOO for the chiller staging.,查看冰水主機加載的運轉順序說明。,,,,冷卻與機械,縮寫
+123,CMMS,siˌɛmˌɛmˈɛs,abbr.,電腦化維護管理系統（Computerized Maintenance Management System）,Close the work order in CMMS.,在 CMMS 裡結案工單。,,,,工作與會議、電腦與網路,縮寫
+124,WO,dəbəljuˈoʊ,abbr.,工單（Work Order）,Please open a WO for the leak.,請針對漏水開一張工單。,,,,工作與會議,縮寫
+125,RFC,ɑrˌɛfˈsi,abbr.,變更申請（Request for Change）,The RFC was approved yesterday.,變更申請昨天已核准。,,,,工作與會議,縮寫
+126,PTW,piˌtiˈdəbəlju,abbr.,工作許可（Permit to Work）,Do you have a PTW for this job?,這項工作你有工作許可嗎？,,,,安全與消防、工作與會議,縮寫
+127,IcM,aɪˌsiˈɛm,abbr.,事件管理系統（Incident Management）,I opened an IcM ticket for the outage.,我針對這次停電開了 IcM 事件單。,,,,工作與會議、電腦與網路,縮寫
+128,SME,ɛsˌɛmˈi,abbr.,主題專家（Subject Matter Expert）,Let's call the electrical SME.,我們打電話問電力專家吧。,,,,工作與會議、人物與家庭,縮寫
+129,PM,piˈɛm,abbr.,預防保養（Preventive Maintenance）,The generator PM is due this week.,發電機的預防保養這週到期。,,,,工作與會議,縮寫
+130,MSB,ɛmˌɛsˈbi,abbr.,主配電盤（Main Switchboard）,MSB-1 is on the utility source.,一號主配電盤目前由市電供電。,,,,電力,縮寫
+131,PDU,piˌdiˈju,abbr.,配電單元（Power Distribution Unit）,The PDU load is forty percent.,PDU 負載是百分之四十。,,,,電力,縮寫
+132,STS,ˌɛsˌtiˈɛs,abbr.,靜態轉換開關（Static Transfer Switch）,The STS moved the load to the alternate source.,STS 已將負載切換到另一路電源。,,,,電力,縮寫
+133,RPP,ˌɑrˌpiˈpi,abbr.,遠端配電盤（Remote Power Panel）,The RPP in Row B feeds all twelve racks.,B 排的 RPP 供電給全部十二個機櫃。,,,,電力,縮寫
+134,CRAH,krɑ,abbr.,機房空調箱（Computer Room Air Handler）,CRAH 7 has a high return air temperature alarm.,7 號 CRAH 出現回風溫度過高警報。,,,,冷卻與機械,縮寫
+135,CRAC,kræk,abbr.,機房空調機（Computer Room Air Conditioner）,The CRAC in the UPS room has a compressor alarm.,UPS 室的 CRAC 出現壓縮機警報。,,,,冷卻與機械,縮寫
+136,DCIM,ˌdiˌsiˌaɪˈɛm,abbr.,資料中心基礎設施管理（Data Center Infrastructure Management）,Check the rack power trend in DCIM before you add load.,加負載前，先在 DCIM 查看機櫃用電趨勢。,,,,電腦與網路,縮寫
+137,PUE,ˌpiˌjuˈi,abbr.,電力使用效率（Power Usage Effectiveness）,Our site PUE was 1.35 last month.,我們場區上個月的 PUE 是 1.35。,,,,電力、數字與數量,縮寫
+138,kVA,ˌkeɪˌviˈeɪ,abbr.,千伏安（kilovolt-ampere）,UPS-2A is rated at 500 kVA.,UPS-2A 的額定容量是 500 kVA。,,,,電力、數字與數量,縮寫
+139,load bank,ˈloʊd ˌbæŋk,n.,假負載,We will test Generator 3 with a load bank tomorrow.,我們明天會用假負載測試三號發電機。,,,,電力,
+140,megger,ˈmɛgər,n./v.,絕緣電阻計（俗稱高阻計；Megger 原為品牌名）；用絕緣電阻計測試,We megger the new feeder after LOTO to check its insulation.,完成上鎖掛牌後，我們用高阻計測試新饋線的絕緣。,,,,電力,
+141,torque,tɔrk,n./v.,扭力；鎖緊至規定扭力,Set the torque wrench to the value in the MOP.,把扭力扳手設定到 MOP 規定的數值。,,,,電力、冷卻與機械,
+142,raised floor,ˌreɪzd ˈflɔr,n.,高架地板,Put cones around any lifted tile on the raised floor.,高架地板上只要有掀開的地板，周圍就要放三角錐。,,,,冷卻與機械,
+143,containment,kənˈteɪnmənt,n.,冷熱通道封閉,Keep the containment doors closed to protect the airflow.,請保持通道封閉的門關閉，以維持氣流。,,,,冷卻與機械,
+144,plenum,ˈplɛnəm,n.,靜壓空間；回風夾層,Hot air returns to the CRAH through the ceiling plenum.,熱空氣經由天花板回風夾層回到 CRAH。,,,,冷卻與機械,
+145,cooling tower,ˈkulɪŋ ˌtaʊər,n.,冷卻水塔,The cooling tower fan on the roof is making noise.,屋頂上的冷卻水塔風扇有異音。,,,,冷卻與機械,
+146,glycol,ˈglaɪˌkɔl,n.,乙二醇；防凍液,Wear gloves when you add glycol to the loop.,在迴路中添加乙二醇時要戴手套。,,,,冷卻與機械,
+147,heat exchanger,ˈhit ɪksˌʧeɪnʤər,n.,熱交換器,The heat exchanger separates tower water from chilled water.,熱交換器把冷卻水塔的水和冰水隔開。,,,,冷卻與機械,
+148,VESDA,ˈvɛzdə,abbr.,極早期煙霧偵測（Very Early Smoke Detection Apparatus；原為品牌名，業界常用來泛指吸氣式偵煙系統）,The VESDA panel shows an alert in Data Hall 2.,VESDA 面板顯示二號機房有預警。,,,,安全與消防,縮寫
+149,clean agent,ˌklin ˈeɪʤənt,n.,潔淨滅火藥劑,Leave the room at once when the clean agent alarm sounds.,潔淨滅火藥劑警報響起時，請立刻離開房間。,,,,安全與消防,
+150,pre-action,ˌpriˈækʃən,adj.,預動式（灑水系統）,Data Hall 1 is protected by a pre-action sprinkler system.,一號機房由預動式灑水系統保護。,,,,安全與消防,
+151,EPO,ˌiˌpiˈoʊ,abbr.,緊急斷電（Emergency Power Off）,Never press the EPO button unless there is a real emergency.,除非真的發生緊急狀況，否則絕對不要按 EPO 按鈕。,,,,電力、安全與消防,縮寫
+152,arc flash,ˈɑrk ˌflæʃ,n.,電弧閃絡,Read the arc flash label before you operate the breaker.,操作斷路器前，先看電弧閃絡標籤。,,,,電力、安全與消防,
+153,PPE,ˌpiˌpiˈi,abbr.,個人防護具（Personal Protective Equipment）,Wear the right PPE before you enter the battery room.,進入電池室前，要穿戴適當的個人防護具。,,,,安全與消防,縮寫
+154,day tank,ˈdeɪ ˌtæŋk,n.,日用油槽,The day tank for Generator 3 is eighty percent full.,三號發電機的日用油槽目前八成滿。,,,,電力,
+155,RCA,ˌɑrˌsiˈeɪ,abbr.,根本原因分析（Root Cause Analysis）,The RCA for the ATS-1 failure is due next week.,ATS-1 故障的根本原因分析下週要交。,,,,工作與會議,縮寫
+156,SLA,ˌɛsˌɛlˈeɪ,abbr.,服務水準協議（Service Level Agreement）,The vendor's SLA requires a response within four hours.,廠商的 SLA 要求在四小時內回應。,,,,工作與會議,縮寫
+157,escalation,ˌɛskəˈleɪʃən,n.,升級通報；向上呈報,Follow the escalation path if the FOC does not answer.,如果 FOC 沒有回應，就依照升級通報流程處理。,,,,工作與會議,
+158,maintenance window,ˈmeɪntənəns ˌwɪndoʊ,n.,維護時段,The maintenance window for PDU-3B is Saturday night.,PDU-3B 的維護時段在星期六晚上。,,,,工作與會議,
+159,surge,sərʤ,n.,突波；（電壓、電流）激增,The surge protector on MSB-1 shows a fault light.,MSB-1 的突波保護器亮起故障燈。,,,,電力,
+160,receptacle,rɪˈsɛptəkəl,n.,插座,The receptacle under this floor tile feeds rack A12.,這塊地板下的插座供電給 A12 機櫃。,,,,電力,
+161,feeder,ˈfidər,n.,饋線,Feeder 3 from MSB-1 supplies power to UPS-2A.,MSB-1 的 3 號饋線供電給 UPS-2A。,,,,電力,
+162,busduct,ˈbəsˌdəkt,n.,匯流排槽,Check the busduct joints during the annual shutdown.,年度停機保養時要檢查匯流排槽的接頭。,,,,電力,
+163,ampacity,æmˈpæsəti,n.,安培容量,The new cable must have enough ampacity for the load.,新電纜必須有足夠的安培容量來承載這個負載。,,,,電力,
+164,insulation,ˌɪnsəˈleɪʃən,n.,絕緣；絕緣層,Report any cable with damaged insulation right away.,發現任何電纜絕緣層破損，請立即回報。,,,,電力,
+165,lug,ləg,n.,電纜端子,A loose lug can overheat and damage the breaker.,鬆脫的端子可能過熱並損壞斷路器。,,,,電力,
+166,crimp,krɪmp,v.,壓接,Use the correct die to crimp the cable lug.,請用正確的壓模來壓接電纜端子。,,,,電力,
+167,chilled,ʧɪld,adj.,冷卻的；冰水的,CHWP-02 sends chilled water to the CRAH units.,CHWP-02 把冰水送到各台 CRAH。,,,,冷卻與機械,
+168,impeller,ɪmˈpɛlər,n.,葉輪,"The pump impeller is worn, so the flow has dropped.",泵浦葉輪磨損了，所以流量下降。,,,,冷卻與機械,
+169,differential,ˌdɪfəˈrɛnʃəl,n./adj.,差壓；差動,The differential pressure across the AHU-5 filters is high.,AHU-5 濾網前後的差壓偏高。,,,,冷卻與機械、電力,
+170,leak detection,ˈlik dɪˌtɛkʃən,n.,漏水偵測,The leak detection cable under CRAH 4 is in alarm.,4 號 CRAH 下方的漏水偵測線發出警報。,,,,冷卻與機械,
+171,dew point,ˈdu ˌpɔɪnt,n.,露點,Condensation forms when a surface is colder than the dew point.,表面溫度低於露點時就會結露。,,,,冷卻與機械,
+172,humidifier,hjuˈmɪdəˌfaɪər,n.,加濕器,"The humidifier in CRAC 2 failed, so the humidity is low.",2 號 CRAC 的加濕器故障，所以濕度偏低。,,,,冷卻與機械,
+173,dehumidifier,ˌdihjuˈmɪdəˌfaɪər,n.,除濕機,Run the dehumidifier in the storage room during the rainy season.,梅雨季時要在倉庫開除濕機。,,,,冷卻與機械,
+174,condensate,ˈkɑndənˌseɪt,n.,冷凝水,Check that the condensate drain on AHU-5 is clear.,確認 AHU-5 的冷凝水排水管沒有堵塞。,,,,冷卻與機械,
+175,annunciator,əˈnənsiˌeɪtər,n.,警報顯示盤,The remote annunciator shows that Generator 3 is running.,遠端警報顯示盤顯示三號發電機正在運轉。,,,,電力,
+176,panelboard,ˈpænəlˌbɔrd,n.,分電盤,Panelboard LP-2 feeds the lights in the loading dock.,LP-2 分電盤供電給卸貨區的照明。,,,,電力,
+177,sync,sɪŋk,v./n.,同步,Generator 3 failed to sync with the other units.,三號發電機無法與其他機組同步。,,,,電力,
+178,synchronize,ˈsɪŋkrəˌnaɪz,v.,同步；同步併聯,The controller will synchronize Generator 3 with the bus.,控制器會讓三號發電機與匯流排同步。,,,,電力,
+179,paralleling,ˈpærəˌlɛlɪŋ,n./adj.,併聯（運轉）,The paralleling switchgear connects all generators to one bus.,併聯開關設備把所有發電機併到同一條匯流排上。,,,,電力,
+180,retransfer,riˈtrænsfər,v./n.,回切（切回原電源）,ATS-1 will retransfer to utility after a five-minute delay.,ATS-1 會在延遲五分鐘後回切到市電。,,,,電力,
+181,brownout,ˈbraʊˌnaʊt,n.,低電壓；電壓不足,A brownout can make the UPS switch to battery.,電壓不足可能使 UPS 切換到電池供電。,,,,電力,
+182,sag,sæg,n.,電壓驟降,The EPMS recorded a voltage sag on MSB-1 last night.,EPMS 記錄到昨晚 MSB-1 發生電壓驟降。,,,,電力,
+183,ripple,ˈrɪpəl,n.,漣波,High ripple on the DC bus can shorten battery life.,直流匯流排上的漣波過高會縮短電池壽命。,,,,電力,
+184,discharge,ˈdɪsˌʧɑrʤ,n./v.,放電；排出,The battery discharge test on UPS-2A starts at nine.,UPS-2A 的電池放電測試九點開始。,,,,電力,
+185,runtime,ˈrənˌtaɪm,n.,運轉時間；備援時間,"At the current load, UPS-2A has twelve minutes of runtime.",以目前的負載，UPS-2A 的備援時間是十二分鐘。,,,,電力,
+186,BMS,ˌbiˌɛmˈɛs,abbr.,建築管理系統（Building Management System）,The BMS shows a high humidity alarm in Data Hall 3.,BMS 顯示三號機房有高濕度警報。,,,,冷卻與機械、電腦與網路,縮寫
+187,DCS,ˌdiˌsiˈɛs,abbr.,分散式控制系統（Distributed Control System）,The DCS controls the pumps and valves in the chiller plant.,DCS 控制冰水主機房的泵浦和閥門。,,,,電腦與網路,縮寫
+188,SCADA,ˈskædə,abbr.,監控與資料擷取系統（Supervisory Control and Data Acquisition）,The SCADA system shows the position of every breaker.,SCADA 系統會顯示每個斷路器的開關狀態。,,,,電力、電腦與網路,縮寫
+189,PLC,ˌpiˌɛlˈsi,abbr.,可程式邏輯控制器（Programmable Logic Controller）,The chiller plant PLC lost communication with the BMS.,冰水主機房的 PLC 與 BMS 失去通訊。,,,,電腦與網路,縮寫
+190,NOC,nɑk,abbr.,網路維運中心（Network Operations Center）,Tell the NOC before the maintenance window starts.,維護時段開始前，先通知 NOC。,,,,電腦與網路、工作與會議,縮寫
+191,KPI,ˌkeɪˌpiˈaɪ,abbr.,關鍵績效指標（Key Performance Indicator）,Uptime is the most important KPI for our team.,正常運轉時間是我們團隊最重要的 KPI。,,,,工作與會議、數字與數量,縮寫
+192,postmortem,ˌpoʊstˈmɔrtəm,n.,事後檢討（報告）,Add the full timeline to the postmortem in IcM.,把完整的時間軸加到 IcM 的事後檢討報告裡。,,,,工作與會議,
+193,hot work,ˈhɑt ˌwərk,n.,動火作業,Hot work near the fuel tanks needs a permit and a fire watch.,在油槽附近動火作業，需要許可證和監火人員。,,,,安全與消防,
+194,confined space,kənˌfaɪnd ˈspeɪs,n.,侷限空間,Never enter a confined space without a permit and an attendant.,沒有許可和監視人員，絕對不要進入侷限空間。,,,,安全與消防,
+195,fall protection,ˈfɔl prəˌtɛkʃən,n.,墜落防護,Use fall protection when you work near the open roof edge.,在沒有護欄的屋頂邊緣附近作業時，要使用墜落防護。,,,,安全與消防,
+196,scaffold,ˈskæfəld,n.,施工架,The scaffold must be inspected before anyone climbs it.,施工架必須先經過檢查，才能讓人攀爬。,,,,安全與消防,
+197,RMA,ˌɑrˌɛmˈeɪ,abbr.,退貨授權（Return Merchandise Authorization）,Ship the failed VFD board back with the RMA number.,把故障的變頻器電路板連同 RMA 編號寄回。,,,,工作與會議,縮寫
+198,power factor,ˈpaʊər ˌfæktər,n.,功率因數,The EPMS shows a power factor of 0.95 on UPS-2A.,EPMS 顯示 UPS-2A 的功率因數是 0.95。,,,,電力、數字與數量,
+199,ground fault,ˈgraʊnd ˌfɔlt,n.,接地故障,The ground fault relay tripped the main breaker on MSB-1.,接地故障電驛使 MSB-1 的主斷路器跳脫。,,,,電力,
+200,short circuit,ˌʃɔrt ˈsərkət,n.,短路,A short circuit in the cable tripped the breaker.,電纜短路使斷路器跳脫。,,,,電力,
+201,voltage drop,ˈvoʊltɪʤ ˌdrɑp,n.,電壓降,Long cable runs can cause a large voltage drop.,電纜拉得太長，可能造成很大的電壓降。,,,,電力,
+202,fire watch,ˈfaɪər ˌwɑʧ,n.,監火人員,Assign a fire watch before the welding starts in the generator yard.,在發電機區開始焊接前，先指派監火人員。,,,,安全與消防,
+203,spill kit,ˈspɪl ˌkɪt,n.,洩漏應變包,Use the spill kit if diesel leaks near the day tank.,如果日用油槽附近漏柴油，就使用洩漏應變包。,,,,安全與消防,
+204,eyewash station,ˈaɪˌwɑʃ ˌsteɪʃən,n.,緊急洗眼器,The eyewash station is next to the battery room door.,緊急洗眼器就在電池室門旁邊。,,,,安全與消防,
+205,sump pump,ˈsəmp ˌpəmp,n.,集水坑泵浦,The sump pump in the basement failed during the typhoon.,颱風期間，地下室的集水坑泵浦故障了。,,,,冷卻與機械,
+206,makeup water,ˈmeɪˌkəp ˌwɔtər,n.,補給水,The cooling towers use more makeup water in summer.,冷卻水塔在夏天會用掉更多補給水。,,,,冷卻與機械,
+207,supply air,səˈplaɪ ˌɛr,n.,送風,The supply air temperature from AHU-5 is 18 degrees.,AHU-5 的送風溫度是 18 度。,,,,冷卻與機械,
+208,return air,rɪˈtərn ˌɛr,n.,回風,Return air from the hot aisle goes back to the CRAH.,熱通道的回風會回到 CRAH。,,,,冷卻與機械,
+209,hot aisle,ˈhɑt ˌaɪl,n.,熱通道,The hot aisle in Row C is warmer than usual.,C 排的熱通道比平常更熱。,,,,冷卻與機械,
+210,cold aisle,ˈkoʊld ˌaɪl,n.,冷通道,The servers pull cool air from the cold aisle.,伺服器從冷通道吸入冷空氣。,,,,冷卻與機械,
+211,thermal runaway,ˌθərməl ˈrənəˌweɪ,n.,熱失控,"A hot, swollen battery may be a sign of thermal runaway.",電池又熱又膨脹，可能是熱失控的徵兆。,,,,電力、安全與消防,
+212,single point of failure,ˌsɪŋgəl ˌpɔɪnt əv ˈfeɪljər,n.,單點故障,Feeder 2 is a single point of failure for this room.,2 號饋線是這個房間的單點故障。,,,,工作與會議,
+213,transfer switch,ˈtrænsfər ˌswɪʧ,n.,切換開關,The transfer switch failed to move to the generator source.,切換開關沒有成功切換到發電機電源。,,,,電力,
+214,static switch,ˌstætɪk ˈswɪʧ,n.,靜態開關,The UPS static switch moved the load to bypass.,UPS 的靜態開關把負載切換到旁路。,,,,電力,
+215,utility power,juˈtɪləti ˌpaʊər,n.,市電,Utility power came back after twenty minutes.,市電在二十分鐘後恢復了。,,,,電力,
+216,battery string,ˈbætəri ˌstrɪŋ,n.,電池串,Battery string 2 on UPS-2A has one weak cell.,UPS-2A 的第 2 組電池串有一顆電池偏弱。,,,,電力,
+217,float voltage,ˈfloʊt ˌvoʊltɪʤ,n.,浮充電壓,Record the float voltage of each battery during the PM.,預防保養時，記錄每顆電池的浮充電壓。,,,,電力,
+218,nuisance trip,ˈnusəns ˌtrɪp,n.,誤跳脫,The breaker had another nuisance trip last night.,這個斷路器昨晚又誤跳脫了一次。,,,,電力,
+219,single-line diagram,ˌsɪŋgəlˌlaɪn ˈdaɪəˌgræm,n.,單線圖,Check the single-line diagram before you write the MOP.,撰寫 MOP 前，先確認單線圖。,,,,電力、工作與會議,
+220,phase rotation,ˈfeɪz roʊˌteɪʃən,n.,相序,The new generator must match the phase rotation of the bus.,新發電機的相序必須和匯流排一致。,,,,電力,
+221,blanking panel,ˈblæŋkɪŋ ˌpænəl,n.,機櫃盲板,Put a blanking panel in every empty space in the rack.,機櫃裡每個空位都要裝上盲板。,,,,冷卻與機械,
+222,perforated tile,ˌpərfəˌreɪtɪd ˈtaɪl,n.,開孔地板,"Place the perforated tile in the cold aisle, not the hot aisle.",開孔地板要放在冷通道，而不是熱通道。,,,,冷卻與機械,
+223,static pressure,ˌstætɪk ˈprɛʃər,n.,靜壓,The underfloor static pressure dropped when the tiles were lifted.,地板被掀開時，地板下的靜壓下降了。,,,,冷卻與機械,
+224,hot spot,ˈhɑt ˌspɑt,n.,熱點（局部過熱）,DCIM shows a hot spot at the top of rack B12.,DCIM 顯示 B12 機櫃頂部有一個熱點。,,,,冷卻與機械,
+225,near miss,ˌnɪr ˈmɪs,n.,虛驚事件,"Report every near miss, even if nobody was hurt.",即使沒有人受傷，每一件虛驚事件都要通報。,,,,安全與消防,
+226,peer check,ˈpɪr ˌʧɛk,n.,同儕確認,Do a peer check before you open any breaker.,斷開任何斷路器前，先做同儕確認。,,,,安全與消防、工作與會議,
+227,AED,ˌeɪˌiˈdi,abbr.,自動體外心臟電擊去顫器（Automated External Defibrillator）,The AED is on the wall next to the security desk.,AED 掛在警衛櫃台旁邊的牆上。,,,,安全與消防,縮寫
+228,SDS,ˌɛsˌdiˈɛs,abbr.,安全資料表（Safety Data Sheet）,Read the SDS before you handle battery electrolyte.,處理電池電解液前，先閱讀安全資料表。,,,,安全與消防,縮寫
+229,FACP,ˌɛfˌeɪˌsiˈpi,abbr.,火警受信總機（Fire Alarm Control Panel）,The FACP shows a trouble signal on Level 2.,火警受信總機顯示二樓有故障訊號。,,,,安全與消防,縮寫
+230,JHA,ˌʤeɪˌeɪʧˈeɪ,abbr.,工作危害分析（Job Hazard Analysis）,Review the JHA with the vendor before the work starts.,開工前，和廠商一起檢視工作危害分析。,,,,安全與消防、工作與會議,縮寫
+231,free cooling,ˌfri ˈkulɪŋ,n.,自然冷卻,The plant switches to free cooling when the outside air is cold.,外氣夠冷時，冰水系統會切換成自然冷卻。,,,,冷卻與機械,
+232,DSP,ˌdiˌɛsˈpi,abbr.,演練情境程序（Drill Scenario Procedure）,The DSP lists every step of the generator failure drill.,DSP 列出了發電機故障演練的每一個步驟。,,,,安全與消防、工作與會議,縮寫
+233,FOC,ˌɛfˌoʊˈsi,abbr.,設施維運中心（Facility Operations Center）,Report the UPS alarm to the FOC right away.,請立刻向 FOC 回報這個 UPS 告警。,,,,工作與會議,縮寫
+234,changeover,ˈʧeɪnʤˌoʊvər,n.,（設備）切換；輪替運轉,Watch the Hall B temperatures during the chiller changeover.,冰水主機切換期間，請注意 B 機房的溫度。,,,,冷卻與機械、工作與會議,
+235,rollback,ˈroʊlˌbæk,n.,回復；還原（恢復到變更前）,Every MOP needs a clear rollback plan before approval.,每份 MOP 在核准前，都必須有清楚的回復計畫。,,,,工作與會議,
+236,insulated,ˈɪnsəˌleɪtɪd,adj.,絕緣的；隔熱的,Use insulated tools because the battery terminals are always live.,電池端子一直都帶電，所以要使用絕緣工具。,,,,電力、安全與消防,
+237,sandbag,ˈsændˌbæg,n.,沙包,Put sandbags at the loading dock before the typhoon arrives.,颱風來之前，先在卸貨區放好沙包。,,,,安全與消防、天氣與自然,
+238,manhole,ˈmænˌhoʊl,n.,人孔,Entering a manhole requires a confined space permit and a gas test.,進入人孔需要侷限空間作業許可，也要先做氣體檢測。,,,,安全與消防,
+239,offline,ˈɔfˌlaɪn,adj./adv.,離線的；停機的,"AHU-3 is offline, and AHU-4 has picked up the load.",AHU-3 已經離線，由 AHU-4 接手負載。,,,,冷卻與機械、電腦與網路,
+240,recheck,riˈʧɛk,v.,重新檢查；複測,Please recheck the pump vibration after the bearing is replaced.,軸承更換後，請重新量測泵浦的振動。,,,,工作與會議、冷卻與機械,
+241,walk-down,ˈwɔkˌdaʊn,n.,現場逐項巡查（確認設備狀態）,"After the earthquake, do a walk-down of every data hall.",地震過後，要對每一間機房進行現場逐項巡查。,,,,工作與會議、安全與消防,
+242,grinding,ˈgraɪndɪŋ,n.,研磨（作業）,"Grinding throws sparks far, so move all combustibles away first.",研磨的火花會噴得很遠，所以要先把所有可燃物移開。,,,,安全與消防,
+243,undervoltage,ˈəndərˌvoʊltɪʤ,n.,欠電壓（低於設定下限）,The VFD tripped on a DC bus undervoltage fault.,變頻器因直流匯流排欠電壓故障而跳脫。,,,,電力,
+244,impairment,ɪmˈpɛrmənt,n.,（消防系統）停用；功能受損,"During the sprinkler impairment, we need a fire watch in Hall B.",灑水系統停用期間，B 機房需要安排監火人員。,,,,安全與消防,
+245,polarity,poʊˈlɛrəti,n.,極性（正負極）,Check the polarity before you connect the battery cables.,接上電池線之前，先確認極性。,,,,電力,
+246,sump,səmp,n.,集水坑,Check the sump level in the basement after heavy rain.,大雨過後，要檢查地下室集水坑的水位。,,,,冷卻與機械,
+247,no-go,ˈnoʊˌgoʊ,n./adj.,不放行；不可執行（go/no-go 決策）,Any active alarm at the final check means a no-go.,最後檢查時，只要有任何未解除的告警，就不放行。,,,,工作與會議,
+248,welding,ˈwɛldɪŋ,n.,焊接,Welding near the cooling tower needs a hot work permit.,在冷卻水塔附近焊接，需要動火作業許可。,,,,安全與消防,
+249,firmware,ˈfərmˌwɛr,n.,韌體,"If the UPS firmware upgrade fails, roll back per the MOP.",如果 UPS 韌體升級失敗，就依照 MOP 回復舊版。,,,,電腦與網路、電力,
+250,swollen,ˈswoʊlən,adj.,鼓脹的；膨脹的,She found a swollen battery cell and called the FOC right away.,她發現一顆電池芯鼓脹，立刻通報了 FOC。,,,,電力、安全與消防,
+251,acid-resistant,ˈæsədrɪˌzɪstənt,adj.,耐酸的,Wear acid-resistant gloves when you clean up an electrolyte spill.,清理電解液洩漏時，要戴耐酸手套。,,,,安全與消防,
+252,mute,mjut,v.,靜音,Please mute yourself on the incident call unless you're speaking.,在事件處理的電話會議上，沒發言時請把自己靜音。,,,,工作與會議、電腦與網路,
+253,unmute,ənˈmjut,v.,取消靜音,Please unmute and give the FOC your status update.,請取消靜音，向 FOC 報告你的最新狀況。,,,,工作與會議、電腦與網路,
+254,lockbox,ˈlɑkˌbɑks,n.,群組鎖箱（LOTO 用）,Each worker puts a personal lock on the group lockbox.,每位作業人員都要在群組鎖箱上掛自己的個人鎖。,,,,安全與消防,
+255,try-out,ˈtraɪˌaʊt,n.,試啟動確認（LOTO 驗證步驟）,Do a try-out to confirm the pump can't start after lockout.,上鎖後要做試啟動，確認泵浦無法啟動。,,,,安全與消防,
+256,one-line diagram,ˌwənˌlaɪn ˈdaɪəˌgræm,n.,單線圖（同 single-line diagram）,Let's trace the feed to PDU-3B on the one-line diagram.,我們在單線圖上追一下 PDU-3B 的供電來源。,,,,電力、工作與會議,
+257,hertz,hərts,n.,赫茲（Hz，頻率單位）,The generator should reach 60 hertz before it takes the load.,發電機要先達到 60 赫茲，才能接上負載。,,,,電力、數字與數量,
+258,Celsius,ˈsɛlsiəs,adj./n.,攝氏（溫度）,Keep the cold aisle between 18 and 27 degrees Celsius.,冷通道溫度要維持在攝氏 18 到 27 度之間。,,,,數字與數量、冷卻與機械,
+259,cool-down,ˈkulˌdaʊn,n.,冷機（停機前的無載運轉）,Let the generator run unloaded for a five-minute cool-down.,讓發電機無載運轉五分鐘冷機。,,,,電力、冷卻與機械,
+260,on-call,ˈɔnˌkɔl,adj.,待命的；值班待命的,Nina is the on-call electrical SME this weekend.,Nina 是這個週末待命的電氣 SME。,,,,工作與會議、人物與家庭,
+261,handheld,ˈhændˌhɛld,adj./n.,手持式的；手持裝置,Compare the sensor reading with a handheld meter.,用手持式儀表比對感測器的讀值。,,,,工作與會議,
+262,sign-out,ˈsaɪnˌaʊt,n.,簽出（借用登記）,Write your name and WO number on the key sign-out sheet.,請在鑰匙借用登記表上寫下你的名字和工單號碼。,,,,工作與會議,
+263,reinstall,ˌriɪnˈstɔl,v.,重新安裝；裝回,Reinstall the floor tiles as soon as the cable work is done.,纜線作業一完成，就要馬上把高架地板裝回去。,,,,工作與會議,
+264,on-site,ˈɔnˌsaɪt,adj./adv.,現場的；在現場,The vendor will send an on-site engineer within four hours.,廠商會在四小時內派工程師到現場。,,,,工作與會議、地點與方向,
+265,binder,ˈbaɪndər,n.,活頁夾；資料夾,The printed EOPs are in the red binder in the control room.,紙本 EOP 放在控制室的紅色資料夾裡。,,,,工作與會議,
+266,pre-job briefing,ˌpriˌʤɑb ˈbrifɪŋ,n.,工前簡報（說明步驟與風險）,The pre-job briefing covers each MOP step and its hazards.,工前簡報會說明 MOP 的每個步驟和相關危害。,,,,安全與消防、工作與會議,
+267,aftershock,ˈæftərˌʃɑk,n.,餘震,"After a strong aftershock, walk the site again.",發生強烈餘震後，要再巡視一次現場。,,,,天氣與自然、安全與消防,
+268,combustible,kəmˈbəstəbəl,adj./n.,可燃的；可燃物,Keep combustible materials away from the hot work area.,可燃物要遠離動火作業區。,,,,安全與消防,
+269,fire-resistant,ˈfaɪərrɪˌzɪstənt,adj.,耐火的；防火的,Welders must wear fire-resistant clothing and gloves.,焊接人員必須穿戴耐火衣物和手套。,,,,安全與消防,
+270,flammable,ˈflæməbəl,adj.,易燃的,Store flammable liquids only in the approved safety cabinet.,易燃液體只能存放在核可的安全櫃裡。,,,,安全與消防,
+271,blower,ˈbloʊər,n.,鼓風機；送風機,Keep the blower running while anyone is inside the tank.,只要有人在槽內，鼓風機就要持續運轉。,,,,安全與消防、冷卻與機械,
+272,tripod,ˈtraɪˌpɑd,n.,三腳架（侷限空間救援用）,Set up the rescue tripod before anyone enters the manhole.,任何人進入人孔之前，要先架好救援三腳架。,,,,安全與消防,
+273,phonetic alphabet,fəˌnɛtɪk ˈælfəˌbɛt,n.,無線電拼讀字母（Alpha、Bravo…）,Use the phonetic alphabet to spell panel IDs over the radio.,用無線電報盤體編號時，要用拼讀字母拼出來。,,,,工作與會議、學習與語言,
+274,restart,riˈstɑrt,v./n.,重新啟動,Don't restart the chiller until the SME clears the fault.,在 SME 排除故障之前，不要重新啟動冰水主機。,,,,冷卻與機械、電腦與網路,
+275,wedge,wɛʤ,v./n.,（用楔子）卡住；楔子,"Never wedge a fire door open, even for a short job.",就算只是短時間作業，也絕對不要用東西把防火門卡著不關。,,,,安全與消防,
+276,ETA,ˌiˌtiˈeɪ,abbr.,預計抵達時間（Estimated Time of Arrival）,Please ask the vendor for the field engineer's ETA.,請向廠商確認現場工程師的預計抵達時間。,,,,時間與日期、工作與會議,縮寫
+277,ventilate,ˈvɛntəˌleɪt,v.,使通風；通風換氣,Ventilate the tank and test the air again before entry.,進入之前，先讓槽體通風，再重新檢測空氣。,,,,安全與消防、冷卻與機械,
+278,double-check,ˌdəbəlˈʧɛk,v.,再次確認；仔細核對,Double-check the breaker number with your peer before switching.,切換之前，和同伴再次核對斷路器編號。,,,,工作與會議、安全與消防,
+279,walkthrough,ˈwɔkˌθru,n.,逐步走查（程序）；現場巡視,Let's do a walkthrough of the MOP with the vendor tomorrow.,我們明天和廠商一起把 MOP 逐步走一遍。,,,,工作與會議,
+280,unsafe,ənˈseɪf,adj.,不安全的,Report unsafe conditions to the FOC right away.,發現不安全的狀況，要立刻向 FOC 回報。,,,,安全與消防,
+281,shutdown,ˈʃətˌdaʊn,n.,停機；停電作業,The MSB-1 shutdown is planned for Saturday night.,MSB-1 的停電作業排在星期六晚上。,,,,電力、工作與會議,
+282,disregard,ˌdɪsrɪˈgɑrd,v.,忽略；不予理會,Please disregard the last alarm email; it was only a test.,請忽略上一封告警郵件，那只是測試。,,,,工作與會議、情緒與溝通,
+283,cc,ˌsiˈsi,v.,寄副本給…（電子郵件）,Please cc the FOC when you email the vendor.,寄信給廠商時，請副本給 FOC。,,,,工作與會議、電腦與網路,
+284,ping,pɪŋ,v.,傳訊息通知；測試網路連線,Ping me on chat when the vendor arrives at the gate.,廠商到大門時，傳個訊息通知我。,,,,工作與會議、電腦與網路,
+285,heads-up,ˈhɛdzˌəp,n.,事先提醒；預先通知,Give the FOC a heads-up before you start the generator test.,開始發電機測試之前，先跟 FOC 說一聲。,,,,工作與會議、情緒與溝通,
+286,mic,maɪk,n.,麥克風（口語簡稱）,Your mic is picking up the chiller noise; please mute it.,你的麥克風收到了冰水主機的噪音，請先靜音。,,,,電腦與網路、工作與會議,
+287,volt,voʊlt,n.,伏特（V，電壓單位）,"The battery string reads 516 volts, within the MOP range.",這組電池串的讀值是 516 伏特，在 MOP 規定的範圍內。,,,,電力、數字與數量,
+288,temp,tɛmp,n.,溫度（口語簡稱）,The high temp alarm on AHU-5 cleared by itself.,AHU-5 的高溫告警自己解除了。,,,,冷卻與機械、數字與數量,
+289,N+1,ˌɛnˌpləsˈwən,n.,N+1 備援（比需求多一台備用）,"With one chiller under maintenance, we no longer have N+1.",有一台冰水主機在保養，我們就沒有 N+1 備援了。,,,,電力、冷卻與機械,
+290,2N,ˌtuˈɛn,n.,2N 備援（兩套完整獨立系統）,"Our UPS design is 2N, so each rack has two independent feeds.",我們的 UPS 採 2N 設計，所以每個機櫃都有兩路獨立供電。,,,,電力,
+291,thermography,θərˈmɑgrəfi,n.,紅外線熱影像檢測,Amy's thermography scan found a hot lug in the switchgear.,Amy 做紅外線熱影像檢測時，發現配電盤裡有一個過熱的電纜端子。,,,,電力、工作與會議,
+292,ESD,ˌiˌɛsˈdi,abbr.,靜電放電（Electrostatic Discharge）,Wear an ESD wrist strap before you touch the controller board.,碰觸控制板之前，先戴上防靜電手環。,,,,電力、電腦與網路,縮寫
+293,JSA,ˌʤeɪˌɛsˈeɪ,abbr.,工作安全分析（Job Safety Analysis）,Review the JSA with the whole crew before work starts.,開工前，要和全體作業人員一起檢視 JSA。,,,,安全與消防、工作與會議,縮寫
+294,transceiver,trænˈsivər,n.,收發器（如光纖模組）,The network team replaced a faulty transceiver in the BMS switch.,網路團隊更換了 BMS 交換器上故障的收發器。,,,,電腦與網路,
+295,decommission,ˌdikəˈmɪʃən,v.,除役；停用拆除,The old CRAC units will be decommissioned next month.,舊的 CRAC 機組下個月就要除役。,,,,工作與會議、冷卻與機械,
+296,punch list,ˈpənʧ ˌlɪst,n.,驗收缺失清單；待改善事項,The contractor must close every punch list item before handover.,承包商必須在移交前，完成缺失清單上的每一個項目。,,,,工作與會議,
+297,stop-work authority,ˌstɑpˌwərk əˈθɔrəti,n.,停工權（發現危險可喊停）,Everyone on site has stop-work authority when something looks unsafe.,現場每個人只要發現狀況不安全，都有權喊停作業。,,,,安全與消防,
+298,toolbox talk,ˈtulˌbɑks ˌtɔk,n.,工具箱會議（工前安全宣導）,Grace led this morning's toolbox talk on ladder safety.,Grace 主持了今天早上的工具箱會議，主題是梯子安全。,,,,安全與消防、工作與會議,
+299,fuel polishing,ˈfjuəl ˌpɑlɪʃɪŋ,n.,燃油淨化（過濾除水）,"The fuel test found water, so we scheduled fuel polishing.",燃油檢測發現含水，所以我們安排了燃油淨化。,,,,電力,
+300,amperage,ˈæmpərɪʤ,n.,電流量（安培數）,Check the amperage on each phase with a clamp meter.,用鉤表量測每一相的電流。,,,,電力、數字與數量,
+301,wattage,ˈwɑtɪʤ,n.,瓦數；耗電功率,The rack's total wattage must stay under its power budget.,機櫃的總瓦數必須控制在電力配額以內。,,,,電力、數字與數量,
+302,CO2,ˌsiˌoʊˈtu,abbr.,二氧化碳（carbon dioxide）,This CO2 extinguisher is rated for electrical fires.,這支二氧化碳滅火器適用於電氣火災。,,,,安全與消防,縮寫
+303,CPR,ˌsiˌpiˈɑr,abbr.,心肺復甦術（Cardiopulmonary Resuscitation）,Start CPR and ask someone to call 1-1-9 and bring the AED.,開始做心肺復甦術，並請旁人打 119、把 AED 拿來。,,,,安全與消防、健康與身體,縮寫
+304,SPD,ˌɛsˌpiˈdi,abbr.,突波保護裝置（Surge Protective Device）,Tell the FOC if the SPD shows a red fault light.,如果突波保護裝置亮起紅色故障燈，請通知 FOC。,,,,電力,縮寫
+305,load shedding,ˈloʊd ˌʃɛdɪŋ,n.,卸載（切除非關鍵負載）,"If a generator fails, load shedding drops the non-critical loads.",如果有一台發電機故障，卸載功能會切除非關鍵負載。,,,,電力,
+306,peak demand,ˌpik dɪˈmænd,n.,尖峰需量；最高用電需求,Our peak demand this summer reached 18 megawatts.,我們今年夏天的尖峰需量達到 18 MW。,,,,電力、數字與數量,
+307,uplink,ˈəpˌlɪŋk,n.,上行連線（接往上層網路）,The BMS controller went offline when its network uplink failed.,網路上行連線故障後，BMS 控制器就離線了。,,,,電腦與網路,
+308,cable tray,ˈkeɪbəl ˌtreɪ,n.,電纜架；線槽,The earthquake bent a cable tray support in Hall B.,地震把 B 機房的一個電纜架支架弄彎了。,,,,電力、電腦與網路,
+309,floor loading,ˈflɔr ˌloʊdɪŋ,n.,地板載重；承重,Check the floor loading limit before you move the new UPS in.,把新的 UPS 搬進來之前，先確認地板的承重上限。,,,,工作與會議、數字與數量,
+310,exhaust fan,ɪgˈzɔst ˌfæn,n.,排風扇；排氣風機,"If the battery room exhaust fan stops, report it to the FOC.",如果電池室的排風扇停了，要向 FOC 回報。,,,,冷卻與機械、安全與消防,
+311,trip hazard,ˈtrɪp ˌhæzərd,n.,絆倒危害,Loose cables on the floor are a trip hazard.,地上散亂的電纜會造成絆倒危害。,,,,安全與消防,
+312,corrective action,kəˌrɛktɪv ˈækʃən,n.,矯正措施；改善行動,The RCA report lists three corrective actions and their owners.,RCA 報告列出了三項矯正措施和各自的負責人。,,,,工作與會議,
+313,defibrillator,diˈfɪbrəˌleɪtər,n.,心臟去顫器；電擊器,The nearest defibrillator is next to the security desk.,最近的心臟去顫器在警衛櫃台旁邊。,,,,安全與消防、健康與身體,
+314,first aid,ˌfərst ˈeɪd,n.,急救,"Report every injury, even if it only needs first aid.",任何受傷都要通報，即使只需要急救處理。,,,,安全與消防、健康與身體,
+315,data hall,ˈdætə ˌhɔl,n.,機房（伺服器機房區）,Food and drinks are not allowed inside the data hall.,機房內禁止飲食。,,,,地點與方向、電腦與網路,
+316,load test,ˈloʊd ˌtɛst,n.,負載測試；帶載測試,The monthly generator load test starts at 10 a.m.,每月的發電機負載測試在早上十點開始。,,,,電力、工作與會議,
+317,assembly point,əˈsɛmbli ˌpɔɪnt,n.,（疏散）集合點,"During an evacuation, go straight to the assembly point.",疏散時，要直接前往集合點。,,,,安全與消防、地點與方向,
+318,chilled water,ˌʧɪld ˈwɔtər,n.,冰水（空調冷卻用）,A chilled water leak under the raised floor triggered the alarm.,高架地板下的冰水漏水觸發了告警。,,,,冷卻與機械,
+319,chiller plant,ˈʧɪlər ˌplænt,n.,冰水主機房,"The chiller plant is loud, so wear earplugs inside.",冰水主機房很吵，進去要戴耳塞。,,,,冷卻與機械、地點與方向,
+320,face shield,ˈfeɪs ˌʃild,n.,防護面罩,Put on a face shield before you work on the batteries.,進行電池作業前，先戴上防護面罩。,,,,安全與消防,
+321,zero energy,ˌziroʊ ˈɛnərʤi,n.,零能量狀態（LOTO 確認）,"After lockout, verify zero energy before you touch anything.",上鎖之後，碰觸任何東西前都要先確認零能量狀態。,,,,安全與消防、電力,
+322,inlet,ˈɪnˌlɛt,n.,進風口；入口（如 inlet temperature 進風溫度）,Rack inlet temperatures should stay below 27 degrees.,機櫃的進風溫度應該保持在 27 度以下。,,,,冷卻與機械,
+323,supervisory,ˌsupərˈvaɪzəri,adj.,監視的（如消防系統的監視警報）,"A supervisory alarm means a system problem, not a fire.",監視警報代表系統本身有問題，而不是發生火災。,,,,安全與消防,
+324,EHS,ˌiˌeɪʧˈɛs,abbr.,"環境安全衛生（Environment, Health, and Safety）","Report every chemical spill to EHS, even a small one.",所有化學品洩漏都要通報環安人員，即使量很少也一樣。,,,,安全與消防、工作與會議,縮寫
+325,ppm,ˌpiˌpiˈɛm,abbr.,百萬分率；百萬分之一（parts per million）,The refrigerant alarm goes off at 300 ppm.,冷媒濃度達到 300 ppm 時，警報就會響。,,,,數字與數量、安全與消防,縮寫
+326,psi,ˌpiˌɛsˈaɪ,abbr.,磅每平方英吋，壓力單位（pounds per square inch）,The sprinkler air pressure dropped from 20 to 10 psi.,灑水系統的空氣壓力從 20 psi 降到 10 psi。,,,,數字與數量、冷卻與機械、安全與消防,縮寫
+327,high-density,ˌhaɪˈdɛnsəti,adj.,高密度的（如高密度機櫃）,A high-density rack needs more power and more cooling.,高密度機櫃需要更多的電力和冷卻。,,,,電力、冷卻與機械,
+328,as-built,ˌæzˈbɪlt,adj./n.,竣工的；竣工圖（依實際施工狀況繪製）,Check the as-built drawings before you plan the work.,規劃工作之前，先查看竣工圖。,,,,工作與會議、電力,
+329,infrared,ˌɪnfrəˈrɛd,adj./n.,紅外線（的）,The vendor did an infrared scan of the main switchgear.,廠商對主配電盤做了紅外線檢測。,,,,電力、工作與會議,
+330,impair,ɪmˈpɛr,v.,使（消防系統）停用；削弱功能,"If you impair a sprinkler zone, set up a fire watch.",如果要停用某個灑水區域，就要安排監火人員。,,,,安全與消防,
+331,chemical-resistant,ˈkɛməkəlrɪˌzɪstənt,adj.,耐化學品的,Wear chemical-resistant gloves when you handle glycol.,處理乙二醇時，要戴耐化學品手套。,,,,安全與消防,
+332,absorbent,əbˈzɔrbənt,adj./n.,吸收性的；吸附材（如吸附棉）,Use absorbent pads from the spill kit to soak up the oil.,用洩漏應變包裡的吸附棉把油吸乾。,,,,安全與消防,
+333,lithium,ˈlɪθiəm,n.,鋰（如鋰電池）,A damaged lithium battery can overheat and catch fire.,破損的鋰電池可能會過熱並起火。,,,,電力、安全與消防,
+334,swelling,ˈswɛlɪŋ,n.,鼓脹；腫脹（如電池鼓脹）,"Check each battery for swelling, cracks, or leaks.",檢查每顆電池有沒有鼓脹、裂痕或漏液。,,,,電力、安全與消防,
+335,cardboard,ˈkɑrdˌbɔrd,n.,紙箱；硬紙板,Never bring cardboard boxes into the data hall.,絕對不要把紙箱帶進機房。,,,,安全與消防、工作與會議,
+336,tap-off box,ˈtæpˌɔf ˌbɑks,n.,插接箱（匯流排槽的分接出線箱）,Each tap-off box on the busway feeds one rack.,匯流排槽上的每個插接箱，各自供電給一個機櫃。,,,,電力,
+337,cleanup,ˈklinˌəp,n.,清理；收拾整理,The contractor must finish the cleanup before we close the PTW.,承包商必須先完成清理，我們才會關閉工作許可（PTW）。,,,,工作與會議、安全與消防,
+338,unpack,ənˈpæk,v.,拆箱；拆開包裝,"Unpack new equipment at the loading dock, not in the data hall.",新設備要在卸貨區拆箱，不要在機房裡拆。,,,,工作與會議、生活與購物,
+339,slippery,ˈslɪpəri,adj.,滑的；容易滑倒的,Put up a wet floor sign. The floor is slippery.,放一個小心地滑的告示牌，地板很滑。,,,,安全與消防,
+340,CE,ˌsiˈi,abbr.,關鍵環境（Critical Environment）,The CE team keeps the power and cooling running.,CE 團隊負責讓電力和冷卻系統持續運轉。,,,,工作與會議,縮寫
+341,arc-rated,ˈɑrkˌreɪtɪd,adj.,具電弧防護等級的（如電弧防護衣）,"Check the arc flash label, then put on arc-rated PPE.",先看電弧閃絡標籤，再穿上符合等級的電弧防護裝備。,,,,安全與消防、電力,
+342,post-run,ˌpoʊstˈrən,adj.,運轉後的（如發電機運轉後檢查）,Do a post-run check on each generator after the outage.,停電結束後，要對每一台發電機做運轉後檢查。,,,,電力、工作與會議,
+343,controller,kənˈtroʊlər,n.,控制器（如發電機控制器）,The generator controller shows a low battery voltage alarm.,發電機控制器顯示電池電壓過低的警報。,,,,電力、冷卻與機械,
+344,single-corded,ˌsɪŋgəlˈkɔrdɪd,adj.,單電源的（只有一條電源線）,Single-corded servers lose power if their only feed trips.,單電源的伺服器只要唯一的那路供電跳脫，就會斷電。,,,,電力、電腦與網路,
+345,dual-corded,ˌduəlˈkɔrdɪd,adj.,雙電源的（兩條電源線分接 A、B 路）,A dual-corded rack stays up if one PDU trips.,雙電源機櫃在其中一台 PDU 跳脫時，仍能維持供電。,,,,電力、電腦與網路,
+346,overcurrent,ˈoʊvərˌkərənt,n.,過電流,"The breaker tripped on overcurrent, so find the cause first.",斷路器因過電流而跳脫，所以要先找出原因。,,,,電力,
+347,waterproof,ˈwɔtərˌpruf,adj.,防水的（如防水靴）,Wear waterproof boots when you clean up a water leak.,清理漏水時，要穿防水靴。,,,,安全與消防,
+348,AC,eɪˈsi,abbr.,交流電（Alternating Current）,Most racks in the data hall run on AC power.,資料機房裡大部分的機櫃使用交流電。,,,,電力,縮寫
+349,DC,diˈsi,abbr.,直流電（Direct Current）,The UPS batteries store energy as DC power.,UPS 的電池以直流電的形式儲存電能。,,,,電力,縮寫
+350,kV,keɪˈvi,abbr.,千伏（kilovolt，電壓單位）,This cable is rated for 25 kV.,這條電纜的額定電壓是 25 千伏。,,,,電力,縮寫
+351,CT,siˈti,abbr.,比流器（Current Transformer）,Short the CT secondary before you remove the meter.,拆下電表之前，先把比流器的二次側短路。,,,,電力,縮寫
+352,RH,ɑrˈeɪʧ,abbr.,相對濕度（Relative Humidity）,The sensor shows both the temperature and the RH of the room.,感測器會同時顯示室內的溫度和相對濕度。,,,,冷卻與機械,縮寫
+353,CHW,siˌeɪʧˈdəbəlju,abbr.,冰水（Chilled Water，空調冰水系統）,Check the CHW supply and return temperatures every shift.,每一班都要檢查冰水的供水和回水溫度。,,,,冷卻與機械,縮寫
+354,SOC,ɛsˌoʊˈsi,abbr.,保全監控中心（Security Operations Center）,The SOC called to report a door alarm in Hall B.,保全監控中心打電話來通報 B 機房的門禁警報。,,,,安全與消防,縮寫

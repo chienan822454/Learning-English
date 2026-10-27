@@ -1,0 +1,159 @@
+﻿pattern_id,pattern_en,pattern_zh,tip,no,english,chinese,fill
+fr01,We have a ___ alarm on ___ in ___.,___的___有___警報。,回報警報：警報種類＋設備＋地點,1,We have a high temperature alarm on AHU-5 in Hall B.,B 機房的 AHU-5 有高溫警報。,high temperature | AHU-5 | Hall B
+fr01,We have a ___ alarm on ___ in ___.,___的___有___警報。,回報警報：警報種類＋設備＋地點,2,We have a battery alarm on UPS-2A in the UPS room.,UPS 室的 UPS-2A 有電池警報。,battery | UPS-2A | the UPS room
+fr01,We have a ___ alarm on ___ in ___.,___的___有___警報。,回報警報：警報種類＋設備＋地點,3,We have a breaker trip alarm on PDU-B3 in Hall B.,B 機房的 PDU-B3 有斷路器跳脫警報。,breaker trip | PDU-B3 | Hall B
+fr01,We have a ___ alarm on ___ in ___.,___的___有___警報。,回報警報：警報種類＋設備＋地點,4,We have a low fuel alarm on Generator 1 in the generator yard.,發電機區的 1 號發電機有低油位警報。,low fuel | Generator 1 | the generator yard
+fr01,We have a ___ alarm on ___ in ___.,___的___有___警報。,回報警報：警報種類＋設備＋地點,5,We have a high pressure alarm on Chiller 2 in the chiller plant.,冰水主機房的 2 號冰水主機有高壓警報。,high pressure | Chiller 2 | the chiller plant
+fr01,We have a ___ alarm on ___ in ___.,___的___有___警報。,回報警報：警報種類＋設備＋地點,6,We have a water leak alarm on the leak detection panel in Hall A.,A 機房的漏水偵測盤有漏水警報。,water leak | the leak detection panel | Hall A
+fr01,We have a ___ alarm on ___ in ___.,___的___有___警報。,回報警報：警報種類＋設備＋地點,7,We have a communication alarm on the EPMS in the control room.,控制室的 EPMS 有通訊警報。,communication | the EPMS | the control room
+fr01,We have a ___ alarm on ___ in ___.,___的___有___警報。,回報警報：警報種類＋設備＋地點,8,We have a smoke detector alarm on the fire alarm panel in the main lobby.,大廳的火警受信總機有煙霧偵測器警報。,smoke detector | the fire alarm panel | the main lobby
+fr02,Can you check ___ in ___?,可以幫我看一下___的___嗎？,請人幫忙查看：要看的東西＋地點,1,Can you check the temperature in Hall C?,可以幫我看一下 C 機房的溫度嗎？,the temperature | Hall C
+fr02,Can you check ___ in ___?,可以幫我看一下___的___嗎？,請人幫忙查看：要看的東西＋地點,2,Can you check the fuel tanks in the generator yard?,可以幫我看一下發電機區的油槽嗎？,the fuel tanks | the generator yard
+fr02,Can you check ___ in ___?,可以幫我看一下___的___嗎？,請人幫忙查看：要看的東西＋地點,3,Can you check the battery cabinets in the UPS room?,可以幫我看一下 UPS 室的電池櫃嗎？,the battery cabinets | the UPS room
+fr02,Can you check ___ in ___?,可以幫我看一下___的___嗎？,請人幫忙查看：要看的東西＋地點,4,Can you check the floor tiles in Hall A?,可以幫我看一下 A 機房的地板嗎？,the floor tiles | Hall A
+fr02,Can you check ___ in ___?,可以幫我看一下___的___嗎？,請人幫忙查看：要看的東西＋地點,5,Can you check the water level in the cooling tower basin?,可以幫我看一下冷卻水塔集水盤的水位嗎？,the water level | the cooling tower basin
+fr02,Can you check ___ in ___?,可以幫我看一下___的___嗎？,請人幫忙查看：要看的東西＋地點,6,Can you check the door alarm in Hall B?,可以幫我看一下 B 機房的門禁警報嗎？,the door alarm | Hall B
+fr02,Can you check ___ in ___?,可以幫我看一下___的___嗎？,請人幫忙查看：要看的東西＋地點,7,Can you check the humidity in the battery room?,可以幫我看一下電池室的濕度嗎？,the humidity | the battery room
+fr02,Can you check ___ in ___?,可以幫我看一下___的___嗎？,請人幫忙查看：要看的東西＋地點,8,Can you check the rack temperatures in Hall C?,可以幫我看一下 C 機房機櫃的溫度嗎？,the rack temperatures | Hall C
+fr03,___ is ___.,___目前___。,說明設備狀態：設備＋狀態,1,Chiller 2 is running normally.,2 號冰水主機目前運轉正常。,Chiller 2 | running normally
+fr03,___ is ___.,___目前___。,說明設備狀態：設備＋狀態,2,Generator 1 is on standby.,1 號發電機目前待機中。,Generator 1 | on standby
+fr03,___ is ___.,___目前___。,說明設備狀態：設備＋狀態,3,UPS-2A is on maintenance bypass.,UPS-2A 目前在維修旁路。,UPS-2A | on maintenance bypass
+fr03,___ is ___.,___目前___。,說明設備狀態：設備＋狀態,4,PDU-B3 is back to normal.,PDU-B3 目前已經恢復正常。,PDU-B3 | back to normal
+fr03,___ is ___.,___目前___。,說明設備狀態：設備＋狀態,5,AHU-5 is offline.,AHU-5 目前離線。,AHU-5 | offline
+fr03,___ is ___.,___目前___。,說明設備狀態：設備＋狀態,6,The fire alarm panel is in alarm.,火警受信總機目前在警報狀態。,The fire alarm panel | in alarm
+fr03,___ is ___.,___目前___。,說明設備狀態：設備＋狀態,7,MSB-1 is under maintenance.,MSB-1 目前在保養中。,MSB-1 | under maintenance
+fr03,___ is ___.,___目前___。,說明設備狀態：設備＋狀態,8,The leak detection panel is clear.,漏水偵測盤目前正常，沒有警報。,The leak detection panel | clear
+fr04,I'm going to ___.,我要去___。,說你接下來要做的事,1,I'm going to check the fuel level.,我要去檢查油位。,check the fuel level
+fr04,I'm going to ___.,我要去___。,說你接下來要做的事,2,I'm going to reset the alarm.,我要去復歸警報。,reset the alarm
+fr04,I'm going to ___.,我要去___。,說你接下來要做的事,3,I'm going to inspect the battery room.,我要去巡檢電池室。,inspect the battery room
+fr04,I'm going to ___.,我要去___。,說你接下來要做的事,4,I'm going to call the vendor.,我要去打電話給廠商。,call the vendor
+fr04,I'm going to ___.,我要去___。,說你接下來要做的事,5,I'm going to update the work order.,我要去更新工單。,update the work order
+fr04,I'm going to ___.,我要去___。,說你接下來要做的事,6,I'm going to do a walk-down of Hall C.,我要去巡檢一下 C 機房。,do a walk-down of Hall C
+fr04,I'm going to ___.,我要去___。,說你接下來要做的事,7,I'm going to replace the filter.,我要去更換濾網。,replace the filter
+fr04,I'm going to ___.,我要去___。,說你接下來要做的事,8,I'm going to take the meter readings.,我要去抄表。,take the meter readings
+fr05,I'll ___ and call you back in ___ minutes.,我去___，___ 分鐘後回你。,先去處理，約好幾分鐘後回報,1,I'll check the panel and call you back in 10 minutes.,我去看一下盤體，10 分鐘後回你。,check the panel | 10
+fr05,I'll ___ and call you back in ___ minutes.,我去___，___ 分鐘後回你。,先去處理，約好幾分鐘後回報,2,I'll talk to the vendor and call you back in 15 minutes.,我去跟廠商談一下，15 分鐘後回你。,talk to the vendor | 15
+fr05,I'll ___ and call you back in ___ minutes.,我去___，___ 分鐘後回你。,先去處理，約好幾分鐘後回報,3,I'll check the logs and call you back in 5 minutes.,我去查一下紀錄，5 分鐘後回你。,check the logs | 5
+fr05,I'll ___ and call you back in ___ minutes.,我去___，___ 分鐘後回你。,先去處理，約好幾分鐘後回報,4,I'll go to Hall B and call you back in 10 minutes.,我去 B 機房，10 分鐘後回你。,go to Hall B | 10
+fr05,I'll ___ and call you back in ___ minutes.,我去___，___ 分鐘後回你。,先去處理，約好幾分鐘後回報,5,I'll confirm the readings and call you back in 20 minutes.,我去確認讀值，20 分鐘後回你。,confirm the readings | 20
+fr05,I'll ___ and call you back in ___ minutes.,我去___，___ 分鐘後回你。,先去處理，約好幾分鐘後回報,6,I'll ask the shift lead and call you back in 5 minutes.,我去問值班組長，5 分鐘後回你。,ask the shift lead | 5
+fr06,Do you want me to ___?,要我___嗎？,主動問對方要不要你幫忙做某件事,1,Do you want me to reset the alarm?,要我去復歸警報嗎？,reset the alarm
+fr06,Do you want me to ___?,要我___嗎？,主動問對方要不要你幫忙做某件事,2,Do you want me to open a work order?,要我開一張工單嗎？,open a work order
+fr06,Do you want me to ___?,要我___嗎？,主動問對方要不要你幫忙做某件事,3,Do you want me to call the vendor?,要我打電話給廠商嗎？,call the vendor
+fr06,Do you want me to ___?,要我___嗎？,主動問對方要不要你幫忙做某件事,4,Do you want me to send you the readings?,要我把讀值傳給你嗎？,send you the readings
+fr06,Do you want me to ___?,要我___嗎？,主動問對方要不要你幫忙做某件事,5,Do you want me to stay in Hall B?,要我留在 B 機房嗎？,stay in Hall B
+fr06,Do you want me to ___?,要我___嗎？,主動問對方要不要你幫忙做某件事,6,Do you want me to check the other chiller?,要我檢查另一台冰水主機嗎？,check the other chiller
+fr06,Do you want me to ___?,要我___嗎？,主動問對方要不要你幫忙做某件事,7,Do you want me to update the shift log?,要我更新交接紀錄嗎？,update the shift log
+fr07,It looks like ___.,看起來像是___。,說出你判斷的原因,1,It looks like a sensor fault.,看起來像是感測器故障。,a sensor fault
+fr07,It looks like ___.,看起來像是___。,說出你判斷的原因,2,It looks like a loose connection.,看起來像是接點鬆脫。,a loose connection
+fr07,It looks like ___.,看起來像是___。,說出你判斷的原因,3,It looks like a blocked filter.,看起來像是濾網堵塞。,a blocked filter
+fr07,It looks like ___.,看起來像是___。,說出你判斷的原因,4,It looks like a failed fan.,看起來像是風扇故障。,a failed fan
+fr07,It looks like ___.,看起來像是___。,說出你判斷的原因,5,It looks like a false alarm.,看起來像是誤報。,a false alarm
+fr07,It looks like ___.,看起來像是___。,說出你判斷的原因,6,It looks like a small water leak under the floor.,看起來像是地板下有一點漏水。,a small water leak under the floor
+fr07,It looks like ___.,看起來像是___。,說出你判斷的原因,7,It looks like the breaker tripped.,看起來像是斷路器跳脫了。,the breaker tripped
+fr08,I'm not sure. Let me check ___.,我不確定，我確認一下___。,不確定時先別亂猜，說你會去確認什麼,1,I'm not sure. Let me check the alarm history.,我不確定，我確認一下警報歷史紀錄。,the alarm history
+fr08,I'm not sure. Let me check ___.,我不確定，我確認一下___。,不確定時先別亂猜，說你會去確認什麼,2,I'm not sure. Let me check the MOP.,我不確定，我確認一下 MOP。,the MOP
+fr08,I'm not sure. Let me check ___.,我不確定，我確認一下___。,不確定時先別亂猜，說你會去確認什麼,3,I'm not sure. Let me check with the SME.,我不確定，我跟 SME 確認一下。,with the SME
+fr08,I'm not sure. Let me check ___.,我不確定，我確認一下___。,不確定時先別亂猜，說你會去確認什麼,4,I'm not sure. Let me check the work order.,我不確定，我確認一下工單。,the work order
+fr08,I'm not sure. Let me check ___.,我不確定，我確認一下___。,不確定時先別亂猜，說你會去確認什麼,5,I'm not sure. Let me check the BAS screen.,我不確定，我確認一下 BAS 畫面。,the BAS screen
+fr08,I'm not sure. Let me check ___.,我不確定，我確認一下___。,不確定時先別亂猜，說你會去確認什麼,6,I'm not sure. Let me check the label on the panel.,我不確定，我確認一下盤體上的標示。,the label on the panel
+fr09,Should I ___ first?,我要先___嗎？,確認步驟順序,1,Should I apply LOTO first?,我要先執行上鎖掛牌嗎？,apply LOTO
+fr09,Should I ___ first?,我要先___嗎？,確認步驟順序,2,Should I call the FOC first?,我要先打給 FOC 嗎？,call the FOC
+fr09,Should I ___ first?,我要先___嗎？,確認步驟順序,3,Should I check the upstream breaker first?,我要先檢查上游的斷路器嗎？,check the upstream breaker
+fr09,Should I ___ first?,我要先___嗎？,確認步驟順序,4,Should I put on PPE first?,我要先穿戴防護具嗎？,put on PPE
+fr09,Should I ___ first?,我要先___嗎？,確認步驟順序,5,Should I notify the customer first?,我要先通知客戶嗎？,notify the customer
+fr09,Should I ___ first?,我要先___嗎？,確認步驟順序,6,Should I take a reading first?,我要先量一下讀值嗎？,take a reading
+fr10,Please send me the ___.,請把___傳給我。,請對方提供資料或文件,1,Please send me the MOP.,請把 MOP 傳給我。,MOP
+fr10,Please send me the ___.,請把___傳給我。,請對方提供資料或文件,2,Please send me the test report.,請把測試報告傳給我。,test report
+fr10,Please send me the ___.,請把___傳給我。,請對方提供資料或文件,3,Please send me the alarm log.,請把警報紀錄傳給我。,alarm log
+fr10,Please send me the ___.,請把___傳給我。,請對方提供資料或文件,4,Please send me the work order number.,請把工單號碼傳給我。,work order number
+fr10,Please send me the ___.,請把___傳給我。,請對方提供資料或文件,5,Please send me the maintenance schedule.,請把保養排程傳給我。,maintenance schedule
+fr10,Please send me the ___.,請把___傳給我。,請對方提供資料或文件,6,Please send me the vendor's ETA.,請把廠商預計抵達的時間傳給我。,vendor's ETA
+fr11,___ will arrive in ___.,___會在___後到。,說明誰多久之後會到,1,The vendor will arrive in 30 minutes.,廠商會在 30 分鐘後到。,The vendor | 30 minutes
+fr11,___ will arrive in ___.,___會在___後到。,說明誰多久之後會到,2,The field engineer will arrive in an hour.,現場工程師會在一個小時後到。,The field engineer | an hour
+fr11,___ will arrive in ___.,___會在___後到。,說明誰多久之後會到,3,The fuel truck will arrive in two hours.,油罐車會在兩個小時後到。,The fuel truck | two hours
+fr11,___ will arrive in ___.,___會在___後到。,說明誰多久之後會到,4,The security guard will arrive in 5 minutes.,保全會在 5 分鐘後到。,The security guard | 5 minutes
+fr11,___ will arrive in ___.,___會在___後到。,說明誰多久之後會到,5,The fire department will arrive in 10 minutes.,消防隊會在 10 分鐘後到。,The fire department | 10 minutes
+fr11,___ will arrive in ___.,___會在___後到。,說明誰多久之後會到,6,The new filters will arrive in three days.,新的濾網會在三天後到。,The new filters | three days
+fr12,We need to ___ before we ___.,___之前，我們要先___。,說明安全或作業的先後順序,1,We need to apply LOTO before we open the panel.,打開盤體之前，我們要先執行上鎖掛牌。,apply LOTO | open the panel
+fr12,We need to ___ before we ___.,___之前，我們要先___。,說明安全或作業的先後順序,2,We need to verify zero voltage before we start work.,開始工作之前，我們要先驗電，確認沒有電壓。,verify zero voltage | start work
+fr12,We need to ___ before we ___.,___之前，我們要先___。,說明安全或作業的先後順序,3,We need to call the FOC before we reset the alarm.,復歸警報之前，我們要先打給 FOC。,call the FOC | reset the alarm
+fr12,We need to ___ before we ___.,___之前，我們要先___。,說明安全或作業的先後順序,4,We need to check the load before we transfer it.,轉移負載之前，我們要先確認負載。,check the load | transfer it
+fr12,We need to ___ before we ___.,___之前，我們要先___。,說明安全或作業的先後順序,5,We need to put on PPE before we enter the battery room.,進電池室之前，我們要先穿戴防護具。,put on PPE | enter the battery room
+fr12,We need to ___ before we ___.,___之前，我們要先___。,說明安全或作業的先後順序,6,We need to get approval before we start the test.,開始測試之前，我們要先取得核准。,get approval | start the test
+fr13,"Sorry, could you repeat the ___?",不好意思，可以再說一次___嗎？,沒聽清楚時，請對方再說一次重點,1,"Sorry, could you repeat the rack number?",不好意思，可以再說一次機櫃編號嗎？,rack number
+fr13,"Sorry, could you repeat the ___?",不好意思，可以再說一次___嗎？,沒聽清楚時，請對方再說一次重點,2,"Sorry, could you repeat the work order number?",不好意思，可以再說一次工單號碼嗎？,work order number
+fr13,"Sorry, could you repeat the ___?",不好意思，可以再說一次___嗎？,沒聽清楚時，請對方再說一次重點,3,"Sorry, could you repeat the last step?",不好意思，可以再說一次最後一個步驟嗎？,last step
+fr13,"Sorry, could you repeat the ___?",不好意思，可以再說一次___嗎？,沒聽清楚時，請對方再說一次重點,4,"Sorry, could you repeat the part number?",不好意思，可以再說一次零件編號嗎？,part number
+fr13,"Sorry, could you repeat the ___?",不好意思，可以再說一次___嗎？,沒聽清楚時，請對方再說一次重點,5,"Sorry, could you repeat the breaker name?",不好意思，可以再說一次斷路器的名稱嗎？,breaker name
+fr13,"Sorry, could you repeat the ___?",不好意思，可以再說一次___嗎？,沒聽清楚時，請對方再說一次重點,6,"Sorry, could you repeat the meeting time?",不好意思，可以再說一次開會時間嗎？,meeting time
+fr13,"Sorry, could you repeat the ___?",不好意思，可以再說一次___嗎？,沒聽清楚時，請對方再說一次重點,7,"Sorry, could you repeat the vendor's name?",不好意思，可以再說一次廠商的名字嗎？,vendor's name
+fr14,"Just to confirm, you want me to ___?",跟你確認一下，你是要我___嗎？,做事之前，先確認自己聽懂對方的要求,1,"Just to confirm, you want me to reset the alarm?",跟你確認一下，你是要我復歸警報嗎？,reset the alarm
+fr14,"Just to confirm, you want me to ___?",跟你確認一下，你是要我___嗎？,做事之前，先確認自己聽懂對方的要求,2,"Just to confirm, you want me to check Chiller 2 first?",跟你確認一下，你是要我先檢查 2 號冰水主機嗎？,check Chiller 2 first
+fr14,"Just to confirm, you want me to ___?",跟你確認一下，你是要我___嗎？,做事之前，先確認自己聽懂對方的要求,3,"Just to confirm, you want me to open a work order?",跟你確認一下，你是要我開一張工單嗎？,open a work order
+fr14,"Just to confirm, you want me to ___?",跟你確認一下，你是要我___嗎？,做事之前，先確認自己聽懂對方的要求,4,"Just to confirm, you want me to call the vendor now?",跟你確認一下，你是要我現在打給廠商嗎？,call the vendor now
+fr14,"Just to confirm, you want me to ___?",跟你確認一下，你是要我___嗎？,做事之前，先確認自己聽懂對方的要求,5,"Just to confirm, you want me to wait in the control room?",跟你確認一下，你是要我在控制室等嗎？,wait in the control room
+fr14,"Just to confirm, you want me to ___?",跟你確認一下，你是要我___嗎？,做事之前，先確認自己聽懂對方的要求,6,"Just to confirm, you want me to send the report by noon?",跟你確認一下，你是要我中午前把報告寄出嗎？,send the report by noon
+fr14,"Just to confirm, you want me to ___?",跟你確認一下，你是要我___嗎？,做事之前，先確認自己聽懂對方的要求,7,"Just to confirm, you want me to check all three units?",跟你確認一下，你是要我三台都檢查嗎？,check all three units
+fr15,"I've finished ___, and everything looks normal.",我已經完成___，一切看起來都正常。,工作做完時，回報完成和結果,1,"I've finished the battery inspection, and everything looks normal.",我已經完成電池巡檢，一切看起來都正常。,the battery inspection
+fr15,"I've finished ___, and everything looks normal.",我已經完成___，一切看起來都正常。,工作做完時，回報完成和結果,2,"I've finished the filter replacement, and everything looks normal.",我已經完成濾網更換，一切看起來都正常。,the filter replacement
+fr15,"I've finished ___, and everything looks normal.",我已經完成___，一切看起來都正常。,工作做完時，回報完成和結果,3,"I've finished the generator test, and everything looks normal.",我已經完成發電機測試，一切看起來都正常。,the generator test
+fr15,"I've finished ___, and everything looks normal.",我已經完成___，一切看起來都正常。,工作做完時，回報完成和結果,4,"I've finished the walk-down of Hall C, and everything looks normal.",我已經完成 C 機房的巡檢，一切看起來都正常。,the walk-down of Hall C
+fr15,"I've finished ___, and everything looks normal.",我已經完成___，一切看起來都正常。,工作做完時，回報完成和結果,5,"I've finished the meter readings, and everything looks normal.",我已經完成抄表，一切看起來都正常。,the meter readings
+fr15,"I've finished ___, and everything looks normal.",我已經完成___，一切看起來都正常。,工作做完時，回報完成和結果,6,"I've finished the leak check under the floor, and everything looks normal.",我已經完成地板下的漏水檢查，一切看起來都正常。,the leak check under the floor
+fr16,I need to escalate this to ___.,這件事我需要往上通報給___。,自己處理不了或超出權限時，往上通報,1,I need to escalate this to the shift lead.,這件事我需要往上通報給值班組長。,the shift lead
+fr16,I need to escalate this to ___.,這件事我需要往上通報給___。,自己處理不了或超出權限時，往上通報,2,I need to escalate this to the electrical SME.,這件事我需要往上通報給電力 SME。,the electrical SME
+fr16,I need to escalate this to ___.,這件事我需要往上通報給___。,自己處理不了或超出權限時，往上通報,3,I need to escalate this to the FOC.,這件事我需要往上通報給 FOC。,the FOC
+fr16,I need to escalate this to ___.,這件事我需要往上通報給___。,自己處理不了或超出權限時，往上通報,4,I need to escalate this to the vendor's support team.,這件事我需要往上通報給廠商的支援團隊。,the vendor's support team
+fr16,I need to escalate this to ___.,這件事我需要往上通報給___。,自己處理不了或超出權限時，往上通報,5,I need to escalate this to the facility manager.,這件事我需要往上通報給設施經理。,the facility manager
+fr16,I need to escalate this to ___.,這件事我需要往上通報給___。,自己處理不了或超出權限時，往上通報,6,I need to escalate this to the security team.,這件事我需要往上通報給保全團隊。,the security team
+fr17,Please stop work until ___.,在___之前，請先停止作業。,發現不安全的狀況時，先停工，等問題排除再繼續,1,Please stop work until the area is clear.,在現場淨空之前，請先停止作業。,the area is clear
+fr17,Please stop work until ___.,在___之前，請先停止作業。,發現不安全的狀況時，先停工，等問題排除再繼續,2,Please stop work until LOTO is applied.,在完成上鎖掛牌之前，請先停止作業。,LOTO is applied
+fr17,Please stop work until ___.,在___之前，請先停止作業。,發現不安全的狀況時，先停工，等問題排除再繼續,3,Please stop work until we verify zero voltage.,在我們驗電確認沒有電壓之前，請先停止作業。,we verify zero voltage
+fr17,Please stop work until ___.,在___之前，請先停止作業。,發現不安全的狀況時，先停工，等問題排除再繼續,4,Please stop work until the spill is cleaned up.,在溢漏清理乾淨之前，請先停止作業。,the spill is cleaned up
+fr17,Please stop work until ___.,在___之前，請先停止作業。,發現不安全的狀況時，先停工，等問題排除再繼續,5,Please stop work until everyone has the right PPE.,在每個人都穿戴合適的防護具之前，請先停止作業。,everyone has the right PPE
+fr17,Please stop work until ___.,在___之前，請先停止作業。,發現不安全的狀況時，先停工，等問題排除再繼續,6,Please stop work until the permit is approved.,在工作許可核准之前，請先停止作業。,the permit is approved
+fr17,Please stop work until ___.,在___之前，請先停止作業。,發現不安全的狀況時，先停工，等問題排除再繼續,7,Please stop work until the SME arrives.,在 SME 到場之前，請先停止作業。,the SME arrives
+fr18,"During my shift, ___.",我值班的時候，___。,交接班時，說明這一班發生的事,1,"During my shift, Chiller 2 tripped twice.",我值班的時候，2 號冰水主機跳機兩次。,Chiller 2 tripped twice
+fr18,"During my shift, ___.",我值班的時候，___。,交接班時，說明這一班發生的事,2,"During my shift, we replaced two filters on AHU-5.",我值班的時候，我們更換了 AHU-5 的兩片濾網。,we replaced two filters on AHU-5
+fr18,"During my shift, ___.",我值班的時候，___。,交接班時，說明這一班發生的事,3,"During my shift, there were no alarms.",我值班的時候，沒有任何警報。,there were no alarms
+fr18,"During my shift, ___.",我值班的時候，___。,交接班時，說明這一班發生的事,4,"During my shift, the vendor finished the UPS maintenance.",我值班的時候，廠商完成了 UPS 保養。,the vendor finished the UPS maintenance
+fr18,"During my shift, ___.",我值班的時候，___。,交接班時，說明這一班發生的事,5,"During my shift, the BAS lost communication for ten minutes.",我值班的時候，BAS 斷線了十分鐘。,the BAS lost communication for ten minutes
+fr18,"During my shift, ___.",我值班的時候，___。,交接班時，說明這一班發生的事,6,"During my shift, we had a short power dip at 3 a.m.",我值班的時候，凌晨 3 點有一次短暫的電壓驟降。,we had a short power dip at 3 a.m
+fr19,The ___ is scheduled for ___.,___排在___。,說明工作排定的時間,1,The generator test is scheduled for Friday morning.,發電機測試排在星期五早上。,generator test | Friday morning
+fr19,The ___ is scheduled for ___.,___排在___。,說明工作排定的時間,2,The UPS maintenance is scheduled for next Tuesday.,UPS 保養排在下星期二。,UPS maintenance | next Tuesday
+fr19,The ___ is scheduled for ___.,___排在___。,說明工作排定的時間,3,The fire alarm test is scheduled for 2 p.m. today.,火警系統測試排在今天下午 2 點。,fire alarm test | 2 p.m. today
+fr19,The ___ is scheduled for ___.,___排在___。,說明工作排定的時間,4,The chiller repair is scheduled for tomorrow afternoon.,冰水主機維修排在明天下午。,chiller repair | tomorrow afternoon
+fr19,The ___ is scheduled for ___.,___排在___。,說明工作排定的時間,5,The shift meeting is scheduled for 7:30.,交接班會議排在 7 點 30 分。,shift meeting | 7:30
+fr19,The ___ is scheduled for ___.,___排在___。,說明工作排定的時間,6,The rack installation is scheduled for next week.,機櫃安裝排在下星期。,rack installation | next week
+fr20,I noticed ___ near ___.,我發現___附近有___。,巡檢時發現異常，說明看到什麼、在哪裡,1,I noticed a burning smell near PDU-B3.,我發現 PDU-B3 附近有燒焦味。,a burning smell | PDU-B3
+fr20,I noticed ___ near ___.,我發現___附近有___。,巡檢時發現異常，說明看到什麼、在哪裡,2,I noticed water on the floor near AHU-5.,我發現 AHU-5 附近的地板上有水。,water on the floor | AHU-5
+fr20,I noticed ___ near ___.,我發現___附近有___。,巡檢時發現異常，說明看到什麼、在哪裡,3,I noticed a loud noise near Chiller 2.,我發現 2 號冰水主機附近有很大的噪音。,a loud noise | Chiller 2
+fr20,I noticed ___ near ___.,我發現___附近有___。,巡檢時發現異常，說明看到什麼、在哪裡,4,I noticed a strong vibration near the pump.,我發現泵浦附近有很強的振動。,a strong vibration | the pump
+fr20,I noticed ___ near ___.,我發現___附近有___。,巡檢時發現異常，說明看到什麼、在哪裡,5,I noticed a blocked exit near the loading dock.,我發現卸貨區附近有一個逃生出口被擋住了。,a blocked exit | the loading dock
+fr20,I noticed ___ near ___.,我發現___附近有___。,巡檢時發現異常，說明看到什麼、在哪裡,6,I noticed a loose cable near rack B12.,我發現 B12 機櫃附近有一條鬆脫的電纜。,a loose cable | rack B12
+fr20,I noticed ___ near ___.,我發現___附近有___。,巡檢時發現異常，說明看到什麼、在哪裡,7,I noticed oil on the floor near Generator 1.,我發現 1 號發電機附近的地上有油。,oil on the floor | Generator 1
+fr21,Can I get permission to ___?,可以准許我___嗎？,做有風險的動作之前，先取得許可,1,Can I get permission to open the panel?,可以准許我打開盤體嗎？,open the panel
+fr21,Can I get permission to ___?,可以准許我___嗎？,做有風險的動作之前，先取得許可,2,Can I get permission to enter the battery room?,可以准許我進電池室嗎？,enter the battery room
+fr21,Can I get permission to ___?,可以准許我___嗎？,做有風險的動作之前，先取得許可,3,Can I get permission to start the generator test?,可以准許我開始發電機測試嗎？,start the generator test
+fr21,Can I get permission to ___?,可以准許我___嗎？,做有風險的動作之前，先取得許可,4,Can I get permission to shut down AHU-5?,可以准許我關掉 AHU-5 嗎？,shut down AHU-5
+fr21,Can I get permission to ___?,可以准許我___嗎？,做有風險的動作之前，先取得許可,5,Can I get permission to bring the vendor into Hall B?,可以准許我帶廠商進 B 機房嗎？,bring the vendor into Hall B
+fr21,Can I get permission to ___?,可以准許我___嗎？,做有風險的動作之前，先取得許可,6,Can I get permission to work on the roof?,可以准許我上屋頂作業嗎？,work on the roof
+fr22,The ___ reads ___.,___的讀值是___。,回報儀表或系統上的讀值,1,The supply air temperature reads 24 degrees.,送風溫度的讀值是 24 度。,supply air temperature | 24 degrees
+fr22,The ___ reads ___.,___的讀值是___。,回報儀表或系統上的讀值,2,The humidity reads 45 percent.,濕度的讀值是 45%。,humidity | 45 percent
+fr22,The ___ reads ___.,___的讀值是___。,回報儀表或系統上的讀值,3,The voltage reads 480 volts.,電壓的讀值是 480 伏特。,voltage | 480 volts
+fr22,The ___ reads ___.,___的讀值是___。,回報儀表或系統上的讀值,4,The fuel level reads 75 percent.,油位的讀值是 75%。,fuel level | 75 percent
+fr22,The ___ reads ___.,___的讀值是___。,回報儀表或系統上的讀值,5,The UPS load reads 60 percent.,UPS 負載的讀值是 60%。,UPS load | 60 percent
+fr22,The ___ reads ___.,___的讀值是___。,回報儀表或系統上的讀值,6,The chilled water temperature reads 12 degrees.,冰水溫度的讀值是 12 度。,chilled water temperature | 12 degrees
+fr23,I suggest we ___.,我建議我們___。,提出你的建議做法,1,I suggest we replace the filter today.,我建議我們今天就更換濾網。,replace the filter today
+fr23,I suggest we ___.,我建議我們___。,提出你的建議做法,2,I suggest we check the other unit first.,我建議我們先檢查另一台。,check the other unit first
+fr23,I suggest we ___.,我建議我們___。,提出你的建議做法,3,I suggest we call the vendor now.,我建議我們現在就打給廠商。,call the vendor now
+fr23,I suggest we ___.,我建議我們___。,提出你的建議做法,4,I suggest we wait for the SME.,我建議我們等 SME 來。,wait for the SME
+fr23,I suggest we ___.,我建議我們___。,提出你的建議做法,5,I suggest we move the work to the weekend.,我建議我們把工作改到週末。,move the work to the weekend
+fr23,I suggest we ___.,我建議我們___。,提出你的建議做法,6,I suggest we add this to the shift log.,我建議我們把這件事記在交接紀錄裡。,add this to the shift log
+fr24,The ___ is next to the ___.,___在___旁邊。,告訴對方東西或設備在哪裡,1,The spill kit is next to the battery room door.,溢漏處理箱在電池室門旁邊。,spill kit | battery room door
+fr24,The ___ is next to the ___.,___在___旁邊。,告訴對方東西或設備在哪裡,2,The fire extinguisher is next to the elevator.,滅火器在電梯旁邊。,fire extinguisher | elevator
+fr24,The ___ is next to the ___.,___在___旁邊。,告訴對方東西或設備在哪裡,3,The eyewash station is next to the chemical storage room.,洗眼器在化學品儲藏室旁邊。,eyewash station | chemical storage room
+fr24,The ___ is next to the ___.,___在___旁邊。,告訴對方東西或設備在哪裡,4,The first aid kit is next to the security desk.,急救箱在保全櫃檯旁邊。,first aid kit | security desk
+fr24,The ___ is next to the ___.,___在___旁邊。,告訴對方東西或設備在哪裡,5,The ladder is next to the loading dock.,梯子在卸貨區旁邊。,ladder | loading dock
+fr24,The ___ is next to the ___.,___在___旁邊。,告訴對方東西或設備在哪裡,6,The main breaker panel is next to the generator room.,主斷路器盤在發電機房旁邊。,main breaker panel | generator room

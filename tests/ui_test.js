@@ -1,0 +1,22 @@
+const {serve,launch,sleep,R,ok,fs}=require('./common');const st={online:true};const srv=serve(()=>'site',8766,st);
+(async()=>{const b=await launch();const ctx=await b.newContext({permissions:['microphone'],viewport:{width:390,height:844}});const pg=await ctx.newPage();const errs=[];pg.on('pageerror',e=>errs.push(e.message));pg.on('dialog',d=>d.accept());
+await pg.addInitScript(()=>{window.__said=[];const o=speechSynthesis.speak.bind(speechSynthesis);speechSynthesis.speak=u=>{window.__said.push({t:u.text,r:u.rate});setTimeout(()=>u.onend&&u.onend(),50)}});
+await pg.goto('http://localhost:8766/');await sleep(1000);
+for(const [nav,sel,name] of [['#navToday','#todayPage','今日'],['#navPractice','.panel','句子'],['#navWords','#wordPage','單字'],['#navPhrases','#phrasePage','片語'],['#navQuiz','#quiz','測驗'],['#navStats','#statsPage','統計']]){await pg.click(nav);await sleep(400);ok(`${name}頁可開啟`,await pg.evaluate(s=>!document.querySelector(s).hidden,sel))}
+await pg.click('#navPractice');await pg.click('#openList');await sleep(400);ok('句子表可開啟',await pg.evaluate(()=>!document.querySelector('#sentenceList').hidden));await pg.click('#back1');
+await pg.click('#play');await pg.click('#slow');await pg.click('#repeat');await sleep(600);await pg.click('#keywords button');await sleep(200);
+const said=await pg.evaluate(()=>window.__said);ok('發音：正常／慢速／連播 3 次／關鍵字',said.some(x=>x.r===1)&&said.some(x=>x.r<1&&x.r>0.6)&&said.length>=5,said.map(x=>x.r).join(','));
+await pg.click('#navWords');await pg.fill('#wordSearch','可用');await pg.dispatchEvent('#wordSearch','input');await sleep(400);ok('單字中文搜尋「可用」找到 available',(await pg.textContent('#wordRows')).includes('available'));
+await pg.click('#navQuiz');await sleep(300);await pg.selectOption('#quizMode','en');await pg.click('#newQuiz');await sleep(300);const btn=await pg.$('#quizOpts button');if(btn){await btn.click();await sleep(300)}ok('測驗可作答',!!(await pg.textContent('#quizMsg')).trim());
+await pg.click('#navPractice');await pg.click('#check');await sleep(300);await pg.click('#check');await sleep(2500);ok('🎤 辨識：停止或失敗後按鈕恢復',/開始念/.test(await pg.textContent('#check')),(await pg.textContent('#result')).slice(0,30));
+await pg.evaluate(()=>{if(VOICE.srBusy)srAbort()});
+await pg.click('#record');await pg.waitForFunction(()=>REC.state==='recording');await sleep(500);await pg.click('#check');await sleep(1500);ok('錄音中按辨識：先停錄音、不卡住',await pg.evaluate(()=>REC.state==='idle'&&!!REC.url));await pg.evaluate(()=>{if(VOICE.srBusy)srAbort()});
+await pg.click('#fav');ok('收藏可切換',(await pg.textContent('#fav')).includes('★'));await pg.click('#fav');
+await pg.click('#known');ok('標記已會說',(await pg.textContent('#known')).includes('已會說'));await pg.click('#known');
+const [dl]=await Promise.all([pg.waitForEvent('download'),pg.evaluate(()=>{page('stats');renderBackup();document.querySelector('#bkExport').click()})]);const j=JSON.parse(fs.readFileSync(await dl.path(),'utf8'));ok('匯出進度',j.app==='english-5000'&&!!j.progress,'version '+j.version);
+await pg.goto('http://localhost:8766/');await sleep(800);
+const sw=await pg.evaluate(async()=>{const r=await navigator.serviceWorker.ready;return {state:r.active&&r.active.state,keys:await caches.keys()}});ok('Service Worker 安裝完成',sw.state==='activated',JSON.stringify(sw));
+await pg.reload();await sleep(800);st.online=false;await ctx.setOffline(true);await pg.reload();await sleep(1500);
+const off=await pg.evaluate(()=>({words:window.WORDS&&WORDS.length,badge:document.querySelector('.vbadge').textContent}));ok('離線重新開啟可用',off.words>0,JSON.stringify(off));
+await ctx.setOffline(false);st.online=true;ok('全部測試沒有 JavaScript 錯誤',errs.length===0,errs.join(' ; '));
+fs.writeFileSync('results_ui.json',JSON.stringify(R,null,1));await b.close();srv.close()})().catch(e=>{console.error(e);process.exit(1)});

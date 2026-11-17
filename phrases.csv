@@ -1,0 +1,311 @@
+﻿id,category,phrase,chinese,example_en,example_zh
+1,日常,figure out,想出；弄清楚,I can't figure out why it stopped.,我想不出它為什麼停了。
+2,日常,find out,查出；得知,Let me find out who is on duty.,我查一下誰在值班。
+3,日常,look for,尋找,I'm looking for my badge.,我在找我的識別證。
+4,日常,look after,照顧,Can you look after my bag?,你可以幫我顧一下包包嗎？
+5,日常,look forward to,期待,I look forward to seeing you.,我期待見到你。
+6,日常,look up,查詢（資料）,Look up the word in the app.,在 App 裡查這個字。
+7,日常,pick up,接人；拿起,I'll pick you up at seven.,我七點去接你。
+8,日常,drop off,送（人或物）到某處,I can drop you off at the station.,我可以送你到車站。
+9,日常,get up,起床,I get up at six every day.,我每天六點起床。
+10,日常,wake up,醒來,I usually wake up at five for the early shift.,我通常五點就醒來，準備上早班。
+11,日常,get back,回來；回覆,I'll get back to you tomorrow.,我明天再回覆你。
+12,日常,come back,回來,When will you come back?,你什麼時候回來？
+13,日常,go out,出去,Let's go out for dinner.,我們出去吃晚餐吧。
+14,日常,eat out,外食,We eat out on Fridays.,我們星期五在外面吃飯。
+15,日常,hang out,一起玩；閒晃,Do you want to hang out this weekend?,你這週末想一起出去嗎？
+16,日常,show up,出現；到場,He didn't show up for lunch.,他午餐沒有出現。
+17,日常,turn on,打開（電器）,"Turn on the light, please.",請把燈打開。
+18,日常,turn off,關掉（電器）,Turn off your phone in the meeting.,開會時請關掉手機。
+19,日常,turn up,調大聲；出現,Can you turn up the volume?,你可以把音量調大嗎？
+20,日常,turn down,調小聲；拒絕,Please turn down the music.,請把音樂關小聲一點。
+21,日常,put on,穿上；戴上,Put on your jacket. It's cold.,穿上外套，天氣很冷。
+22,日常,take off,脫下；起飛,Take off your shoes here.,請在這裡脫鞋。
+23,日常,try on,試穿,Can I try on this shirt?,我可以試穿這件襯衫嗎？
+24,日常,calm down,冷靜下來,Calm down and tell me what happened.,冷靜下來，告訴我發生什麼事。
+25,日常,cheer up,振作起來,Cheer up! It will be fine.,振作點！會沒事的。
+26,日常,hold on,等一下；抓緊,"Hold on, I'll check.",等一下，我查一下。
+27,日常,hurry up,快一點,"Hurry up, the bus is coming.",快一點，公車來了。
+28,日常,slow down,放慢,Please slow down. I can't follow you.,請說慢一點，我跟不上。
+29,日常,sit down,坐下,Please sit down.,請坐。
+30,日常,stand up,站起來,Stand up and stretch.,站起來伸展一下。
+31,日常,come in,進來,"Come in, please.",請進。
+32,日常,get in,進入（車子）,Get in the car.,上車吧。
+33,日常,get on,上（公車、火車）,Get on the train at platform two.,在第二月台上車。
+34,日常,get off,下（公車、火車）,Get off at the next stop.,在下一站下車。
+35,日常,get along with,和…相處融洽,I get along with my coworkers.,我和同事相處得很好。
+36,日常,get used to,習慣於,I'm getting used to the night shift.,我漸漸習慣上夜班了。
+37,日常,get better,好轉,I hope you get better soon.,希望你早日康復。
+38,日常,get ready,準備好,Get ready. We leave in five minutes.,準備好，我們五分鐘後出發。
+39,日常,get lost,迷路,New visitors often get lost in this big building.,新訪客常常在這棟大樓裡迷路。
+40,日常,give up,放棄,Don't give up.,不要放棄。
+41,日常,give back,歸還,I'll give back your charger later.,我晚點把充電器還你。
+42,日常,go on,繼續；發生,What's going on?,發生什麼事了？
+43,日常,keep going,繼續做下去,You're doing great. Keep going.,你做得很好，繼續加油。
+44,日常,take care of,照顧；處理,I'll take care of it.,我來處理。
+45,日常,take a break,休息一下,Let's take a break.,我們休息一下吧。
+46,日常,take your time,慢慢來,Take your time. There's no rush.,慢慢來，不急。
+47,日常,make sure,確認；確保,Make sure the door is locked.,確認門已上鎖。
+48,日常,make sense,合理；說得通,That makes sense.,這樣說得通。
+49,日常,make a mistake,犯錯,Everyone makes mistakes.,每個人都會犯錯。
+50,日常,make up your mind,下定決心,Did you make up your mind about the night shift?,你決定好要不要上夜班了嗎？
+51,日常,run out of,用完,We may run out of spare cables this week.,我們這週備用線材可能會用完。
+52,日常,run into,偶然遇到,I sometimes run into my manager at the gym.,我有時會在健身房碰到我的主管。
+53,日常,check in,報到；登記入住,I need to check in at the hotel.,我需要去飯店辦理入住。
+54,日常,check out,退房；看看,Check out this video.,看看這部影片。
+55,日常,fill in,填寫,Fill in your name here.,在這裡填上你的名字。
+56,日常,fill up,加滿,I need to fill up the car.,我需要幫車子加滿油。
+57,日常,throw away,丟掉,Don't throw away the receipt.,不要把收據丟掉。
+58,日常,clean up,清理乾淨,Let's clean up the room.,我們把房間清理乾淨吧。
+59,日常,pay for,付錢買,I'll pay for lunch.,午餐我請。
+60,日常,pay back,還錢,I'll pay you back tomorrow.,我明天還你錢。
+61,日常,worry about,擔心,Don't worry about it.,別擔心。
+62,日常,think about,考慮,I'll think about it.,我會考慮看看。
+63,日常,talk about,談論,What are you talking about?,你在說什麼？
+64,日常,listen to,聽,I listen to podcasts on the train.,我在火車上聽 Podcast。
+65,日常,wait for,等待,I'm waiting for the bus.,我在等公車。
+66,日常,ask for,要求；請求,Don't be afraid to ask for help.,不要害怕尋求幫助。
+67,日常,belong to,屬於,Who does this belong to?,這是誰的？
+68,日常,depend on,取決於；依靠,It depends on the weather.,這要看天氣而定。
+69,日常,agree with,同意（某人）,I agree with you.,我同意你。
+70,日常,care about,在乎,I care about your safety.,我在乎你的安全。
+71,日常,be good at,擅長,You have to be good at solving problems in this job.,做這份工作必須擅長解決問題。
+72,日常,be afraid of,害怕,Don't be afraid of making mistakes while you learn.,學習的時候不要害怕犯錯。
+73,日常,be interested in,對…有興趣,Would you be interested in a free safety course?,你會對免費的安全課程有興趣嗎？
+74,日常,be proud of,以…為傲,You should be proud of your hard work.,你應該為自己的努力感到驕傲。
+75,日常,be tired of,厭倦,You must be tired of working night shifts.,你一定已經厭倦上夜班了吧。
+76,日常,be late for,遲到,Don't be late for work.,上班不要遲到。
+77,日常,on time,準時,The train arrived on time.,火車準時抵達。
+78,日常,in time,及時,We finished just in time.,我們剛好及時完成。
+79,日常,by the way,順便一提,"By the way, did you eat?",順便問一下，你吃飯了嗎？
+80,日常,of course,當然,Of course I can help.,我當然可以幫忙。
+81,日常,no problem,沒問題,"No problem, I'll do it.",沒問題，我來做。
+82,日常,never mind,沒關係；算了,"Never mind, I found it.",沒關係，我找到了。
+83,日常,it's up to you,由你決定,It's up to you.,由你決定。
+84,日常,how about,…怎麼樣？,How about Friday?,星期五怎麼樣？
+85,日常,what about,那…呢？,What about you?,那你呢？
+86,日常,as soon as possible,盡快,Please reply as soon as possible.,請盡快回覆。
+87,日常,at least,至少,It takes at least an hour.,至少要一小時。
+88,日常,at first,起初,"At first, I didn't understand.",起初我不懂。
+89,日常,in fact,事實上,"In fact, it was easy.",事實上，那很簡單。
+90,日常,for example,例如,"For example, you can use the app.",例如，你可以用這個 App。
+91,日常,a little bit,一點點,I speak a little bit of English.,我會說一點點英文。
+92,日常,a lot of,很多,We have a lot of work today.,我們今天有很多工作。
+93,日常,right now,現在；馬上,I'm busy right now.,我現在正忙。
+94,日常,for now,暫時,That's all for now.,暫時就這樣。
+95,日常,from now on,從現在開始,"From now on, I'll walk to work.",從現在開始，我要走路上班。
+96,日常,all the time,一直；總是,It happens all the time.,這種事常常發生。
+97,日常,once in a while,偶爾,I eat out once in a while.,我偶爾外食。
+98,日常,sooner or later,遲早,"Sooner or later, it will break.",它遲早會壞。
+99,工作,take part in,參加,Everyone must take part in the fire drill.,每個人都必須參加消防演習。
+100,工作,follow up,追蹤；後續跟進,I'll follow up with the vendor.,我會跟廠商後續追蹤。
+101,工作,follow up on,追蹤（某事）,Can you follow up on this issue?,你可以追蹤這個問題嗎？
+102,工作,set up,設定；安排,Can you set up a meeting?,你可以安排一場會議嗎？
+103,工作,call off,取消,They called off the meeting.,他們取消了會議。
+104,工作,put off,延後,Let's put off the test until Monday.,我們把測試延到星期一。
+105,工作,move up,提前,Can we move up the meeting to nine?,會議可以提前到九點嗎？
+106,工作,carry out,執行,We will carry out the test today.,我們今天會執行測試。
+107,工作,work on,處理；著手進行,I'm working on the report.,我正在寫報告。
+108,工作,work out,解決；成功；運動健身,Everything worked out fine.,一切都順利解決了。
+109,工作,deal with,處理,I'll deal with it.,我來處理。
+110,工作,sort out,解決；整理,We need to sort out this problem.,我們需要解決這個問題。
+111,工作,point out,指出,He pointed out a mistake.,他指出了一個錯誤。
+112,工作,bring up,提出（話題）,I'll bring it up at the meeting.,我會在會議上提出來。
+113,工作,come up with,想出（點子）,Can you come up with a better plan?,你可以想出更好的計畫嗎？
+114,工作,go over,檢查；仔細看過,Let's go over the steps again.,我們再把步驟看一遍。
+115,工作,go through,仔細看過；經歷,Please go through the checklist.,請把檢查表逐項看過。
+116,工作,look into,調查,We will look into the cause.,我們會調查原因。
+117,工作,hand in,繳交,Hand in the report by Friday.,請在星期五前交報告。
+118,工作,hand over,交接；移交,Please hand over the keys to the next shift.,請把鑰匙交接給下一班。
+119,工作,take over,接手,I'll take over from here.,接下來由我接手。
+120,工作,catch up,趕上進度,I need to catch up on my emails.,我需要把累積的郵件處理完。
+121,工作,catch up with,跟上；敘舊；交流近況,Let's catch up with the team later.,我們晚點跟團隊同步一下。
+122,工作,fill out,填寫（表格）,Please fill out this form.,請填寫這張表格。
+123,工作,sign up,報名；註冊,I signed up for the English class.,我報名了英文課。
+124,工作,log in,登入,I can't log in to the system.,我無法登入系統。
+125,工作,log out,登出,Remember to log out.,記得登出。
+126,工作,back up,備份；支援,Back up your files every week.,每週備份你的檔案。
+127,工作,reach out to,主動聯絡,Feel free to reach out to me.,有需要隨時聯絡我。
+128,工作,get in touch with,和…聯絡,I'll get in touch with the vendor.,我會跟廠商聯絡。
+129,工作,keep in mind,記住,Keep in mind that safety comes first.,記住安全第一。
+130,工作,keep me posted,隨時告訴我最新狀況,Please keep me posted.,請隨時告訴我最新狀況。
+131,工作,keep an eye on,留意；盯著,Keep an eye on the temperature.,留意溫度。
+132,工作,on behalf of,代表,I'm writing on behalf of our team.,我代表我們團隊來信。
+133,工作,in charge of,負責,Who is in charge of this area?,誰負責這個區域？
+134,工作,be responsible for,對…負責,Who will be responsible for the backup tapes?,誰要負責備份磁帶？
+135,工作,as of today,從今天起；截至今天,"As of today, the system is normal.",截至今天，系統正常。
+136,工作,in advance,事先,Please let me know in advance.,請事先告訴我。
+137,工作,on schedule,按進度,The project is on schedule.,專案進度正常。
+138,工作,behind schedule,進度落後,We are behind schedule.,我們進度落後了。
+139,工作,ahead of schedule,進度超前,We finished ahead of schedule.,我們提前完成了。
+140,工作,at the moment,目前,He is busy at the moment.,他目前在忙。
+141,工作,so far,到目前為止,"So far, so good.",到目前為止一切順利。
+142,工作,in the meantime,在此期間,"In the meantime, please wait here.",在此期間，請在這裡等候。
+143,工作,for your reference,供你參考,I attached the file for your reference.,附上檔案供你參考。
+144,工作,for your information,供你知悉（FYI）,"For your information, the meeting has been moved to Friday.",供你知悉，會議已經改到星期五了。
+145,工作,please find attached,請參閱附件,Please find attached the latest report.,請參閱附件中的最新報告。
+146,工作,let me know,告訴我,Let me know if you have any questions.,有任何問題請告訴我。
+147,工作,on my way,在路上了,I'm on my way.,我在路上了。
+148,工作,on leave,休假中,She is on leave this week.,她這週休假。
+149,工作,on call,待命；值班待命,I'm on call this weekend.,我這週末待命。
+150,工作,out of office,不在辦公室,I'll be out of office tomorrow.,我明天不在辦公室。
+151,工作,get started,開始,Let's get started.,我們開始吧。
+152,工作,wrap up,結束；收尾,Let's wrap up the meeting.,我們來結束會議吧。
+153,工作,sum up,總結,"To sum up, the test passed.",總結來說，測試通過了。
+154,工作,double-check,再次確認,Please double-check the numbers.,請再次確認數字。
+155,工作,on the same page,看法一致,Let's make sure we're on the same page.,我們確認一下大家的理解一致。
+156,工作,take notes,做筆記,I'll take notes in the meeting.,我會在會議上做筆記。
+157,工作,take action,採取行動,We need to take action now.,我們現在需要採取行動。
+158,工作,ask around,到處問問,I'll ask around and let you know.,我到處問問看，再告訴你。
+159,工作,fill someone in,告訴某人最新情況,Can you fill me in on the meeting?,你可以跟我說會議的情況嗎？
+160,工作,run late,延誤；比預定晚,The meeting is running late.,會議比預定時間晚了。
+161,工作,by the end of the day,今天下班前,I'll send it by the end of the day.,我今天下班前會寄出。
+162,工作,first thing tomorrow,明天一早,I'll do it first thing tomorrow.,我明天一早就做。
+163,工作,get approval,取得核准,We need to get approval first.,我們需要先取得核准。
+164,工作,raise a concern,提出疑慮,He raised a concern about safety.,他提出了安全上的疑慮。
+165,工作,point of contact,聯絡窗口,Who is the point of contact?,聯絡窗口是誰？
+166,工作,action item,待辦事項,Please update your action items.,請更新你的待辦事項。
+167,工作,due date,截止日期,What is the due date?,截止日期是哪天？
+168,工作,lessons learned,經驗教訓,Let's share the lessons learned.,我們來分享經驗教訓。
+169,CE 現場,shut down,停機；關閉,We need to shut down the unit.,我們需要讓機組停機。
+170,CE 現場,start up,啟動,Start up the backup pump.,啟動備用泵浦。
+171,CE 現場,power off,斷電；關機,Power off the server first.,先把伺服器關機。
+172,CE 現場,power on,開機；送電,Power on the unit after the check.,檢查完畢後再送電。
+173,CE 現場,switch over,切換,We will switch over to the generator.,我們將切換到發電機。
+174,CE 現場,switch back,切換回來,Switch back to utility power.,切換回市電。
+175,CE 現場,cut off,切斷,The power was cut off.,電源被切斷了。
+176,CE 現場,trip out,跳脫,The breaker tripped out.,斷路器跳脫了。
+177,CE 現場,kick in,開始運作；啟動,The generator kicked in after ten seconds.,發電機在十秒後啟動。
+178,CE 現場,come back online,恢復上線,When will the email server come back online?,郵件伺服器什麼時候會恢復上線？
+179,CE 現場,go offline,離線,Some servers will go offline during tonight's maintenance.,今晚維護期間，有些伺服器會離線。
+180,CE 現場,back online,已恢復上線,The server is back online.,伺服器已恢復上線。
+181,CE 現場,in service,運轉中；可用,The chiller is in service.,冰水主機正在運轉。
+182,CE 現場,out of service,停用；故障停機,The pump is out of service.,泵浦已停用。
+183,CE 現場,out of order,故障,The elevator is out of order.,電梯故障了。
+184,CE 現場,under maintenance,保養中,The unit is under maintenance.,機組正在保養。
+185,CE 現場,on standby,待機；備用,The second pump is on standby.,第二台泵浦處於備用狀態。
+186,CE 現場,in auto mode,在自動模式,The fans are in auto mode.,風扇在自動模式。
+187,CE 現場,in manual mode,在手動模式,The valve is in manual mode.,閥門在手動模式。
+188,CE 現場,lock out,上鎖（LOTO）,Lock out the breaker before work.,作業前先把斷路器上鎖。
+189,CE 現場,tag out,掛牌（LOTO）,Tag out the panel.,在配電盤上掛牌。
+190,CE 現場,test for voltage,驗電,Test for voltage before you touch it.,碰觸前先驗電。
+191,CE 現場,isolate the equipment,隔離設備,Isolate the equipment first.,先隔離設備。
+192,CE 現場,bleed off pressure,洩壓,Bleed off the pressure before opening.,打開前先洩壓。
+193,CE 現場,check for leaks,檢查漏點,Check for leaks after the repair.,修理後檢查有無洩漏。
+194,CE 現場,top up,補充；加滿,Top up the coolant.,補充冷卻液。
+195,CE 現場,clean out,清理（內部）,Clean out the drain.,清理排水管。
+196,CE 現場,tighten up,鎖緊,Tighten up the bolts.,把螺栓鎖緊。
+197,CE 現場,read out,讀出；報讀數,Can you read out the value?,你可以把數值唸出來嗎？
+198,CE 現場,write down,寫下,Write down the reading.,把讀數寫下來。
+199,CE 現場,log the reading,記錄讀數,Log the reading every hour.,每小時記錄讀數。
+200,CE 現場,raise a ticket,開工單,Please raise a ticket for this issue.,請為這個問題開一張工單。
+201,CE 現場,close out,結案,We can close out the ticket.,我們可以把這張工單結案了。
+202,CE 現場,escalate to,升級通報給,Escalate the issue to the manager.,把問題升級通報給經理。
+203,CE 現場,call out,呼叫（廠商）出勤,We need to call out the vendor.,我們需要叫廠商來現場。
+204,CE 現場,stand by,待命,Please stand by for the next step.,請待命，等候下一步。
+205,CE 現場,on site,在現場,The vendor is on site.,廠商已在現場。
+206,CE 現場,on duty,值班中,Who is on duty tonight?,今晚誰值班？
+207,CE 現場,shift handover,交接班,The shift handover is at eight.,八點交接班。
+208,CE 現場,walk down,巡檢；逐項確認,Let's walk down the system.,我們來逐項巡檢系統。
+209,CE 現場,do a walkthrough,現場巡視,We will do a walkthrough after the work.,作業後我們會做一次現場巡視。
+210,CE 現場,root cause,根本原因,We found the root cause.,我們找到了根本原因。
+211,CE 現場,false alarm,誤報,It was a false alarm.,那是一個誤報。
+212,CE 現場,no impact,沒有影響,There is no impact on the load.,對負載沒有影響。
+213,CE 現場,back to normal,恢復正常,Everything is back to normal.,一切恢復正常。
+214,CE 現場,up and running,正常運轉中,The system is up and running.,系統已正常運轉。
+215,CE 現場,in progress,進行中,The repair is in progress.,維修正在進行中。
+216,CE 現場,on hold,暫停；等待中,The work is on hold.,工作暫停中。
+217,CE 現場,pending approval,等待核准,The change is pending approval.,變更正在等待核准。
+218,CE 現場,safety first,安全第一,"Remember, safety first.",記住，安全第一。
+219,CE 現場,stop work,停止作業,Anyone can stop work if it is unsafe.,只要不安全，任何人都可以停止作業。
+220,CE 現場,clear the area,清空區域,Please clear the area.,請清空該區域。
+221,CE 現場,evacuate the building,疏散大樓,Evacuate the building now.,立即疏散大樓。
+222,CE 現場,assembly point,集合點,Go to the assembly point.,前往集合點。
+223,CE 現場,first aid,急救,Where is the first aid kit?,急救箱在哪裡？
+224,CE 現場,wear PPE,穿戴個人防護具,Wear PPE in the mechanical room.,在機房內要穿戴個人防護具。
+225,CE 現場,watch your step,小心腳步,Watch your step. The floor is wet.,小心腳步，地板很濕。
+226,CE 現場,keep clear,保持淨空,Keep clear of the exit.,保持出口淨空。
+227,CE 現場,run a test,進行測試,We will run a test on the generator.,我們將對發電機進行測試。
+228,CE 現場,set point,設定值,What is the set point?,設定值是多少？
+229,CE 現場,within range,在範圍內,The values are within range.,數值在範圍內。
+230,CE 現場,out of range,超出範圍,The pressure is out of range.,壓力超出範圍。
+231,Email／會議,I hope this email finds you well,希望你一切安好（信件開頭）,"Hi team, I hope this email finds you well.",大家好，希望各位一切安好。
+232,Email／會議,Thank you for your email,謝謝你的來信,Thank you for your email about the fire alarm test next week.,謝謝你來信提到下週火警警報測試的事。
+233,Email／會議,I'm writing to,來信是為了…,I'm writing to request site access for two vendor engineers next Monday.,來信是想替兩位廠商工程師申請下週一的進場許可。
+234,Email／會議,with regard to,關於；有關,"With regard to the RFC, the change window is Saturday night.",關於這份 RFC，變更時段是星期六晚上。
+235,Email／會議,Just a friendly reminder,友善提醒,Just a friendly reminder that all vendors must be escorted on site.,友善提醒，所有廠商在現場都必須有人全程陪同。
+236,Email／會議,Please note that,請注意,Please note that PDU-3B must be locked out and tagged out before any work.,請注意，任何作業開始前，PDU-3B 都必須先上鎖掛牌。
+237,Email／會議,I've attached,我已附上,I've attached the updated MOP for the UPS-2A battery replacement.,我已附上 UPS-2A 電池更換的最新版 MOP。
+238,Email／會議,I forgot to attach,我忘了附上（檔案）,"Sorry, I forgot to attach the vendor's quote to my last email.",抱歉，我上一封信忘了附上廠商的報價單。
+239,Email／會議,for your review,供你審閱,Here is the draft RFC for your review before Friday's meeting.,這是 RFC 草稿，供你在星期五開會前審閱。
+240,Email／會議,Could you please confirm,可以請你確認…嗎？,Could you please confirm the vendor's arrival time on Monday?,可以請你確認廠商星期一的抵達時間嗎？
+241,Email／會議,at your earliest convenience,在你方便時盡快,Please approve the PTW request at your earliest convenience.,請在你方便時盡快核准這份 PTW 申請。
+242,Email／會議,I would appreciate it if,如果…我會很感激,I would appreciate it if you could review the MOP by Thursday.,如果你能在星期四前審閱這份 MOP，我會很感激。
+243,Email／會議,Would it be possible to,有沒有可能…？,Would it be possible to move the ATS-1 test to next week?,有沒有可能把 ATS-1 的測試改到下週？
+244,Email／會議,as discussed,如同先前討論的,"As discussed, the vendor will replace the AHU-5 fan motor on Monday.",如同先前討論的，廠商會在星期一更換 AHU-5 的風扇馬達。
+245,Email／會議,Just to confirm,跟你確認一下,"Just to confirm, are we still doing the MSB-1 shutdown on Saturday?",跟你確認一下，我們星期六還是會進行 MSB-1 停電作業嗎？
+246,Email／會議,Any updates on,…有任何新進度嗎？,Any updates on the replacement parts for CHWP-02?,CHWP-02 的替換零件有任何新進度嗎？
+247,Email／會議,hear back from,收到（某人的）回覆,I'll let you know as soon as I hear back from the vendor.,我一收到廠商的回覆，就會告訴你。
+248,Email／會議,I'll keep you posted,我會隨時跟你更新進度,I'll keep you posted on the Generator 3 repair.,發電機 3 號的維修進度，我會隨時跟你更新。
+249,Email／會議,Sorry for the late reply,抱歉這麼晚回覆,"Sorry for the late reply, as I was on the night shift all week.",抱歉這麼晚回覆，因為我這整週都上夜班。
+250,Email／會議,Thank you for your patience,感謝你耐心等候,Thank you for your patience while we wait for the spare parts.,我們還在等備品，感謝你耐心等候。
+251,Email／會議,We apologize for any inconvenience,造成不便，敬請見諒,We apologize for any inconvenience the loading dock closure may cause.,卸貨區暫停使用，如造成任何不便，敬請見諒。
+252,Email／會議,Please disregard,請忽略（先前的內容）,Please disregard my last email because the WO number was wrong.,請忽略我上一封信，因為工單號碼寫錯了。
+253,Email／會議,cc me on,寄副本給我,Please cc me on your reply to the vendor.,你回覆廠商時，請把副本寄給我。
+254,Email／會議,If you have any questions,如果你有任何問題,"If you have any questions about the new MOP, please contact the FOC.",如果你對新的 MOP 有任何問題，請聯絡 FOC。
+255,Email／會議,Please don't hesitate to,請不用客氣，隨時…,Please don't hesitate to call me if the vendor needs anything else.,如果廠商還需要什麼，請隨時打電話給我，不用客氣。
+256,Email／會議,Do you have a minute,你有空一下嗎？,Do you have a minute to talk about the water leak alarm?,你有空跟我談一下那個漏水警報嗎？
+257,Email／會議,Quick question,問一下；問個小問題,"Quick question, who is escorting the vendor at TWDC today?",問一下，今天在 TWDC 是誰負責陪同廠商？
+258,Email／會議,ping me,傳訊息給我；敲我一下,Ping me when the vendor arrives at the front gate.,廠商到大門時，傳個訊息給我。
+259,Email／會議,Thanks for the heads-up,謝謝你事先提醒,Thanks for the heads-up about the ATS-1 test tomorrow morning.,謝謝你事先提醒我明天早上要做 ATS-1 測試。
+260,Email／會議,I'm on it,我馬上處理,I'm on it and will update the IcM ticket in ten minutes.,我馬上處理，十分鐘內會更新 IcM 事件單。
+261,Email／會議,Sounds good to me,我覺得可以,"Sounds good to me, so I'll tell the vendor to come on Friday.",我覺得可以，那我就請廠商星期五過來。
+262,Email／會議,on another call,正在講另一通電話,"I'm on another call, so please send me a message instead.",我正在講另一通電話，請改傳訊息給我。
+263,Email／會議,call you back,回電給你,"I'm in a meeting right now, so let me call you back after lunch.",我現在在開會，午餐後再回電給你。
+264,Email／會議,I missed your call,我漏接了你的電話,"Sorry, I missed your call because I was in the generator room.",抱歉，我剛才在發電機房，所以漏接了你的電話。
+265,Email／會議,take a message,幫忙留言,"He's doing his rounds right now, but can I take a message?",他現在正在巡檢，需要我幫你留言給他嗎？
+266,Email／會議,kick off,開始；開場,Let's kick off the meeting with a quick safety moment.,我們先做個簡短的安全分享，作為會議的開場。
+267,Email／會議,Thank you all for coming,謝謝大家前來,Thank you all for coming to the quarterly maintenance review.,謝謝大家來參加這次的季度維護檢討會議。
+268,Email／會議,The purpose of this meeting is,這次會議的目的是…,The purpose of this meeting is to plan next month's generator load test.,這次會議的目的是規劃下個月的發電機負載測試。
+269,Email／會議,on the agenda,在議程上,The first item on the agenda is the chiller plant upgrade.,議程上的第一項是冰水主機房的升級工程。
+270,Email／會議,Let's move on to,我們接著進行…,"Let's move on to the next item, the fire drill schedule.",我們接著看下一項：消防演練的時程。
+271,Email／會議,stick to the agenda,照著議程進行,Let's stick to the agenda so we can finish by eleven.,我們照著議程進行，這樣才能在十一點前結束。
+272,Email／會議,short on time,時間不太夠,"We're short on time, so please keep your updates brief.",我們時間不太夠，請大家報告時簡短一點。
+273,Email／會議,Here's a quick update,簡單報告一下最新進度,Here's a quick update on the cooling tower cleaning.,簡單報告一下冷卻水塔清洗的最新進度。
+274,Email／會議,on track,照計畫進行；進度正常,The PDU-3B upgrade is still on track for next Friday.,PDU-3B 的升級工程仍照計畫進行，預計下週五完成。
+275,Email／會議,making good progress,有不錯的進展,We're making good progress on the AHU-5 filter replacement.,AHU-5 的濾網更換工作有不錯的進展。
+276,Email／會議,The good news is,好消息是…,The good news is that MSB-1 passed its annual inspection.,好消息是 MSB-1 通過了年度檢查。
+277,Email／會議,Could you repeat that,可以請你再說一次嗎？,"Sorry, could you repeat that so I can write down the WO number?",抱歉，可以請你再說一次，讓我把工單號碼記下來嗎？
+278,Email／會議,What do you mean by,你說的…是什麼意思？,What do you mean by a partial load test?,你說的部分負載測試是什麼意思？
+279,Email／會議,Could you clarify,可以請你說明清楚嗎？,Could you clarify who will sign the PTW for this job?,可以請你說明一下，這項工作的 PTW 由誰簽核嗎？
+280,Email／會議,If I understand correctly,如果我沒理解錯的話,"If I understand correctly, the RFC still needs two approvals.",如果我沒理解錯，這份 RFC 還需要兩個人核准。
+281,Email／會議,walk us through,帶我們逐步了解,Can you walk us through the steps in the new MOP?,你可以帶我們逐步看一遍新 MOP 的步驟嗎？
+282,Email／會議,Any thoughts on,對…有什麼想法嗎？,Any thoughts on the new shift handover checklist?,大家對新的交接班檢查表有什麼想法嗎？
+283,Email／會議,That's a good point,說得很有道理,"That's a good point, and we should add it to the MOP.",說得很有道理，我們應該把它加進 MOP。
+284,Email／會議,I couldn't agree more,我完全同意,I couldn't agree more that safety comes before the schedule.,我完全同意，安全比時程更重要。
+285,Email／會議,I see your point,我懂你的意思（但…）,"I see your point, but the MOP still requires a peer check.",我懂你的意思，但 MOP 還是要求要做同儕確認。
+286,Email／會議,I'm not so sure,我不太確定（委婉表示疑慮）,I'm not so sure we can finish the work before noon.,我不太確定我們能在中午前完成這項工作。
+287,Email／會議,I'm afraid I have to disagree,恐怕我無法同意,"I'm afraid I have to disagree, because skipping the LOTO step isn't safe.",恐怕我無法同意，因為略過 LOTO 步驟並不安全。
+288,Email／會議,Let's take this offline,這件事會後再私下討論,Let's take this offline and discuss the budget after the meeting.,預算的事，我們會後再另外討論。
+289,Email／會議,take the lead on,負責主導,Can you take the lead on the CHWP-02 pump repair?,你可以負責主導 CHWP-02 泵浦的維修嗎？
+290,Email／會議,next steps,下一步；後續步驟,"Before we leave, let's agree on the next steps.",離開前，我們先確定下一步要做什麼。
+291,Email／會議,touch base,聯絡一下；碰個頭,Let's touch base again on Thursday about the cable tray issue.,我們星期四再碰個頭，談談電纜架的問題。
+292,Email／會議,meeting minutes,會議紀錄,I'll send out the meeting minutes by tomorrow morning.,我會在明天早上前寄出會議紀錄。
+293,Email／會議,Is there anything else,還有其他事嗎？,Is there anything else we need to discuss before we finish?,結束前，還有其他需要討論的事嗎？
+294,Email／會議,That's all for today,今天就到這裡,"That's all for today, and thank you for your hard work!",今天就到這裡，謝謝大家的辛勞！
+295,Email／會議,same time next week,下週同一時間,Let's meet again at the same time next week.,我們下週同一時間再開會。
+296,Email／會議,Can everyone hear me,大家聽得到我的聲音嗎？,"Before I start, can everyone hear me clearly?",開始之前，大家都聽得清楚我的聲音嗎？
+297,Email／會議,You're on mute,你現在是靜音,"I think you're on mute, so we can't hear your update.",你好像還在靜音，我們聽不到你的報告。
+298,Email／會議,unmute yourself,取消靜音,Please unmute yourself when it's your turn to give an update.,輪到你報告時，請取消靜音。
+299,Email／會議,background noise,背景噪音,"There's a lot of background noise, so please mute your mic.",背景噪音很大，請把你的麥克風靜音。
+300,Email／會議,Let me share my screen,我來分享螢幕,Let me share my screen and show you the alarm trend.,我來分享螢幕，讓大家看看警報趨勢圖。
+301,Email／會議,Can you see my screen,你們看得到我的螢幕嗎？,"Can you see my screen, or is it still loading?",你們看得到我的螢幕了嗎，還是還在載入中？
+302,Email／會議,stop sharing,停止分享（螢幕）,I'll stop sharing now so the vendor can present the test results.,我現在停止分享，換廠商報告測試結果。
+303,Email／會議,You're breaking up,你的聲音斷斷續續的,"You're breaking up, so please say the last number again.",你的聲音斷斷續續的，請再說一次最後那個數字。
+304,Email／會議,I'm having trouble connecting,我連線有問題,"I'm having trouble connecting, so I'll dial in by phone instead.",我連線有點問題，所以改用電話撥入。
+305,Email／會議,I got disconnected,我斷線了,"Sorry, I got disconnected during your update on the UPS-2A alarm.",抱歉，你在報告 UPS-2A 警報時我斷線了。
+306,Email／會議,Sorry for joining late,抱歉晚加入會議,"Sorry for joining late, but the shift handover took longer than expected.",抱歉這麼晚才進會議，交接班花的時間比預期久。
+307,Email／會議,Did I miss anything,我有錯過什麼嗎？,"I just joined, so did I miss anything important?",我剛加入，有錯過什麼重要的事嗎？
+308,Email／會議,Let's give it a few more minutes,我們再等幾分鐘,Let's give it a few more minutes for the vendor to join.,我們再等幾分鐘，讓廠商加入會議。
+309,Email／會議,in the chat,在聊天室裡,Please type your questions in the chat during the presentation.,簡報進行時，請把問題打在聊天室裡。
+310,Email／會議,speak up,說大聲一點,Could you please speak up a little because we can barely hear you?,我們幾乎聽不到你的聲音，可以請你稍微大聲一點嗎？

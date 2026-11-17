@@ -1,0 +1,106 @@
+﻿id,root,origin,meaning_zh,meaning_en,examples,breakdown,tip
+rt001,act / ag,拉丁文,做；行動,"do, act",react（反應）、action（行動；動作）、active（活躍的；啟用中的）、actual（實際的）、agent（代理人；仲介）、transaction（交易）,react：re（回）＋ act（做）→ 做出回應 → 反應,
+rt002,aud,拉丁文,聽,hear,audience（觀眾；聽眾）、audio（音訊）、audit（稽核）、auditorium（禮堂；演講廳）,audience：aud（聽）＋ -ience（名詞）→ 在聽的人 → 聽眾、觀眾,
+rt003,auto,希臘文,自己,self,automatic（自動的）、automatically（自動地）、automobile（汽車）,automatic：auto（自己）＋ matic（會動的）→ 自己會動的 → 自動的,
+rt004,cad / cid / cas,拉丁文,落下；發生,"fall, happen",incident（事件）、accident（意外；事故）、occasion（場合）、casual（休閒的）、occasional（偶爾的）,incident：in（在…上）＋ cid（落下）→ 落到身上的事 → 事件；事故,decide 的 cid 是「切」（cid / cis），和這個字根長得很像。
+rt005,cap / cept / ceive,拉丁文,拿；抓,"take, seize",accept（接受）、receive（收到）、capture（捕捉）、capacity（容量）、concept（概念）、participate（參與（動詞）；參加）,accept：ac（＝ad 向）＋ cept（拿）→ 拿過來 → 接受,participate ＝ part（部分）＋ cip（拿）→ 拿一部分 → 參與。
+rt006,ced / ceed / cess,拉丁文,走；前進；讓步,"go, yield",proceed（繼續進行）、process（流程；程序）、procedure（程序）、access（存取；進入；通道）、exceed（超過；超出）、necessary（必要的）,proceed：pro（向前）＋ ceed（走）→ 往前走 → 繼續進行,necessary ＝ ne（不）＋ cess（讓步）→ 不能讓步的 → 必要的。
+rt007,cert,拉丁文,確定,sure,certify（認證；證明；發證書給）、certain（確定的；某些）、certificate（證書）、certainly（當然；確定）、uncertain（不確定的）、certification（認證；證照）,certify：cert（確定）＋ -ify（使）→ 使確定 → 證明；認證,
+rt008,chron,希臘文,時間,time,synchronize（同步；同步併聯）、chronic（慢性的）、chronological（按時間順序的）,synchronize：syn（一起）＋ chron（時間）＋ -ize（使）→ 使時間一致 → 同步,sync 是 synchronize 的簡稱。
+rt009,cid / cis,拉丁文,切,cut,decide（決定）、decision（決定）、precise（精確的）、concise（簡潔的；簡明的）、precision（精確）,decide：de（離開）＋ cid（切）→ 把其他選項切掉 → 決定,accident、incident 的 cid 是「落下」（cad / cid / cas），不是「切」。
+rt010,circ / circum,拉丁文,圓；環繞,"circle, around",circuit（電路；迴路）、circle（圓圈）、circulate（循環；流通；傳閱）、circular（圓形的）、circumstance（情況；環境）、circulation（循環）,circuit：circu（＝circum 環繞）＋ it（走）→ 繞一圈 → 電路；迴路,circuit breaker ＝ 斷路器。
+rt011,clud / clus / clos,拉丁文,關閉,"shut, close",include（包括（動詞）；包含）、exclude（排除；不包括）、conclude（結束；斷定；下結論）、conclusion（結論）、close（關閉；接近的）、enclose（隨函附上；圍住）,include：in（在裡面）＋ clud（關）→ 關在裡面 → 包括,
+rt012,cogn / gnos,拉丁文、希臘文,知道；認識,know,recognize（認出）、recognition（認可）、diagnose（診斷）、diagnosis（診斷）、cognitive（認知的）、diagnostic（診斷的；故障診斷）,recognize：re（再）＋ cogn（知道）＋ -ize → 再次認得 → 認出；承認,
+rt013,cred,拉丁文,相信,believe,incredible（難以置信的）、credit（信用；功勞；學分）、credential（憑證；資格證明（credentials 也指帳號密碼））、credibility（可信度；信譽）,incredible：in（不）＋ cred（相信）＋ -ible（可以…的）→ 不能相信的 → 難以置信的,credential ＝ 證明身分的憑證（登入帳號、證書）。
+rt014,cur / curr / curs,拉丁文,跑；流動,run,occur（發生）、current（目前的；電流）、course（課程；路線（of course 當然））、currency（貨幣）、occurrence（發生；事件）、recur（再發生；重複出現）,occur：oc（＝ob 朝向）＋ cur（跑）→ 跑到眼前 → 發生,cure、secure 的 cur 是「照顧」（cure / cur），不是「跑」。
+rt015,cure / cur,拉丁文,照顧；關心,care,secure（安全的；固定）、security（安全；保全）、cure（治癒）、accurate（準確的）、curious（好奇的）、accuracy（準確度）,secure：se（沒有）＋ cur（擔心、照顧）→ 不用擔心的 → 安全的,current、occur 的 cur 是「跑」（cur / curr / curs）。
+rt016,cycl,希臘文,圓；循環,"circle, wheel",recycle（回收）、cycle（循環；騎腳踏車）、bicycle（腳踏車）,recycle：re（再）＋ cycl（循環）→ 再循環 → 回收,power cycle ＝ 斷電再重新開機。
+rt017,dict / dic,拉丁文,說,say,predict（預測）、dictionary（字典）、contradict（與…矛盾；反駁）、indicate（指示；表示）、indicator（指示燈；指標）、prediction（預測）,predict：pre（事先）＋ dict（說）→ 事先說出 → 預測,indicator（指示燈）也是這個字根。
+rt018,duc / duct,拉丁文,引導；帶領,lead,introduce（介紹（動詞））、conduct（進行；行為）、produce（生產；產生）、product（產品）、reduce（減少）、duct（風管）,introduce：intro（向內）＋ duc（引導）→ 帶進來 → 介紹；引進,duct（風管）就是「引導」空氣的管子。
+rt019,electr,希臘文,電,electric,electrician（電工；電氣技術人員）、electric（電的）、electrical（電氣的）、electricity（電）、electronic（電子的）、electronics（電子產品）,electrician：electr（電）＋ -ician（專業人員）→ 電工；電氣技術員,來自希臘文「琥珀」：古人發現摩擦琥珀會產生靜電。
+rt020,equ / equi,拉丁文,相等,equal,equivalent（相等的）、equal（相等的）、equation（方程式）、adequate（足夠的）、equality（平等）、equally（平均地）,equivalent：equi（相等）＋ val（價值）＋ -ent → 價值相等的 → 相當的；等值的,equipment（設備）不是這個字根：它來自法文的「裝備」，和 equal 無關。
+rt021,fac / fact / fect / fic,拉丁文,做；製造,"make, do",factory（工廠）、fact（事實）、effect（效果；影響）、efficient（高效率的）、facility（設施；廠區）、manufacture（製造）,factory：fact（做）＋ -ory（場所）→ 製造東西的地方 → 工廠,office（辦公室）、facility（設施）也是這個字根。
+rt022,fer,拉丁文,帶；運送,"carry, bring",transfer（轉移；切換）、refer（參考；提到）、offer（提供；提議；報價）、differ（不同）、prefer（偏好）、conference（會議（大型、正式）；研討會）,transfer：trans（越過）＋ fer（帶）→ 帶到另一邊 → 轉移；轉接,
+rt023,fid,拉丁文,信任,trust,confidential（機密的）、confident（有信心的）、confidence（信心）,confidential：con（加強）＋ fid（信任）＋ -ential → 只讓信任的人知道的 → 機密的,
+rt024,fin,拉丁文,結束；界限,"end, limit",define（定義）、final（最後的）、finish（完成；結束）、infinite（無限的；無窮的）、finance（財務）、definite（明確的；確定的）,define：de（加強）＋ fin（界限）→ 劃清界限 → 下定義,finance 也是：把債務「結束」掉 → 財務。
+rt025,flect / flex,拉丁文,彎曲,bend,reflect（反映；反射）、reflection（反射；反思）、flexible（有彈性的）、flexibility（彈性）,reflect：re（回）＋ flect（彎）→ 彎回去 → 反射；反映,
+rt026,flu / flux,拉丁文,流,flow,influence（影響；影響力）、fluid（液體）、fluent（流利的）、fluctuate（波動；起伏不定）、influential（有影響力的）、flu（流感）,influence：in（向內）＋ flu（流）＋ -ence → 流進來的力量 → 影響,
+rt027,form,拉丁文,形狀；形式,shape,transform（轉變）、transformer（變壓器）、format（格式）、information（資訊）、uniform（制服）、formula（公式）,transform：trans（轉變）＋ form（形狀）→ 改變形狀 → 轉換,perform（執行）不是這個字根（來自古法文 parfournir「完成」）。
+rt028,gen / gener,拉丁文、希臘文,產生；出生；種類,"produce, birth, kind",generator（發電機）、generate（產生）、general（一般的；整體的）、generation（世代；發電）、oxygen（氧氣）、hydrogen（氫）,generator：gener（產生）＋ -ator（機器）→ 產生電的機器 → 發電機,oxygen、hydrogen 的 -gen 也是「產生」：產生酸的東西、產生水的東西。
+rt029,grad / gress,拉丁文,步；等級,"step, grade",progress（進度；進步）、grade（等級；年級；成績）、graduate（畢業；畢業生）、upgrade（升級）、aggressive（有攻擊性的）、degree（度；學位）,progress：pro（向前）＋ gress（走）→ 往前走 → 進步；進度,degree（度；學位）也是這個字根：一步一步的等級。
+rt030,graph / gram,希臘文,寫；畫,"write, draw",paragraph（段落）、graph（圖表）、photograph（照片；拍照）、program（程式；計畫；節目）、diagram（圖表；示意圖）、grammar（文法）,paragraph：para（旁邊）＋ graph（寫）→ 寫在旁邊的記號 → 段落,program 原本是希臘文「事先寫好的公告」。
+rt031,hab / hib,拉丁文,擁有；拿住,"have, hold",prohibit（禁止）、habit（習慣）、exhibit（展覽品；展示）、exhibition（展覽）、inhabitant（居民）,prohibit：pro（在前面）＋ hib（拿住）→ 在前面擋住 → 禁止,
+rt032,hydr,希臘文,水,water,hydraulic（液壓的）、hydrogen（氫）、hydrant（消防栓）,hydraulic：hydr（水）＋ aul（管子）＋ -ic → 用水管傳動的 → 液壓的；水力的,fire hydrant ＝ 消防栓。
+rt033,ject,拉丁文,投；丟,throw,reject（拒絕）、project（專案；計畫）、object（物體）、subject（主題；科目）、projector（投影機）、injection（注射）,reject：re（回）＋ ject（丟）→ 丟回去 → 拒絕,projector（投影機）＝ 把影像丟到前面的機器。
+rt034,jud / jur / jus,拉丁文,法律；判斷,"law, judge",injury（受傷）、judge（法官；判斷）、justice（正義；公平）、justify（證明…合理）、jury（陪審團）、judgment（判斷）,injury：in（不）＋ jur（法律、權利）＋ -y → 不合法的傷害 → 傷害；受傷,adjust（調整）不是這個字根（來自拉丁文 juxta「靠近」）。
+rt035,lect / leg / lig,拉丁文,選；收集；讀,"choose, gather, read",collect（收集）、select（選擇）、elect（選舉）、lecture（講座；講課）、neglect（忽視；疏忽）、legend（傳奇；圖例）,collect：col（＝con 一起）＋ lect（收集）→ 收在一起 → 收集,legal、illegal 的 leg 是「法律」，不是這個字根。
+rt036,lev,拉丁文,舉起；輕,"lift, light",elevator（電梯）、relevant（相關的）、elevate（抬高；提升（地位、水準））、relieve（減輕；接替（交班））、leverage（善用；利用；槓桿作用）,elevator：e（＝ex 往上）＋ lev（舉起）＋ -ator（機器）→ 把人舉上去的機器 → 電梯,level（水平）不是這個字根（來自 libella「小天秤」）。
+rt037,loc,拉丁文,地方,place,allocate（分配；撥出）、local（本地的；現場的）、location（位置）、locate（找出…的位置；設於）、relocate（搬遷；遷移）、allocation（分配；配置（的量））,allocate：al（＝ad 向）＋ loc（地方）＋ -ate → 放到某個地方 → 分配,lock（鎖）不是這個字根。
+rt038,log / logy,希臘文,說話；學問,"word, study",technology（科技）、logic（邏輯）、biology（生物學）、apology（道歉）、dialogue（對話）、catalog（目錄；型錄；編目）,technology：techno（技術）＋ logy（學問）→ 科技,log（原木；紀錄檔 log file）是英文本來的字，不是這個字根。
+rt039,man / manu,拉丁文,手,hand,manual（手冊；手動的）、manufacture（製造）、manage（管理；設法）、management（管理）、maintain（維護；保持）、manufacturer（製造商；原廠）,manual：manu（手）＋ -al → 用手的 → 手動的；（拿在手上的）手冊,man（男人）是英文本來的字，不是這個字根。
+rt040,mand / mend,拉丁文,命令；交付,"order, entrust",mandatory（強制的）、command（指令；命令）、demand（需求；要求）、recommend（推薦；建議）、commander（指揮官）、recommendation（建議；推薦）,mandatory：mand（命令）＋ -atory（…的）→ 被命令要做的 → 強制的；必要的,
+rt041,medi,拉丁文,中間,middle,intermediate（中級的）、medium（中等的；媒介）、media（媒體）、immediate（立即的）、median（中位數）、immediately（立刻）,intermediate：inter（在…之間）＋ medi（中間）＋ -ate → 在中間的 → 中級的；中間的,medical、medicine 的 med 是「治療」（來自 medicus「醫生」），不是「中間」。
+rt042,mem / memor,拉丁文,記憶,remember,memorize（記住；背熟）、memory（記憶；記憶體）、memo（備忘錄；內部通知）、memorial（紀念碑）、remember（記得）、memorable（難忘的）,memorize：memor（記憶）＋ -ize（使）→ 記住；背起來,member（成員）不是這個字根。
+rt043,merg / mers,拉丁文,沉；浸,"sink, dip",emergency（緊急情況）、emerge（出現；浮現）、merge（合併；併入）、merger（合併）,emergency：e（＝ex 出）＋ merg（沉）＋ -ency → 從水裡冒出來的事 → 突發狀況；緊急情況,
+rt044,meter / metr,希臘文,測量,measure,thermometer（溫度計）、meter（公尺；儀表（電錶、水錶等））、parameter（參數）、diameter（直徑）、metric（指標；衡量標準）、kilometer（公里）,thermometer：thermo（熱）＋ meter（測量）→ 測量熱度的東西 → 溫度計,
+rt045,migr,拉丁文,遷移,"move, wander",migration（遷移；移轉）、immigrant（移民）、immigration（移民；入境）,migration：migr（遷移）＋ -ation → 遷移；（資料）移轉,data migration ＝ 資料移轉。
+rt046,min,拉丁文,小,small,minimize（減到最少；最小化）、minimum（最低）、minor（輕微的）、minute（分鐘）、minimal（最少的）、minority（少數）,minimize：mini（最小）＋ -ize（使）→ 使變到最小 → 減到最少；縮小視窗,mind、mine 不是這個字根。
+rt047,mis / mit,拉丁文,送；放出,"send, let go",transmit（傳送；傳輸；傳播）、mission（任務；使命）、submit（提交）、permit（許可證；允許）、admit（承認）、promise（承諾；保證）,transmit：trans（越過）＋ mit（送）→ 送到另一邊 → 傳送；傳輸,promise ＝ pro（向前）＋ mis（送）→ 先把話送出去 → 承諾。
+rt048,mob / mot / mov,拉丁文,動,move,remove（移除）、mobile（行動的；手機）、motor（馬達）、motion（動作；移動）、remote（遠端的；偏遠的）、promote（推廣；升職）,remove：re（離開）＋ mov（移動）→ 移走 → 移除,remote（遠端的；遙控器）也是：re（離開）＋ mot（移動）→ 移到很遠的地方。
+rt049,mon / monit,拉丁文,提醒；警告,"warn, remind",monitor（監控；螢幕）、monument（紀念碑；紀念性建築；古蹟）、monitoring（監控）,monitor：monit（提醒、警告）＋ -or（人、物）→ 提出警告的人或東西 → 監視器；監控,mono（單一）是希臘文，和這個字根不一樣。
+rt050,nat,拉丁文,出生,born,native（本地的；母語的）、nature（自然；本質）、natural（自然的）、nation（國家）、national（國家的）、international（國際的）,native：nat（出生）＋ -ive → 出生地的 → 本地的；母語的,
+rt051,nect / nex,拉丁文,綁；連結,"tie, bind",connect（連接）、connection（連接）、disconnect（斷開；切斷（電源、連線））、connector（連接器；接頭）,connect：con（一起）＋ nect（綁）→ 綁在一起 → 連接,
+rt052,norm,拉丁文,標準；規則,"rule, standard",abnormal（異常的）、normal（正常的）、normally（通常；正常地）、enormous（巨大的）、norm（常態；標準；規範）,abnormal：ab（偏離）＋ norm（標準）＋ -al → 偏離標準的 → 異常的,
+rt053,not,拉丁文,記號；知道,"mark, know",notify（通知）、note（筆記；注意）、notice（通知；注意到）、notable（值得注意的）、notebook（筆記本；筆記型電腦）,notify：not（記號、知道）＋ -ify（使）→ 使知道 → 通知,not（不）是英文本來的字，不是這個字根。
+rt054,nov,拉丁文,新的,new,innovation（創新）、novel（小說）、renovate（整修；翻新（動詞））、innovative（創新的）、renovation（整修；翻新（名詞））,innovation：in（在…裡）＋ nov（新）＋ -ation → 帶進新東西 → 創新,November 的 nov 是「九」（古羅馬曆的第九個月），不是這個字根。
+rt055,oper,拉丁文,工作,work,cooperate（合作；配合）、operate（操作；運轉）、operation（運轉；操作）、operator（操作員）、operational（運作中的）、cooperation（合作；配合）,cooperate：co（一起）＋ oper（工作）＋ -ate → 一起工作 → 合作,
+rt056,ord / ordin,拉丁文,順序；秩序,order,coordinate（協調；配合；座標）、order（順序；命令；訂購）、ordinary（普通的）、subordinate（部屬；下屬；次要的）、extraordinary（非凡的）、coordinator（協調人；統籌人員）,coordinate：co（一起）＋ ordin（順序）＋ -ate → 一起排好順序 → 協調,
+rt057,part,拉丁文,部分；分開,"part, divide",department（部門）、part（部分；零件）、partial（部分的）、particular（特定的；特別的）、apartment（公寓）、participate（參與（動詞）；參加）,department：de（離開）＋ part（分開）＋ -ment → 分出來的部分 → 部門,participate 同時有 part（部分）和 cip（拿）兩個字根。
+rt105,pel / puls,拉丁文,推；驅使,"drive, push",impeller（葉輪）、pulse（脈搏）、compelling（令人信服的）、compel（強迫；迫使）、expel（排出；驅逐）、impulse（衝動；衝擊）,impeller：im（＝in 向）＋ pel（推）＋ -er（物）→ 推動水或空氣的零件 → 葉輪,用 puls 的字多半是名詞、形容詞：compel → compulsory、impel → impulse。電機上的 pulse 是「脈衝」（如電錶的脈衝輸出）。
+rt058,pend / pens,拉丁文,懸掛；秤重；付錢,"hang, weigh, pay",depend（依賴；取決於）、pending（待定的）、suspend（暫停；懸掛；停職）、expensive（昂貴的）、compensate（補償；賠償；彌補）、spend（花費）,depend：de（向下）＋ pend（懸掛）→ 掛在…下面 → 依靠；取決於,spend（花費）也來自這個字根（拉丁文 expendere「付出去」）。
+rt059,phon,希臘文,聲音,sound,microphone（麥克風）、phone（電話）、telephone（電話）、smartphone（智慧型手機）,microphone：micro（小）＋ phon（聲音）→ 把小聲音變大的東西 → 麥克風,
+rt060,plic / ply,拉丁文,摺；重疊,fold,complicated（複雜的）、apply（申請；套用）、reply（回覆）、multiply（乘；（使）增加）、explicit（明確的）、imply（暗示；意味著）,complicated：com（一起）＋ plic（摺）＋ -ated → 摺在一起的 → 複雜的,supply 不是這個字根（來自 supplere「補滿」）。
+rt061,pon / pos / pound,拉丁文,放置,"put, place",component（元件）、position（位置；職位）、compose（組成；撰寫；作曲）、deposit（押金；存款）、expose（暴露）、postpone（延後；延期）,component：com（一起）＋ pon（放）＋ -ent → 放在一起組成的東西 → 零件；元件,postpone 的 post 是「之後」，pon 才是「放」：放到之後 → 延期。
+rt062,port,拉丁文,搬運,carry,portable（可攜式的）、transport（運輸；運送）、export（匯出；出口）、import（匯入；進口）、report（報告；回報）、support（支援；支持）,portable：port（搬運）＋ -able（可以…的）→ 可以搬著走的 → 可攜式的,airport、passport、opportunity 的 port 是「港口」（portus），不是「搬運」。
+rt063,press,拉丁文,壓,press,compressor（壓縮機）、pressure（壓力）、express（表達；快速的）、impress（使印象深刻；使佩服）、depress（使沮喪；按下（按鈕、卡榫））、expression（表情；用語）,compressor：com（一起）＋ press（壓）＋ -or（機器）→ 把東西壓在一起的機器 → 壓縮機,
+rt064,prim / prin,拉丁文,第一；最重要,first,primary（主要的；初級的；一次側的）、prime（主要的；首要的）、principal（校長；主要的）、principle（原則）、primarily（主要地）、prince（王子）,primary：prim（第一）＋ -ary → 第一的 → 主要的；初級的,print（列印）不是這個字根，它和 press（壓）同源。
+rt065,quer / quir / quest,拉丁文,問；尋求,"ask, seek",require（需要）、question（問題；疑問（要回答的））、request（請求；申請）、inquire（詢問；查詢）、acquire（獲得）、requirement（要求）,require：re（再）＋ quir（尋求）→ 一再要求 → 需要；要求,
+rt066,rect / reg,拉丁文,直；統治；規則,"straight, rule",correct（正確的；修正）、direct（直接的）、director（主任；導演）、regular（定期的；一般的）、region（地區）、regulate（調節；管制）,correct：cor（＝con 完全）＋ rect（直）→ 完全弄直 → 改正；正確的,
+rt067,rupt,拉丁文,破裂,break,interrupt（打斷；中斷）、disrupt（打亂；中斷）、corrupt（貪腐的；損壞的）、bankrupt（破產的（go bankrupt 破產））,interrupt：inter（在…之間）＋ rupt（破）→ 從中間打斷 → 中斷,UPS（uninterruptible power supply 不斷電系統）的 interruptible 也是這個字根。
+rt068,sci,拉丁文,知道,know,conscious（有意識的）、science（科學）、scientist（科學家）、scientific（科學的）、conscience（良心）、unconscious（失去意識的；昏迷的；無意識的）,conscious：con（完全）＋ sci（知道）＋ -ous → 完全知道的 → 意識到的；清醒的,
+rt069,scrib / script,拉丁文,寫,write,describe（描述）、description（描述；說明）、subscribe（訂閱（動詞）；訂購）、prescription（處方）、script（腳本；劇本）、subscription（訂閱（名詞）；訂閱費）,describe：de（向下）＋ scrib（寫）→ 寫下來 → 描述,
+rt070,sect / seg,拉丁文,切,cut,section（部分；區段）、sector（部門；產業）、segment（段；部分）、insect（昆蟲）、intersection（十字路口）,section：sect（切）＋ -ion → 切下來的一塊 → 部分；區段,
+rt071,sens / sent,拉丁文,感覺,feel,sensor（感測器）、sense（感覺；意義）、sensitive（敏感的）、consent（同意）、sentence（句子）、sensible（明智的）,sensor：sens（感覺）＋ -or（物）→ 感覺東西的裝置 → 感測器,present、absent 的 sent 來自 esse「存在」，不是「感覺」。
+rt072,sequ / secu,拉丁文,跟隨,follow,consequence（後果）、sequence（順序）、subsequent（隨後的）、consecutive（連續的；接連的（如連續三天））、second（第二；秒）、consequently（因此；結果）,consequence：con（一起）＋ sequ（跟隨）＋ -ence → 隨之而來的事 → 後果,second（第二；秒）也是這個字根：跟在第一個後面。
+rt073,serv,拉丁文,服務；保存,"serve, keep",server（伺服器；服務生）、serve（服務；供應）、service（服務；維修）、reserve（預訂；備用）、preserve（保存）、observe（觀察）,server：serv（服務）＋ -er（人、機器）→ 提供服務的機器 → 伺服器,拉丁文有兩個來源：servire（服務：serve、server、service）和 servare（保存、看守：reserve、preserve、observe）。
+rt074,sign,拉丁文,記號,"mark, sign",signal（訊號）、sign（標誌；簽名）、signature（簽名）、design（設計）、assign（指派；分配）、significant（重大的；顯著的）,signal：sign（記號）＋ -al → 用來當記號的東西 → 訊號,
+rt075,simil / simul / sembl,拉丁文,相像；同時,"like, at the same time",simulation（模擬）、similar（相似的）、assemble（組裝；集合）、resemble（相像；類似）、similarity（相似之處；相似性）、assembly（組裝；集會）,simulation：simul（相像）＋ -ation → 做得和真的很像 → 模擬,assemble（組裝）＝ as（＝ad 向）＋ sembl（一起）→ 放到一起。
+rt076,sist / sta / stat,拉丁文,站立,stand,resist（抵抗）、status（狀態）、station（站；車站）、stable（穩定的；穩固的）、constant（持續的；恆定的）、assist（協助）,resist：re（反）＋ sist（站）→ 站著對抗 → 抵抗,resistor（電阻）＝ 抵抗電流的元件。
+rt077,solv / solut,拉丁文,鬆開；解開,"loosen, free",solution（解決方法）、solve（解決）、resolve（解決）、absolute（絕對的）、resolution（解析度；解決；決心；決議）,solution：solut（解開）＋ -ion → 解開的方法 → 解決辦法；溶液,
+rt078,spec / spect / spic,拉丁文,看,"look, see",inspect（檢查；巡檢）、inspection（檢查（名詞）；檢驗）、respect（尊重）、expect（預期）、special（特別的）、specific（特定的；具體的）,inspect：in（往裡面）＋ spect（看）→ 往裡面仔細看 → 檢查,special、specific 也是：讓人一眼看得出來的 → 特別的、特定的。
+rt079,spir,拉丁文,呼吸,breathe,expire（到期；過期；失效）、spirit（精神）、inspire（激勵；啟發）、inspiration（靈感）、respirator（呼吸防護具）、expiration（到期；期滿（expiration date 有效期限））,expire：ex（出）＋ (s)pir（呼吸）→ 吐出最後一口氣 → 到期；失效,respirator（呼吸防護具）也是這個字根。
+rt080,spond / spons,拉丁文,承諾；回應,"promise, answer",respond（回應）、response（回應；應變）、responsible（負責的）、correspond（符合；通信）、sponsor（贊助）、responsibility（責任）,respond：re（回）＋ spond（承諾）→ 回頭給承諾 → 回應；回答,emergency response ＝ 緊急應變。
+rt081,struct / stru,拉丁文,建造,build,construct（建造）、structure（結構）、construction（施工；建築）、instruct（指示；教導）、instrument（儀器；樂器）、infrastructure（基礎設施）,construct：con（一起）＋ struct（建造）→ 把材料放在一起蓋起來 → 建造,infrastructure ＝ 基礎設施。
+rt082,sume / sumpt,拉丁文,拿；使用,"take, use",consume（消耗）、assume（假設；以為）、consumption（消耗量）、resume（繼續；履歷）、presume（假定；推測）、assumption（假設）,consume：con（完全）＋ sume（拿、用）→ 全部用掉 → 消耗,sum（總和）不是這個字根。
+rt083,tact / tang,拉丁文,碰觸,touch,contact（聯絡；聯絡人）、contactor（接觸器）、intact（完好的）、tangible（具體的；有形的）,contact：con（一起）＋ tact（碰觸）→ 碰在一起 → 接觸；聯絡,contactor ＝ 電磁接觸器：讓接點碰在一起的開關。
+rt084,tain / ten / tin,拉丁文,拿住；保持,hold,maintain（維護；保持）、maintenance（維護；保養）、contain（包含）、obtain（取得）、continue（繼續）、sustain（維持；承受；遭受（損傷））,maintain：main（＝manu 手）＋ tain（拿住）→ 用手握住 → 維持；維修保養,maintenance（維護）也是：main（手）＋ ten（拿住）＋ -ance。
+rt085,techn,希臘文,技術,"art, skill",technician（技術員；技師）、technology（科技）、technical（技術的）、technique（技巧）、technological（科技的）、technically（技術上；嚴格來說）,technician：techn（技術）＋ -ician（專業人員）→ 技術員,
+rt086,tect,拉丁文,遮蓋,cover,detect（偵測（動詞）；察覺）、detector（偵測器）、protect（保護）、protection（保護）、protective（保護的）、detection（偵測（名詞）；檢測）,detect：de（去除）＋ tect（遮蓋）→ 把遮蓋拿掉 → 發現；偵測,smoke detector ＝ 煙霧偵測器。
+rt087,tele,希臘文,遠,far,telephone（電話）、television（電視）、telecommunication（電信；遠距通訊）,telephone：tele（遠）＋ phone（聲音）→ 把聲音傳到遠方 → 電話,
+rt088,tend / tens / tent,拉丁文,伸展,stretch,extend（延長）、extension（延長；分機）、attend（出席）、intend（打算）、tension（張力；緊張）、intense（強烈的）,extend：ex（向外）＋ tend（伸展）→ 往外伸 → 延長；延伸,extension cord ＝ 延長線。
+rt089,term / termin,拉丁文,界限；結束,"end, limit",terminal（端子；航廈）、term（術語；期限）、terminate（終止；結束；解僱）、determine（判定；決定）、termination（終止；解約；（電纜）端接）、determination（決心）,terminal：termin（界限、終點）＋ -al → 終點的 → 終點站；（電線的）端子,
+rt090,therm,希臘文,熱,heat,thermostat（溫控器）、thermal（熱的）、thermometer（溫度計）,thermostat：thermo（熱）＋ stat（固定）→ 讓溫度保持固定的裝置 → 溫度調節器,
+rt091,tract,拉丁文,拉,"pull, draw",contract（合約）、contractor（承包商）、attract（吸引）、extract（提取）、distract（使分心）、subtract（減去；扣除）,contract：con（一起）＋ tract（拉）→ 拉在一起 → 收縮；（雙方說好的）合約,contractor（承包商；廠商）＝ 簽合約的人。
+rt092,trib,拉丁文,給；分配,"give, assign",distribute（分配；分發；配送）、distribution（配電；分配）、contribute（貢獻（動詞））、attribute（歸因；屬性）、contribution（貢獻（名詞））、distributor（經銷商；批發商）,distribute：dis（分開）＋ trib（給）→ 分給大家 → 分配；配送,power distribution unit（PDU）＝ 配電單元。
+rt093,uni,拉丁文,一,one,uniform（制服）、unit（單位；機組）、unique（獨特的）、universe（宇宙）、unite（團結；聯合）、union（工會；聯盟）,uniform：uni（一）＋ form（形狀）→ 同一個樣子 → 制服；一致的,community（社區）的 uni 不是「一」，它來自 munis（公共的）。
+rt094,us / ut,拉丁文,使用,use,utility（公用事業（水、電、瓦斯））、use（使用（動詞）；用途（名詞））、usual（平常的）、utilize（利用；使用（較正式））、abuse（虐待；濫用）、usage（使用量）,utility：util（有用的）＋ -ity → 有用的東西 → 公用事業（水、電）,utility power ＝ 市電（電力公司供應的電）。
+rt095,vac / van / void,拉丁文,空,empty,evacuate（疏散；撤離）、vacant（空著的；（職位）空缺的）、vacation（假期）、vacuum（吸塵器；真空）、evacuation（疏散）、void（無效的）,evacuate：e（＝ex 出）＋ vacu（空）＋ -ate → 清空 → 疏散；撤離,
+rt096,val / vail,拉丁文,價值；強壯,"worth, strong",available（可用的；有空的）、value（價值；數值）、valid（有效的）、evaluate（評估；評價（如成效））、equivalent（相等的）、valuable（有價值的）,available：a（＝ad 向）＋ vail（有價值、有用）＋ -able → 可以用的 → 可用的；有空的,
+rt097,ven / vent,拉丁文,來,come,prevent（預防）、event（事件；活動）、invent（發明；捏造）、convention（大會；慣例）、venue（場地）、convenient（方便的（時間、地點））,prevent：pre（事先）＋ vent（來）→ 搶先來擋住 → 預防,ventilation（通風）的 vent 是「風」（ventus），不是「來」。
+rt098,ver,拉丁文,真的,true,verify（確認；驗證）、very（非常）、verdict（判決）,verify：ver（真的）＋ -ify（使）→ 確認是真的 → 驗證；確認,very 也是這個字根：原本是「真正地」。
+rt099,vers / vert,拉丁文,轉,turn,convert（轉換（動詞））、reverse（倒轉；相反的；反向）、version（版本）、vertical（垂直的）、inverter（變頻器；逆變器）、universe（宇宙）,convert：con（完全）＋ vert（轉）→ 完全轉過來 → 轉換,converter（轉換器）、inverter（逆變器）都是這個字根：把電轉成另一種形式。
+rt100,via / vey / voy,拉丁文,路,"way, road",previous（先前的）、via（經由）、convey（傳達；轉達；運送）、obvious（明顯的）、conveyor（輸送帶；輸送機）,previous：pre（之前）＋ vi（路）＋ -ous → 走在前面的 → 先前的,via ＝ 經由。
+rt101,vid / vis,拉丁文,看,see,supervise（監督；管理）、supervisor（主管；督導；上司）、video（影片）、vision（視力；願景）、evidence（證據）、provide（提供）,supervise：super（在上面）＋ vis（看）→ 從上面看 → 監督,supervisor（主管）＝ 從上面看的人。
+rt102,vit / viv,拉丁文,生命；活,"life, live",survive（存活）、vital（極其重要的）、vitamin（維他命）、survival（生存）,survive：sur（超過）＋ viv（活）→ 活過（危險）→ 存活,
+rt103,voc / vok,拉丁文,喊叫；聲音,"call, voice",advocate（擁護者；提倡）、vocal（聲音的；直言的）、vocabulary（字彙；詞彙）,advocate：ad（向）＋ voc（叫）＋ -ate → 被叫來幫忙說話的人 → 擁護者；提倡,
+rt104,volv / volu,拉丁文,捲；轉,"roll, turn",involve（涉及；讓…參與）、evolve（演變）、revolution（革命）、evolution（演化）、volume（音量；容量）、involvement（參與（名詞）；投入；牽涉）,involve：in（向內）＋ volv（捲）→ 捲進來 → 牽涉；包含,volume 原本是「一捲書」→ 一冊 → 量、音量；volt（伏特）來自人名 Volta，不是這個字根。

@@ -1,0 +1,7 @@
+﻿類別,項目,內容
+新內容,V6.7.0 🌱 新增字根 pel / puls,"拉丁文 pellere「推、驅使」（drive, push；過去分詞 pulsus）。例字：字庫裡的 impeller（葉輪，CE 專業字）、pulse（脈搏）、compelling（令人信服的），字庫外的 compel（強迫；迫使）、expel（排出；驅逐）、impulse（衝動；衝擊）。拆解：impeller：im（＝in 向）＋ pel（推）＋ -er（物）→ 推動水或空氣的零件 → 葉輪。提醒：用 puls 的字多半是名詞、形容詞（compel → compulsory、impel → impulse）；電機上的 pulse 是「脈衝」（如電錶的脈衝輸出）。"
+新內容,V6.7.0 字根 104 → 105 個,pel / puls 依字母順序排在 part 和 pend / pens 之間。單字卡翻面後 impeller、pulse、compelling 顯示「🌱 字根」；字根頁（例字、例句發音、💬 念例句、🃏 例字卡片）、搜尋、字根測驗（四種題型、新字根先看說明）、建議學習順序、複習排程都包含 pel。
+資料,V6.7.0 編號不變,新字根用新編號 rt105，插在字母順序的位置；原本 104 個字根的編號（rt001～rt104）都不變，已記住的字根和複習排程照常。word_roots.csv 同樣的位置加上 pel / puls。
+測試,V6.7.0 p39（61 → 71 項）、p38（53 項）,p39 加 K 段：pel 的資料與位置、舊編號不變、word_roots.csv 和 App 一致、單字卡的字根（pel、puls）、字根頁（6 個例字標出字根、例句、💬 念例句）、搜尋（pel、葉輪、impulse、驅使）、字根測驗四種題型（每題只有一個正確答案）、新字根先看說明。p38、p39 的字根數改成 105（NR），p38 的編號檢查改成「舊編號照順序、新字根用新編號插在字母順序的位置」。
+工具,V6.7.0 新增字根的工具,root_add.py：檢查新字根（例字是字庫裡的原形、字庫外例字、標得出字根、拆解、Big5、沒有簡體用語），用新編號插在字母順序的位置，同時更新 data-more.js、word_roots.csv 和 app.js 註解的字根數。
+版本,V6.7.0,APP_VERSION、#appVer、sw.js 快取名稱 english-5000-v6-7-0；data-more.js 有改，DATA_FILES 的 SHA-1 跟著更新（手機只重新下載程式檔和 data-more.js）。學習紀錄格式不變。

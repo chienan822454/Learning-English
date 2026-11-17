@@ -1,0 +1,12 @@
+const {serve,launch,sleep,R,ok,fs}=require('./common');let ROOT='old';const srv=serve(()=>ROOT,8767);
+(async()=>{const b=await launch();const ctx=await b.newContext();const pg=await ctx.newPage();const errs=[];pg.on('pageerror',e=>errs.push(e.message));
+await pg.goto('http://localhost:8767/');await sleep(1500);await pg.reload();await sleep(800);
+await pg.evaluate(()=>{const s=JSON.parse(localStorage.getItem('english5000v5')||'{}');s.fav=['c1'];s.known=['c2'];s.wordFav=['go','color'];s.wordKnown=['be'];s.reviewDue={child:'2026-10-25'};s.settings=Object.assign(s.settings||{},{dailyGoal:30});localStorage.setItem('english5000v5',JSON.stringify(s))});
+const before=await pg.evaluate(()=>localStorage.getItem('english5000v5'));const v1=await pg.textContent('.vbadge');
+ROOT='site';await pg.reload();await sleep(3500);await pg.reload();await sleep(1500);
+const v2=await pg.textContent('.vbadge');const keys=await pg.evaluate(()=>caches.keys());const after=JSON.parse(await pg.evaluate(()=>localStorage.getItem('english5000v5')));const b4=JSON.parse(before);
+ok('V5.15 → V5.16 升版後顯示新版',v1==='V5.15'&&v2===process.env.VER,v1+' → '+v2);
+ok('舊快取清除（只留新版程式快取＋字庫快取）',keys.includes(process.env.CACHE)&&keys.filter(k=>k!==process.env.CACHE).every(k=>k.startsWith('english-5000-data-'))&&keys.length<=2,JSON.stringify(keys));
+ok('學習紀錄保留（收藏、已會說、單字收藏、已熟、複習日期、每日目標）',JSON.stringify([after.fav,after.known,after.wordFav,after.wordKnown,after.reviewDue,after.settings.dailyGoal])===JSON.stringify([b4.fav,b4.known,b4.wordFav,b4.wordKnown,b4.reviewDue,b4.settings.dailyGoal]));
+ok('升版過程沒有 JavaScript 錯誤',errs.length===0,errs.join(';'));
+fs.writeFileSync('results_upg.json',JSON.stringify(R,null,1));await b.close();srv.close()})().catch(e=>{console.error(e);process.exit(1)});

@@ -1,0 +1,109 @@
+# English 5000 自動測試：每次上傳到 main（或手動按 Run workflow）時，用 Chromium 跑完全部自動測試。
+# 測試分成 4 組同時跑（tests/shards.txt），全部通過才算通過。
+# 結果會顯示在 GitHub 的提交紀錄旁（✅ 通過／❌ 失敗），詳細結果可在 Actions 頁面下載（test-results）。
+# GitHub 只保留最新版本：全部測試通過後，自動刪除舊版本留下的執行紀錄和網站部署紀錄（cleanup）。
+name: 自動測試
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: tests-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: 測試（第 ${{ matrix.shard }} 組）
+    # 固定 Ubuntu 24.04（ubuntu-latest 會自動換成新版系統，可能讓測試環境突然改變）
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [1, 2, 3, 4]
+    steps:
+      - name: 取得程式
+        uses: actions/checkout@v7
+
+      - name: 安裝 Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          package-manager-cache: false
+
+      - name: 安裝 Playwright 與 Chromium
+        working-directory: tests
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+
+      - name: 準備舊版本（升版測試用：V5.15 與 V5.16.20）
+        run: |
+          mkdir -p tests/old tests/prev
+          # 兩個舊版本的程式檔都放在 tests/fixtures（不需要讀取版本紀錄）
+          unzip -q tests/fixtures/old_V5.15.zip -d tests/old
+          unzip -q tests/fixtures/prev_V5.16.20.zip -d tests/prev
+
+      - name: 執行這一組測試
+        env:
+          SHARD: ${{ matrix.shard }}
+        run: |
+          mkdir -p /tmp/site
+          # data*.js：data.js、data-ex.js、data-ex2.js、data-more.js
+          cp index.html app.js data*.js styles.css sw.js manifest.webmanifest /tmp/site/
+          cp icon* /tmp/site/ 2>/dev/null || true
+          VER="V$(grep -o "APP_VERSION='[^']*'" app.js | cut -d"'" -f2)"
+          CACHE="english-5000-v$(echo "${VER#V}" | tr . -)"
+          echo "版本 $VER，快取 $CACHE"
+          bash tests/runall.sh /tmp/site "$VER" "$CACHE"
+
+      - name: 上傳測試結果
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: test-results-${{ matrix.shard }}
+          path: /tmp/res_*.txt
+          retention-days: 14
+
+  cleanup:
+    # GitHub 只保留最新版本：4 組測試全部通過後，刪除舊版本的執行紀錄；
+    # 這一版的網站已經部署成功時，也刪除舊版本的網站部署紀錄（網站本身不受影響）。
+    # 清除失敗不影響測試結果（continue-on-error）。
+    needs: test
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      actions: write
+      deployments: write
+    steps:
+      - name: 清除舊版本的執行紀錄和部署紀錄
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          SHA: ${{ github.sha }}
+        run: |
+          runs=0; deps=0; skip=""
+          for id in $(gh api --paginate "repos/$REPO/actions/runs?per_page=100" --jq ".workflow_runs[] | select(.head_sha != \"$SHA\" and .status == \"completed\") | .id"); do
+            gh api -X DELETE "repos/$REPO/actions/runs/$id" >/dev/null 2>&1 && runs=$((runs+1))
+          done
+          cur=$(gh api "repos/$REPO/deployments?sha=$SHA&per_page=1" --jq '.[0].id // empty')
+          state=""
+          [ -n "$cur" ] && state=$(gh api "repos/$REPO/deployments/$cur/statuses?per_page=1" --jq '.[0].state // empty')
+          if [ "$state" = "success" ]; then
+            for id in $(gh api --paginate "repos/$REPO/deployments?per_page=100" --jq ".[] | select(.sha != \"$SHA\") | .id"); do
+              # GitHub Pages 的舊部署紀錄一直是「使用中」，要先改成「不使用」才能刪除（網站用的是這一版的部署，不受影響）
+              gh api -X POST "repos/$REPO/deployments/$id/statuses" -f state=inactive >/dev/null 2>&1
+              gh api -X DELETE "repos/$REPO/deployments/$id" >/dev/null 2>&1 && deps=$((deps+1))
+            done
+          else
+            skip="（這一版的網站部署還沒完成，部署紀錄下次再清）"
+          fi
+          echo "::notice title=清除舊紀錄::刪除 $runs 筆舊的執行紀錄、$deps 筆舊的部署紀錄$skip"

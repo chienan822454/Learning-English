@@ -1,0 +1,13 @@
+const {serve,launch,sleep,R,ok,fs}=require('./common');const srv=serve(()=>'site',8799);
+(async()=>{const b=await launch();const pg=await (await b.newContext()).newPage();const errs=[];pg.on('pageerror',e=>errs.push(e.message));
+await pg.addInitScript(()=>{speechSynthesis.speak=u=>setTimeout(()=>u.onend&&u.onend(),20)});
+await pg.goto('http://localhost:8799/');await sleep(1000);
+const r=await pg.evaluate(()=>{const bad=[];WORDS.forEach(x=>{if(!/<mark>/.test(hl(x)))bad.push(x.w)});return {bad,ex:['sprain','bury','sip','UPS'].map(w=>hl(BY_WORD[w])),inf:[hl({w:'sprain',ex:'I sprained my ankle.'}),hl({w:'bury',ex:'The cable is buried here.'}),hl({w:'sip',ex:'She sipped her tea.'})]}});
+ok('每個單字的例句都能標出單字',r.bad.length===0,r.bad.length+' 筆');
+ok('例句標示正確（原形與變化形：sprain／sprained、bury／buried、sip／sipped、UPS）',r.ex[0].includes('<mark>sprain</mark>')&&r.ex[1].includes('<mark>bury</mark>')&&r.ex[2].includes('<mark>sip</mark>')&&r.ex[3].includes('<mark>UPS</mark>')&&r.inf[0].includes('<mark>sprained</mark>')&&r.inf[1].includes('<mark>buried</mark>')&&r.inf[2].includes('<mark>sipped</mark>'),JSON.stringify(r.ex.slice(0,3)));
+await pg.click('#navQuiz');await pg.selectOption('#quizMode','cloze');await pg.evaluate(()=>{const p=quizPool();const k=p.findIndex(x=>x.w==='sprain');const o=Math.random;let f=true;Math.random=()=>{if(f){f=false;return k/p.length+1e-9}return o()};wordQuiz();Math.random=o});await sleep(200);
+const q=await pg.textContent('#quizQ');ok('例句填空 sprain：題目不含答案',/_____/.test(q)&&!/sprain/i.test(q),q.slice(0,40));
+await pg.selectOption('#quizBook','7');await pg.selectOption('#quizMode','dict');await pg.evaluate(()=>{const p=quizPool();const k=p.findIndex(x=>x.w==='UPS');const o=Math.random;let f=true;Math.random=()=>{if(f){f=false;return k/p.length+1e-9}return o()};wordQuiz();Math.random=o});await sleep(300);
+await pg.fill('#dictIn','ups');await pg.click('#dictGo');await sleep(200);ok('聽寫縮寫：輸入 ups 判定正確',/答對/.test(await pg.textContent('#quizMsg')));
+ok('沒有 JavaScript 錯誤',errs.length===0,errs.join(';'));
+fs.writeFileSync('results_cloze.json',JSON.stringify(R,null,1));await b.close();srv.close()})().catch(e=>{console.error(e);process.exit(1)});

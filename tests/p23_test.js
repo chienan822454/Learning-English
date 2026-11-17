@@ -1,0 +1,42 @@
+// V5.31.0：新增 10 段 EOP 演練對話（d61–d70）與對話用到的 CE 專業字；檢查沒有機敏或可辨識的資料
+const {serve,launch,sleep,R,ok,fs,dataCounts}=require('./common');const srv=serve(()=>'site',8892);
+(async()=>{const b=await launch();
+const stub=()=>{window.__said=[];speechSynthesis.speak=u=>{window.__said.push(u.text);setTimeout(()=>u.onend&&u.onend(),20)};speechSynthesis.cancel=()=>{}};
+const ctx=await b.newContext({viewport:{width:390,height:844},permissions:['microphone']});await ctx.addInitScript(stub);const pg=await ctx.newPage();const errs=[];pg.on('pageerror',e=>errs.push(e.message));pg.on('dialog',d=>d.accept().catch(()=>{}));
+const E=(f,a)=>pg.evaluate(f,a);
+await pg.goto('http://localhost:8892/');await sleep(900);await pg.waitForFunction(()=>typeof EX_READY!=='undefined'&&EX_READY,null,{timeout:15000}).catch(()=>{});
+ok('版本號 '+process.env.VER,(await pg.textContent('#appVer')).includes(process.env.VER)&&('V'+await E(()=>APP_VERSION))===process.env.VER);
+const DC=dataCounts();
+const N=await E(()=>{const nd=DIALOGS.filter(d=>+d.id.slice(1)>60&&+d.id.slice(1)<=70);return {n:DIALOGS.length,nd:nd.length,ids:nd.map(d=>d.id).join(','),title:nd.every(d=>/^EOP 演練：/.test(d.t)&&/^EOP Drill: /.test(d.te)),fmt:nd.every(d=>d.lines.length===12&&d.desc&&/（你）/.test(d.roles.B)&&d.lines.every(l=>(l.s==='A'||l.s==='B')&&l.en&&l.zh)),keys:nd.every(d=>d.keys.length>=5&&d.keys.length<=6&&d.keys.every(k=>d.lines.some(l=>l.en.includes(k.en)))),photo:nd.every(d=>d.lines.every(l=>!/photo|picture|camera|video/i.test(l.en))),dup:(()=>{const c={};DIALOGS.forEach(d=>d.lines.forEach(l=>c[l.en]=(c[l.en]||0)+1));return nd.reduce((s,d)=>s+d.lines.filter(l=>c[l.en]>1).length,0)})(),titles:nd.map(d=>d.t.replace('EOP 演練：',''))}});
+ok('情境對話 '+(N.n-10)+' → '+N.n+' 段（新增 EOP 演練 d61–d70），標題「EOP 演練：…」，每段 12 句、B 是你的角色',N.n===DC.dn&&N.nd===10&&N.ids==='d61,d62,d63,d64,d65,d66,d67,d68,d69,d70'&&N.title&&N.fmt,JSON.stringify({n:N.n,ids:N.ids}));
+ok('EOP 演練主題：火警、市電中斷、ATS 未切換、發電機、MSB、UPS、PDU、溫濕度、漏水、補給水',N.titles.length===10&&/火警/.test(N.titles[0])&&/市電/.test(N.titles[1])&&/ATS/.test(N.titles[2])&&/發電機/.test(N.titles[3])&&/MSB/.test(N.titles[4])&&/UPS/.test(N.titles[5])&&/PDU/.test(N.titles[6])&&/溫|濕/.test(N.titles[7])&&/漏水/.test(N.titles[8])&&/補給水|補水/.test(N.titles[9]),N.titles.join('、'));
+ok('重點句型都出現在對話裡（5–6 個）；沒有拍照內容；沒有和其他對話重複的句子',N.keys&&N.photo&&N.dup===0,JSON.stringify({keys:N.keys,photo:N.photo,dup:N.dup}));
+/* 機敏資料：新對話不放電話、Email、人名、地名、公司名稱；地點只用 TWDC */
+const S=await E(()=>{const nd=DIALOGS.filter(d=>+d.id.slice(1)>60&&+d.id.slice(1)<=70);const t=JSON.stringify(nd);
+ const ph=(t.match(/(\+\d{1,3}[\s-]?)?\(?\d{2,4}\)?[\s-]?\d{3,4}[\s-]?\d{3,4}/g)||[]).filter(x=>x.replace(/\D/g,'').length>=8);
+ const em=t.match(/[\w.+-]+@[\w-]+\.[\w.]+/g)||[];
+ const place=t.match(/Taipei|Taoyuan|Hsinchu|Taichung|Kaohsiung|台北|臺北|桃園|新竹|台中|臺中|高雄/gi)||[];
+ const co=t.match(/Microsoft|Azure|insurance company|保險公司/gi)||[];
+ const site=new RegExp(atob('VFBFWyAtXT8wPzM='),'i').test(t);
+ return {ph,em,place,co,site}});
+ok('沒有機敏或可辨識的資料：電話、Email、地名、公司名稱、原本的機房代號都沒有',!S.ph.length&&!S.em.length&&!S.place.length&&!S.co.length&&!S.site,JSON.stringify(S));
+// 對話頁
+await pg.click('#navDialogs');await sleep(300);if(await pg.$('#dlgBack'))await pg.click('#dlgBack');
+const L=await E(()=>({cards:document.querySelectorAll('.dlg-card').length,stat:(document.querySelector('#dialogBody .word-stats')||{}).textContent||''}));
+ok('對話頁列出 '+DC.dn+' 個情境（共 '+DC.dl+' 句）',L.cards===DC.dn&&new RegExp('/ '+DC.dn).test(L.stat)&&new RegExp(String(DC.dl)).test(L.stat),JSON.stringify(L));
+await pg.click('.dlg-card[data-d="d61"]');await sleep(300);
+const D1=await E(()=>({t:$('#dialogBody .dlg-title').textContent,lines:document.querySelectorAll('#dialogBody .dlg-line').length,keys:document.querySelectorAll('#dialogBody .dlg-key').length}));
+await pg.click('#dialogBody .dlg-btns button[data-play="0"]');await sleep(150);
+const said=await E(()=>window.__said.slice(-1)[0]),first=await E(()=>DLG_BY.d61.lines[0].en);
+ok('打開 EOP 演練（d61）：12 句、重點句型都顯示，🔊 可以播放第一句',/EOP 演練/.test(D1.t)&&D1.lines===12&&D1.keys>=5&&said===first,JSON.stringify(D1));
+await E(()=>{const u=$('#unit');u.value='d70';u.onchange&&u.onchange()});await sleep(300);
+const U=await E(()=>({opt:!!document.querySelector('#unit option[value="d70"]'),n:pool.length,src:pool.every(s=>s.dlg==='d70')}));
+ok('句子頁可以選 EOP 演練（對話 61–70），每段 12 句可以跟讀',U.opt&&U.n===12&&U.src,JSON.stringify(U));
+await E(()=>rpStart(DLG_BY.d62,'B'));await sleep(800);
+const RPs=await E(()=>({on:RP.on,id:RP.d&&RP.d.id,me:RP.me,box:!$('#rpBox').hidden}));
+await E(()=>rpOff());await sleep(200);
+ok('EOP 演練可以 Role Play（d62 市電中斷，我演 B）',RPs.on&&RPs.id==='d62'&&RPs.me==='B'&&RPs.box,JSON.stringify(RPs));
+const C=await E(()=>{const nw=WORDS.filter(x=>x.k===7&&x.r>7646);const z={};WORDS.filter(x=>x.k===7).forEach(x=>z[x.zh]=(z[x.zh]||0)+1);return {n:nw.length,all:WORDS.filter(x=>x.k===7).length,ok:nw.every(x=>x.p&&x.zh&&x.ex&&x.exz&&x.t&&x.t.length&&x.ce===1),acr:nw.filter(x=>x.acr).every(x=>/（[A-Za-z].+）/.test(x.zh)),dupZh:Object.values(z).filter(v=>v>1).length,list:nw.map(x=>x.w)}});
+ok('EOP 演練用到的 CE 專業字 +'+C.n+'（共 '+C.all+' 個）：都有音標、中文、例句；縮寫附英文全名；中文不重複',C.ok&&C.acr&&C.dupZh===0,JSON.stringify(C).slice(0,300));
+ok('沒有 JavaScript 錯誤',errs.length===0,errs.join(' | '));
+fs.writeFileSync('results_p23.json',JSON.stringify(R,null,1));await b.close();srv.close()})().catch(e=>{console.error(e);process.exit(1)});
